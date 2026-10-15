@@ -1,0 +1,280 @@
+{
+  "expected_version": "0.8",
+  "models": {
+    "x5.kn5": {
+      "nodes": 171,
+      "triangles": 485229,
+      "textures": 56,
+      "materials": 54,
+      "generated_dds_full_mip_chains": 35,
+      "degenerate_faces": 0,
+      "reversed_normal_faces": 0,
+      "normal_mapped_meshes": 24,
+      "max_abs_normal_dot_tangent": 6.442860467359424e-08,
+      "bounds_min": [
+        -1.1372859477996826,
+        0.008048206567764282,
+        -2.494028091430664
+      ],
+      "bounds_max": [
+        1.1372631788253784,
+        1.7452579736709595,
+        2.623293876647949
+      ],
+      "paint_panel_topology": {
+        "triangles": 82489,
+        "welded_vertices": 45874,
+        "surface_area_m2": 12.402470779600549,
+        "boundary_edges": 10440,
+        "nonmanifold_edges": 1307,
+        "boundary_edges_per_triangle": 0.12656232952272425
+      },
+      "opaque_exterior_topology": {
+        "triangles": 272227,
+        "welded_vertices": 151051,
+        "surface_area_m2": 45.90967077741999,
+        "boundary_edges": 30480,
+        "nonmanifold_edges": 1309,
+        "boundary_edges_per_triangle": 0.11196538183207397
+      },
+      "lossless_binary_roundtrip": true,
+      "sha256": "673e33c8b5656d90dfa7ecfae6b2a412d77f143438d2a1366261160855ee1b4c"
+    },
+    "x5_lod_b.kn5": {
+      "nodes": 171,
+      "triangles": 130743,
+      "textures": 56,
+      "materials": 54,
+      "generated_dds_full_mip_chains": 35,
+      "degenerate_faces": 0,
+      "reversed_normal_faces": 0,
+      "normal_mapped_meshes": 18,
+      "max_abs_normal_dot_tangent": 6.379559636116028e-08,
+      "bounds_min": [
+        -1.1370753049850464,
+        0.007948189973831177,
+        -2.494077682495117
+      ],
+      "bounds_max": [
+        1.137052059173584,
+        1.7451080083847046,
+        2.6232290267944336
+      ],
+      "paint_panel_topology": {
+        "triangles": 25381,
+        "welded_vertices": 17320,
+        "surface_area_m2": 12.318191047713803,
+        "boundary_edges": 10440,
+        "nonmanifold_edges": 1307,
+        "boundary_edges_per_triangle": 0.41133131082305663,
+        "area_ratio_to_highest_lod": 0.9932046014552707
+      },
+      "opaque_exterior_topology": {
+        "triangles": 73809,
+        "welded_vertices": 51860,
+        "surface_area_m2": 45.75856183386877,
+        "boundary_edges": 30480,
+        "nonmanifold_edges": 1307,
+        "boundary_edges_per_triangle": 0.41295776937771816,
+        "area_ratio_to_highest_lod": 0.99670855963477
+      },
+      "lossless_binary_roundtrip": true,
+      "sha256": "16a7b338a0d291496a82b107d11c143e0d7ad274260b29437496829219885ca1"
+    },
+    "x5_lod_c.kn5": {
+      "nodes": 171,
+      "triangles": 74881,
+      "textures": 56,
+      "materials": 54,
+      "generated_dds_full_mip_chains": 35,
+      "degenerate_faces": 0,
+      "reversed_normal_faces": 0,
+      "normal_mapped_meshes": 18,
+      "max_abs_normal_dot_tangent": 6.379559636116028e-08,
+      "bounds_min": [
+        -1.140393853187561,
+        0.007948189973831177,
+        -2.5352325439453125
+      ],
+      "bounds_max": [
+        1.1371949911117554,
+        1.739615797996521,
+        2.6236815452575684
+      ],
+      "paint_panel_topology": {
+        "triangles": 17387,
+        "welded_vertices": 13323,
+        "surface_area_m2": 12.520308196043723,
+        "boundary_edges": 10440,
+        "nonmanifold_edges": 1307,
+        "boundary_edges_per_triangle": 0.6004486110312303,
+        "area_ratio_to_highest_lod": 1.0095011242950875
+      },
+      "opaque_exterior_topology": {
+        "triangles": 40119,
+        "welded_vertices": 35015,
+        "surface_area_m2": 43.908062952537904,
+        "boundary_edges": 30480,
+        "nonmanifold_edges": 1307,
+        "boundary_edges_per_triangle": 0.7597397741718388,
+        "area_ratio_to_highest_lod": 0.9564011723240989
+      },
+      "lossless_binary_roundtrip": true,
+      "sha256": "b3a21d099339de071550ec290efc07fc1203609a6d3f9a0933d88a4d77654c06"
+    },
+    "x5_lod_d.kn5": {
+      "nodes": 171,
+      "triangles": 72781,
+      "textures": 56,
+      "materials": 54,
+      "generated_dds_full_mip_chains": 35,
+      "degenerate_faces": 0,
+      "reversed_normal_faces": 0,
+      "normal_mapped_meshes": 18,
+      "max_abs_normal_dot_tangent": 6.379559636116028e-08,
+      "bounds_min": [
+        -1.140393853187561,
+        0.007948189973831177,
+        -2.5352325439453125
+      ],
+      "bounds_max": [
+        1.1371949911117554,
+        1.739615797996521,
+        2.628718137741089
+      ],
+      "paint_panel_topology": {
+        "triangles": 17387,
+        "welded_vertices": 13323,
+        "surface_area_m2": 12.520308196043723,
+        "boundary_edges": 10440,
+        "nonmanifold_edges": 1307,
+        "boundary_edges_per_triangle": 0.6004486110312303,
+        "area_ratio_to_highest_lod": 1.0095011242950875
+      },
+      "opaque_exterior_topology": {
+        "triangles": 39687,
+        "welded_vertices": 34799,
+        "surface_area_m2": 43.820952396337354,
+        "boundary_edges": 30480,
+        "nonmanifold_edges": 1307,
+        "boundary_edges_per_triangle": 0.7680096757124499,
+        "area_ratio_to_highest_lod": 0.9545037386303815
+      },
+      "lossless_binary_roundtrip": true,
+      "sha256": "e64759c558950c11f6d577dba80bacd3e305d4fc625758aef9cc91306db686a8"
+    }
+  },
+  "errors": [],
+  "warnings": [
+    "x5_lod_b.kn5: paint_panel_topology high boundary-edge ratio; inspect LOD silhouettes and seams",
+    "x5_lod_b.kn5: opaque_exterior_topology high boundary-edge ratio; inspect LOD silhouettes and seams",
+    "x5_lod_c.kn5: paint_panel_topology high boundary-edge ratio; inspect LOD silhouettes and seams",
+    "x5_lod_c.kn5: opaque_exterior_topology high boundary-edge ratio; inspect LOD silhouettes and seams",
+    "x5_lod_d.kn5: paint_panel_topology high boundary-edge ratio; inspect LOD silhouettes and seams",
+    "x5_lod_d.kn5: opaque_exterior_topology high boundary-edge ratio; inspect LOD silhouettes and seams",
+    "Preserved donor physics script requires signed ACI entitlement for online throttle; offline is enabled"
+  ],
+  "assetto_corsa_runtime_tested": false,
+  "runtime_checks_not_performed": [
+    "Assetto Corsa/Content Manager load and offline driving",
+    "CSP shader rendering, glass sorting, light switching and beams",
+    "Gauge direction/calibration under live telemetry",
+    "Driver hand alignment, steering input, mirror views and cockpit visibility",
+    "Replay/photo mode and actual LOD transition appearance",
+    "Sound playback and online entitlement/server compatibility"
+  ],
+  "collider": {
+    "nodes": 2,
+    "triangles": 214,
+    "textures": 0,
+    "materials": 1,
+    "generated_dds_full_mip_chains": 0,
+    "degenerate_faces": 0,
+    "reversed_normal_faces": 0,
+    "normal_mapped_meshes": 0,
+    "max_abs_normal_dot_tangent": 0.0,
+    "bounds_min": [
+      -0.9819519111799124,
+      0.2864273662336509,
+      -2.468715815561289
+    ],
+    "bounds_max": [
+      0.9819519111799124,
+      1.7367582069255256,
+      2.4817033788658627
+    ],
+    "paint_panel_topology": {
+      "triangles": 0,
+      "surface_area_m2": 0,
+      "boundary_edges": 0
+    },
+    "opaque_exterior_topology": {
+      "triangles": 0,
+      "surface_area_m2": 0,
+      "boundary_edges": 0
+    },
+    "lossless_binary_roundtrip": true,
+    "sha256": "0b7819a0efb56ee338b9df111bb85aa671f91aff474806f912373a1db2493b06"
+  },
+  "preservation": {
+    "byte_identical_data_files": 60,
+    "byte_identical_audio_files": 2,
+    "byte_identical_collision_meshes": 1,
+    "permitted_visual_data_changes": [
+      "data/mirrors.ini",
+      "data/car.ini",
+      "data/proview_nodes.ini",
+      "data/extra_animations.ini",
+      "data/lights.ini",
+      "data/analog_instruments.ini",
+      "data/digital_instruments.ini",
+      "data/dash_cam.ini",
+      "data/damage.ini"
+    ],
+    "engine_drivetrain_transmission_suspension_tyres_luts_and_physics_script_preserved": true
+  },
+  "configuration": {
+    "resolved_literal_mesh_material_references": 67,
+    "configured_driver_eye": [
+      0.431,
+      1.361272,
+      -0.096665
+    ],
+    "cluster_center": [
+      0.4309999942779541,
+      1.112999975681305,
+      0.7570000290870667
+    ],
+    "camera_bounds_plausible_but_runtime_visibility_unverified": true,
+    "animation_bindings": [
+      {
+        "path": "animations/shift_dw.ksanim",
+        "targets": 55,
+        "driver_targets": 55,
+        "matching_car_targets": 0,
+        "absent_car_targets": [],
+        "all_targets_absent_from_car": false,
+        "explicit_configuration_mention": false
+      },
+      {
+        "path": "animations/shift_up.ksanim",
+        "targets": 55,
+        "driver_targets": 55,
+        "matching_car_targets": 0,
+        "absent_car_targets": [],
+        "all_targets_absent_from_car": false,
+        "explicit_configuration_mention": false
+      },
+      {
+        "path": "animations/steer.ksanim",
+        "targets": 60,
+        "driver_targets": 60,
+        "matching_car_targets": 0,
+        "absent_car_targets": [],
+        "all_targets_absent_from_car": false,
+        "explicit_configuration_mention": true
+      }
+    ]
+  },
+  "status": "passed_offline_checks"
+}

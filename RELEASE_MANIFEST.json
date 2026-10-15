@@ -1,0 +1,10 @@
+{
+  "archive": "Toyota_RAV4_Blue_Flame_CARL_Complete_0.8.zip",
+  "bytes": 101883578,
+  "files": 119,
+  "sha256": "3fb3436b844781bcc03f6970073ebdc56fbd710151d5268345cffbd4347b2894",
+  "zip_crc": "passed",
+  "every_member_matches_final_car": true,
+  "offline_validation": "passed_offline_checks",
+  "assetto_corsa_runtime_tested": false
+}
