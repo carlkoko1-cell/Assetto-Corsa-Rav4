@@ -1,0 +1,12 @@
+{
+  "archive": "Toyota_RAV4_Blue_Flame_CARL_Interior_0.11.zip",
+  "bytes": 103416555,
+  "files": 127,
+  "sha256": "9d45e69ba95486c0c314a22de25ccd56de96788cb3a1d422488c8b76268363ff",
+  "zip_crc": "passed",
+  "every_member_matches_final_files": true,
+  "native_mid_font_included": true,
+  "offline_validation": "passed_offline_checks",
+  "assetto_corsa_runtime_tested": false,
+  "install": "Install all detected car and font entries in Content Manager"
+}
