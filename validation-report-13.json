@@ -1,0 +1,1213 @@
+{
+  "expected_version": "0.13",
+  "models": {
+    "x5.kn5": {
+      "nodes": 241,
+      "triangles": 554803,
+      "textures": 66,
+      "materials": 62,
+      "generated_dds_full_mip_chains": 23,
+      "degenerate_faces": 0,
+      "reversed_normal_faces": 0,
+      "normal_mapped_meshes": 51,
+      "max_abs_normal_dot_tangent": 8.255243301391602e-06,
+      "bounds_min": [
+        -1.1372859477996826,
+        0.008048206567764282,
+        -2.494028091430664
+      ],
+      "bounds_max": [
+        1.1372631788253784,
+        1.7452579736709595,
+        2.623293876647949
+      ],
+      "paint_panel_topology": {
+        "triangles": 82473,
+        "welded_vertices": 45859,
+        "surface_area_m2": 12.40052475416667,
+        "boundary_edges": 10428,
+        "nonmanifold_edges": 1307,
+        "boundary_edges_per_triangle": 0.12644138081553963
+      },
+      "opaque_exterior_topology": {
+        "triangles": 261386,
+        "welded_vertices": 145083,
+        "surface_area_m2": 45.7340402132713,
+        "boundary_edges": 29359,
+        "nonmanifold_edges": 1309,
+        "boundary_edges_per_triangle": 0.11232047623055558
+      },
+      "lossless_binary_roundtrip": true,
+      "sha256": "0abfd6c5fca5832d06a3f42aa9e851eec332cd22ade5ecaea7b6e4df2f33c667"
+    },
+    "x5_lod_b.kn5": {
+      "nodes": 239,
+      "triangles": 188305,
+      "textures": 66,
+      "materials": 62,
+      "generated_dds_full_mip_chains": 23,
+      "degenerate_faces": 0,
+      "reversed_normal_faces": 4,
+      "normal_mapped_meshes": 43,
+      "max_abs_normal_dot_tangent": 8.046627044677734e-06,
+      "bounds_min": [
+        -1.1370753049850464,
+        0.007948189973831177,
+        -2.494077682495117
+      ],
+      "bounds_max": [
+        1.137052059173584,
+        1.7451080083847046,
+        2.6232290267944336
+      ],
+      "paint_panel_topology": {
+        "triangles": 25369,
+        "welded_vertices": 17307,
+        "surface_area_m2": 12.316245146253468,
+        "boundary_edges": 10428,
+        "nonmanifold_edges": 1307,
+        "boundary_edges_per_triangle": 0.4110528597895069,
+        "area_ratio_to_highest_lod": 0.9932035450447464
+      },
+      "opaque_exterior_topology": {
+        "triangles": 71460,
+        "welded_vertices": 50146,
+        "surface_area_m2": 45.583658256494715,
+        "boundary_edges": 29375,
+        "nonmanifold_edges": 1307,
+        "boundary_edges_per_triangle": 0.4110691295829835,
+        "area_ratio_to_highest_lod": 0.9967118156175289
+      },
+      "lossless_binary_roundtrip": true,
+      "sha256": "edaab81da6af156453f55ad8e2c6c436c5cdd3cb809fd59870e7bc25a20c3c2d"
+    },
+    "x5_lod_c.kn5": {
+      "nodes": 238,
+      "triangles": 110545,
+      "textures": 66,
+      "materials": 62,
+      "generated_dds_full_mip_chains": 23,
+      "degenerate_faces": 0,
+      "reversed_normal_faces": 4,
+      "normal_mapped_meshes": 43,
+      "max_abs_normal_dot_tangent": 8.046627044677734e-06,
+      "bounds_min": [
+        -1.140393853187561,
+        0.007948189973831177,
+        -2.5352325439453125
+      ],
+      "bounds_max": [
+        1.1371949911117554,
+        1.739615797996521,
+        2.6236815452575684
+      ],
+      "paint_panel_topology": {
+        "triangles": 17375,
+        "welded_vertices": 13310,
+        "surface_area_m2": 12.518362294583387,
+        "boundary_edges": 10428,
+        "nonmanifold_edges": 1307,
+        "boundary_edges_per_triangle": 0.6001726618705036,
+        "area_ratio_to_highest_lod": 1.0095026253124588
+      },
+      "opaque_exterior_topology": {
+        "triangles": 38858,
+        "welded_vertices": 33845,
+        "surface_area_m2": 43.739866584306164,
+        "boundary_edges": 29375,
+        "nonmanifold_edges": 1307,
+        "boundary_edges_per_triangle": 0.7559575891708271,
+        "area_ratio_to_highest_lod": 0.9563962943211289
+      },
+      "lossless_binary_roundtrip": true,
+      "sha256": "a0f4e9e165d8734980cebb482b7860bb3532246ad33a4ddffa897df01969ee4c"
+    },
+    "x5_lod_d.kn5": {
+      "nodes": 234,
+      "triangles": 100730,
+      "textures": 66,
+      "materials": 62,
+      "generated_dds_full_mip_chains": 23,
+      "degenerate_faces": 0,
+      "reversed_normal_faces": 1,
+      "normal_mapped_meshes": 39,
+      "max_abs_normal_dot_tangent": 8.046627044677734e-06,
+      "bounds_min": [
+        -1.140393853187561,
+        0.007948189973831177,
+        -2.5352325439453125
+      ],
+      "bounds_max": [
+        1.1371949911117554,
+        1.739615797996521,
+        2.628718137741089
+      ],
+      "paint_panel_topology": {
+        "triangles": 17375,
+        "welded_vertices": 13310,
+        "surface_area_m2": 12.518362294583387,
+        "boundary_edges": 10428,
+        "nonmanifold_edges": 1307,
+        "boundary_edges_per_triangle": 0.6001726618705036,
+        "area_ratio_to_highest_lod": 1.0095026253124588
+      },
+      "opaque_exterior_topology": {
+        "triangles": 38426,
+        "welded_vertices": 33629,
+        "surface_area_m2": 43.6527560281056,
+        "boundary_edges": 29375,
+        "nonmanifold_edges": 1307,
+        "boundary_edges_per_triangle": 0.7644563576744913,
+        "area_ratio_to_highest_lod": 0.9544915739904006
+      },
+      "lossless_binary_roundtrip": true,
+      "sha256": "85dfeb9621ae84a09ca1eafce12b198aa3973df9109632cc021942ac7a3b631f"
+    }
+  },
+  "errors": [],
+  "warnings": [
+    "x5_lod_b.kn5: paint_panel_topology high boundary-edge ratio; inspect LOD silhouettes and seams",
+    "x5_lod_b.kn5: opaque_exterior_topology high boundary-edge ratio; inspect LOD silhouettes and seams",
+    "x5_lod_c.kn5: paint_panel_topology high boundary-edge ratio; inspect LOD silhouettes and seams",
+    "x5_lod_c.kn5: opaque_exterior_topology high boundary-edge ratio; inspect LOD silhouettes and seams",
+    "x5_lod_d.kn5: paint_panel_topology high boundary-edge ratio; inspect LOD silhouettes and seams",
+    "x5_lod_d.kn5: opaque_exterior_topology high boundary-edge ratio; inspect LOD silhouettes and seams",
+    "Preserved donor physics script requires signed ACI entitlement for online throttle; offline is enabled"
+  ],
+  "assetto_corsa_runtime_tested": false,
+  "runtime_checks_not_performed": [
+    "Assetto Corsa/Content Manager load and offline driving",
+    "CSP shader rendering, glass sorting, light switching and beams",
+    "Gauge direction/calibration under live telemetry",
+    "Driver hand alignment, steering input, mirror views and cockpit visibility",
+    "Replay/photo mode and actual LOD transition appearance",
+    "Sound playback and online entitlement/server compatibility"
+  ],
+  "collider": {
+    "nodes": 2,
+    "triangles": 214,
+    "textures": 0,
+    "materials": 1,
+    "generated_dds_full_mip_chains": 0,
+    "degenerate_faces": 0,
+    "reversed_normal_faces": 0,
+    "normal_mapped_meshes": 0,
+    "max_abs_normal_dot_tangent": 0.0,
+    "bounds_min": [
+      -0.9819519111799124,
+      0.2864273662336509,
+      -2.468715815561289
+    ],
+    "bounds_max": [
+      0.9819519111799124,
+      1.7367582069255256,
+      2.4817033788658627
+    ],
+    "paint_panel_topology": {
+      "triangles": 0,
+      "surface_area_m2": 0,
+      "boundary_edges": 0
+    },
+    "opaque_exterior_topology": {
+      "triangles": 0,
+      "surface_area_m2": 0,
+      "boundary_edges": 0
+    },
+    "lossless_binary_roundtrip": true,
+    "sha256": "0b7819a0efb56ee338b9df111bb85aa671f91aff474806f912373a1db2493b06"
+  },
+  "preservation": {
+    "byte_identical_data_files": 59,
+    "byte_identical_audio_files": 2,
+    "byte_identical_collision_meshes": 1,
+    "permitted_visual_data_changes": [
+      "data/driver3d.ini",
+      "data/mirrors.ini",
+      "data/car.ini",
+      "data/proview_nodes.ini",
+      "data/extra_animations.ini",
+      "data/lights.ini",
+      "data/analog_instruments.ini",
+      "data/digital_instruments.ini",
+      "data/dash_cam.ini",
+      "data/damage.ini"
+    ],
+    "engine_drivetrain_transmission_suspension_tyres_luts_and_physics_script_preserved": true
+  },
+  "configuration": {
+    "resolved_literal_mesh_material_references": 92,
+    "configured_driver_eye": [
+      0.431,
+      1.361272,
+      -0.096665
+    ],
+    "cluster_center": [
+      0.4309999942779541,
+      1.0709400177001953,
+      0.8035829067230225
+    ],
+    "camera_bounds_plausible_but_runtime_visibility_unverified": true,
+    "animation_bindings": [
+      {
+        "path": "animations/shift_dw.ksanim",
+        "targets": 55,
+        "driver_targets": 55,
+        "matching_car_targets": 0,
+        "absent_car_targets": [],
+        "all_targets_absent_from_car": false,
+        "explicit_configuration_mention": true
+      },
+      {
+        "path": "animations/shift_up.ksanim",
+        "targets": 55,
+        "driver_targets": 55,
+        "matching_car_targets": 0,
+        "absent_car_targets": [],
+        "all_targets_absent_from_car": false,
+        "explicit_configuration_mention": true
+      },
+      {
+        "path": "animations/steer.ksanim",
+        "targets": 60,
+        "driver_targets": 60,
+        "matching_car_targets": 0,
+        "absent_car_targets": [],
+        "all_targets_absent_from_car": false,
+        "explicit_configuration_mention": true
+      }
+    ]
+  },
+  "status": "passed_offline_checks",
+  "final_refinements": {
+    "x5.kn5": {
+      "unchanged_node_geometry_or_transforms": 183,
+      "native_gauge_samples": {
+        "RPM": [
+          {
+            "fraction": 0.0,
+            "native_rotation_degrees": 0.0,
+            "tip_pixel": [
+              370.2653833016126,
+              698.3264014584425
+            ]
+          },
+          {
+            "fraction": 0.125,
+            "native_rotation_degrees": 22.875,
+            "tip_pixel": [
+              274.9407503094477,
+              676.3857422869113
+            ]
+          },
+          {
+            "fraction": 0.25,
+            "native_rotation_degrees": 45.75,
+            "tip_pixel": [
+              193.93880993438574,
+              609.8714277189672
+            ]
+          },
+          {
+            "fraction": 0.375,
+            "native_rotation_degrees": 68.625,
+            "tip_pixel": [
+              140.00034033145516,
+              509.2454802953023
+            ]
+          },
+          {
+            "fraction": 0.5,
+            "native_rotation_degrees": 91.5,
+            "tip_pixel": [
+              121.60931203334599,
+              390.3353341098212
+            ]
+          },
+          {
+            "fraction": 0.625,
+            "native_rotation_degrees": 114.375,
+            "tip_pixel": [
+              141.65844601074127,
+              271.84434103182537
+            ]
+          },
+          {
+            "fraction": 0.75,
+            "native_rotation_degrees": 137.25,
+            "tip_pixel": [
+              196.99421819960378,
+              172.40992442655482
+            ]
+          },
+          {
+            "fraction": 0.875,
+            "native_rotation_degrees": 160.125,
+            "tip_pixel": [
+              278.9128766375619,
+              107.67210275623486
+            ]
+          },
+          {
+            "fraction": 1.0,
+            "native_rotation_degrees": 183.0,
+            "tip_pixel": [
+              374.5294527783941,
+              87.8134743675532
+            ]
+          }
+        ],
+        "SPEED": [
+          {
+            "fraction": 0.0,
+            "native_rotation_degrees": 0.0,
+            "tip_pixel": [
+              658.6999873637624,
+              552.0000299773741
+            ]
+          },
+          {
+            "fraction": 0.125,
+            "native_rotation_degrees": 22.5,
+            "tip_pixel": [
+              686.9635170584866,
+              374.46108020600826
+            ]
+          },
+          {
+            "fraction": 0.25,
+            "native_rotation_degrees": 45.0,
+            "tip_pixel": [
+              767.451239956172,
+              223.95082614274384
+            ]
+          },
+          {
+            "fraction": 0.375,
+            "native_rotation_degrees": 67.5,
+            "tip_pixel": [
+              887.9096298686708,
+              123.38308958986505
+            ]
+          },
+          {
+            "fraction": 0.5,
+            "native_rotation_degrees": 90.0,
+            "tip_pixel": [
+              1029.9999888898292,
+              88.06839678874444
+            ]
+          },
+          {
+            "fraction": 0.625,
+            "native_rotation_degrees": 112.5,
+            "tip_pixel": [
+              1172.0903479109877,
+              123.38308958986505
+            ]
+          },
+          {
+            "fraction": 0.75,
+            "native_rotation_degrees": 135.0,
+            "tip_pixel": [
+              1292.5487378234864,
+              223.95082614274384
+            ]
+          },
+          {
+            "fraction": 0.875,
+            "native_rotation_degrees": 157.5,
+            "tip_pixel": [
+              1373.0364607211718,
+              374.46108020600826
+            ]
+          },
+          {
+            "fraction": 1.0,
+            "native_rotation_degrees": 180.0,
+            "tip_pixel": [
+              1401.299990415896,
+              552.0000299773741
+            ]
+          }
+        ]
+      },
+      "native_mid_identity_basis_and_negative_depth_preserved": true,
+      "side_mirror_uvs_preserved": true,
+      "rearview_unobstructed_18_overhead_and_15_full_cabin_sightlines": true,
+      "door_returns": {
+        "FL": {
+          "closed_manifold_edges": true,
+          "end_gap_rays_blocked": 2
+        },
+        "FR": {
+          "closed_manifold_edges": true,
+          "end_gap_rays_blocked": 2
+        },
+        "BL": {
+          "closed_manifold_edges": true,
+          "end_gap_rays_blocked": 2
+        },
+        "BR": {
+          "closed_manifold_edges": true,
+          "end_gap_rays_blocked": 2
+        }
+      },
+      "body_color_mirror_caps": 2,
+      "blue_grille_leds": 24,
+      "climate_lcd_fitted_to_source_recess": true
+    },
+    "x5_lod_b.kn5": {
+      "unchanged_node_geometry_or_transforms": 181,
+      "native_gauge_samples": {
+        "RPM": [
+          {
+            "fraction": 0.0,
+            "native_rotation_degrees": 0.0,
+            "tip_pixel": [
+              370.2653833016126,
+              698.3264014584425
+            ]
+          },
+          {
+            "fraction": 0.125,
+            "native_rotation_degrees": 22.875,
+            "tip_pixel": [
+              274.9407503094477,
+              676.3857422869113
+            ]
+          },
+          {
+            "fraction": 0.25,
+            "native_rotation_degrees": 45.75,
+            "tip_pixel": [
+              193.93880993438574,
+              609.8714277189672
+            ]
+          },
+          {
+            "fraction": 0.375,
+            "native_rotation_degrees": 68.625,
+            "tip_pixel": [
+              140.00034033145516,
+              509.2454802953023
+            ]
+          },
+          {
+            "fraction": 0.5,
+            "native_rotation_degrees": 91.5,
+            "tip_pixel": [
+              121.60931203334599,
+              390.3353341098212
+            ]
+          },
+          {
+            "fraction": 0.625,
+            "native_rotation_degrees": 114.375,
+            "tip_pixel": [
+              141.65844601074127,
+              271.84434103182537
+            ]
+          },
+          {
+            "fraction": 0.75,
+            "native_rotation_degrees": 137.25,
+            "tip_pixel": [
+              196.99421819960378,
+              172.40992442655482
+            ]
+          },
+          {
+            "fraction": 0.875,
+            "native_rotation_degrees": 160.125,
+            "tip_pixel": [
+              278.9128766375619,
+              107.67210275623486
+            ]
+          },
+          {
+            "fraction": 1.0,
+            "native_rotation_degrees": 183.0,
+            "tip_pixel": [
+              374.5294527783941,
+              87.8134743675532
+            ]
+          }
+        ],
+        "SPEED": [
+          {
+            "fraction": 0.0,
+            "native_rotation_degrees": 0.0,
+            "tip_pixel": [
+              658.6999873637624,
+              552.0000299773741
+            ]
+          },
+          {
+            "fraction": 0.125,
+            "native_rotation_degrees": 22.5,
+            "tip_pixel": [
+              686.9635170584866,
+              374.46108020600826
+            ]
+          },
+          {
+            "fraction": 0.25,
+            "native_rotation_degrees": 45.0,
+            "tip_pixel": [
+              767.451239956172,
+              223.95082614274384
+            ]
+          },
+          {
+            "fraction": 0.375,
+            "native_rotation_degrees": 67.5,
+            "tip_pixel": [
+              887.9096298686708,
+              123.38308958986505
+            ]
+          },
+          {
+            "fraction": 0.5,
+            "native_rotation_degrees": 90.0,
+            "tip_pixel": [
+              1029.9999888898292,
+              88.06839678874444
+            ]
+          },
+          {
+            "fraction": 0.625,
+            "native_rotation_degrees": 112.5,
+            "tip_pixel": [
+              1172.0903479109877,
+              123.38308958986505
+            ]
+          },
+          {
+            "fraction": 0.75,
+            "native_rotation_degrees": 135.0,
+            "tip_pixel": [
+              1292.5487378234864,
+              223.95082614274384
+            ]
+          },
+          {
+            "fraction": 0.875,
+            "native_rotation_degrees": 157.5,
+            "tip_pixel": [
+              1373.0364607211718,
+              374.46108020600826
+            ]
+          },
+          {
+            "fraction": 1.0,
+            "native_rotation_degrees": 180.0,
+            "tip_pixel": [
+              1401.299990415896,
+              552.0000299773741
+            ]
+          }
+        ]
+      },
+      "native_mid_identity_basis_and_negative_depth_preserved": true,
+      "side_mirror_uvs_preserved": true,
+      "rearview_unobstructed_18_overhead_and_15_full_cabin_sightlines": true,
+      "door_returns": {
+        "FL": {
+          "closed_manifold_edges": true,
+          "end_gap_rays_blocked": 2
+        },
+        "FR": {
+          "closed_manifold_edges": true,
+          "end_gap_rays_blocked": 2
+        },
+        "BL": {
+          "closed_manifold_edges": true,
+          "end_gap_rays_blocked": 2
+        },
+        "BR": {
+          "closed_manifold_edges": true,
+          "end_gap_rays_blocked": 2
+        }
+      },
+      "body_color_mirror_caps": 2,
+      "blue_grille_leds": 24,
+      "climate_lcd_fitted_to_source_recess": true
+    },
+    "x5_lod_c.kn5": {
+      "unchanged_node_geometry_or_transforms": 180,
+      "native_gauge_samples": {
+        "RPM": [
+          {
+            "fraction": 0.0,
+            "native_rotation_degrees": 0.0,
+            "tip_pixel": [
+              370.2653833016126,
+              698.3264014584425
+            ]
+          },
+          {
+            "fraction": 0.125,
+            "native_rotation_degrees": 22.875,
+            "tip_pixel": [
+              274.9407503094477,
+              676.3857422869113
+            ]
+          },
+          {
+            "fraction": 0.25,
+            "native_rotation_degrees": 45.75,
+            "tip_pixel": [
+              193.93880993438574,
+              609.8714277189672
+            ]
+          },
+          {
+            "fraction": 0.375,
+            "native_rotation_degrees": 68.625,
+            "tip_pixel": [
+              140.00034033145516,
+              509.2454802953023
+            ]
+          },
+          {
+            "fraction": 0.5,
+            "native_rotation_degrees": 91.5,
+            "tip_pixel": [
+              121.60931203334599,
+              390.3353341098212
+            ]
+          },
+          {
+            "fraction": 0.625,
+            "native_rotation_degrees": 114.375,
+            "tip_pixel": [
+              141.65844601074127,
+              271.84434103182537
+            ]
+          },
+          {
+            "fraction": 0.75,
+            "native_rotation_degrees": 137.25,
+            "tip_pixel": [
+              196.99421819960378,
+              172.40992442655482
+            ]
+          },
+          {
+            "fraction": 0.875,
+            "native_rotation_degrees": 160.125,
+            "tip_pixel": [
+              278.9128766375619,
+              107.67210275623486
+            ]
+          },
+          {
+            "fraction": 1.0,
+            "native_rotation_degrees": 183.0,
+            "tip_pixel": [
+              374.5294527783941,
+              87.8134743675532
+            ]
+          }
+        ],
+        "SPEED": [
+          {
+            "fraction": 0.0,
+            "native_rotation_degrees": 0.0,
+            "tip_pixel": [
+              658.6999873637624,
+              552.0000299773741
+            ]
+          },
+          {
+            "fraction": 0.125,
+            "native_rotation_degrees": 22.5,
+            "tip_pixel": [
+              686.9635170584866,
+              374.46108020600826
+            ]
+          },
+          {
+            "fraction": 0.25,
+            "native_rotation_degrees": 45.0,
+            "tip_pixel": [
+              767.451239956172,
+              223.95082614274384
+            ]
+          },
+          {
+            "fraction": 0.375,
+            "native_rotation_degrees": 67.5,
+            "tip_pixel": [
+              887.9096298686708,
+              123.38308958986505
+            ]
+          },
+          {
+            "fraction": 0.5,
+            "native_rotation_degrees": 90.0,
+            "tip_pixel": [
+              1029.9999888898292,
+              88.06839678874444
+            ]
+          },
+          {
+            "fraction": 0.625,
+            "native_rotation_degrees": 112.5,
+            "tip_pixel": [
+              1172.0903479109877,
+              123.38308958986505
+            ]
+          },
+          {
+            "fraction": 0.75,
+            "native_rotation_degrees": 135.0,
+            "tip_pixel": [
+              1292.5487378234864,
+              223.95082614274384
+            ]
+          },
+          {
+            "fraction": 0.875,
+            "native_rotation_degrees": 157.5,
+            "tip_pixel": [
+              1373.0364607211718,
+              374.46108020600826
+            ]
+          },
+          {
+            "fraction": 1.0,
+            "native_rotation_degrees": 180.0,
+            "tip_pixel": [
+              1401.299990415896,
+              552.0000299773741
+            ]
+          }
+        ]
+      },
+      "native_mid_identity_basis_and_negative_depth_preserved": true,
+      "side_mirror_uvs_preserved": true,
+      "rearview_unobstructed_18_overhead_and_15_full_cabin_sightlines": true,
+      "door_returns": {
+        "FL": {
+          "closed_manifold_edges": true,
+          "end_gap_rays_blocked": 2
+        },
+        "FR": {
+          "closed_manifold_edges": true,
+          "end_gap_rays_blocked": 2
+        },
+        "BL": {
+          "closed_manifold_edges": true,
+          "end_gap_rays_blocked": 2
+        },
+        "BR": {
+          "closed_manifold_edges": true,
+          "end_gap_rays_blocked": 2
+        }
+      },
+      "body_color_mirror_caps": 2,
+      "blue_grille_leds": 24,
+      "climate_lcd_fitted_to_source_recess": true
+    },
+    "x5_lod_d.kn5": {
+      "unchanged_node_geometry_or_transforms": 176,
+      "native_gauge_samples": {
+        "RPM": [
+          {
+            "fraction": 0.0,
+            "native_rotation_degrees": 0.0,
+            "tip_pixel": [
+              370.2653833016126,
+              698.3264014584425
+            ]
+          },
+          {
+            "fraction": 0.125,
+            "native_rotation_degrees": 22.875,
+            "tip_pixel": [
+              274.9407503094477,
+              676.3857422869113
+            ]
+          },
+          {
+            "fraction": 0.25,
+            "native_rotation_degrees": 45.75,
+            "tip_pixel": [
+              193.93880993438574,
+              609.8714277189672
+            ]
+          },
+          {
+            "fraction": 0.375,
+            "native_rotation_degrees": 68.625,
+            "tip_pixel": [
+              140.00034033145516,
+              509.2454802953023
+            ]
+          },
+          {
+            "fraction": 0.5,
+            "native_rotation_degrees": 91.5,
+            "tip_pixel": [
+              121.60931203334599,
+              390.3353341098212
+            ]
+          },
+          {
+            "fraction": 0.625,
+            "native_rotation_degrees": 114.375,
+            "tip_pixel": [
+              141.65844601074127,
+              271.84434103182537
+            ]
+          },
+          {
+            "fraction": 0.75,
+            "native_rotation_degrees": 137.25,
+            "tip_pixel": [
+              196.99421819960378,
+              172.40992442655482
+            ]
+          },
+          {
+            "fraction": 0.875,
+            "native_rotation_degrees": 160.125,
+            "tip_pixel": [
+              278.9128766375619,
+              107.67210275623486
+            ]
+          },
+          {
+            "fraction": 1.0,
+            "native_rotation_degrees": 183.0,
+            "tip_pixel": [
+              374.5294527783941,
+              87.8134743675532
+            ]
+          }
+        ],
+        "SPEED": [
+          {
+            "fraction": 0.0,
+            "native_rotation_degrees": 0.0,
+            "tip_pixel": [
+              658.6999873637624,
+              552.0000299773741
+            ]
+          },
+          {
+            "fraction": 0.125,
+            "native_rotation_degrees": 22.5,
+            "tip_pixel": [
+              686.9635170584866,
+              374.46108020600826
+            ]
+          },
+          {
+            "fraction": 0.25,
+            "native_rotation_degrees": 45.0,
+            "tip_pixel": [
+              767.451239956172,
+              223.95082614274384
+            ]
+          },
+          {
+            "fraction": 0.375,
+            "native_rotation_degrees": 67.5,
+            "tip_pixel": [
+              887.9096298686708,
+              123.38308958986505
+            ]
+          },
+          {
+            "fraction": 0.5,
+            "native_rotation_degrees": 90.0,
+            "tip_pixel": [
+              1029.9999888898292,
+              88.06839678874444
+            ]
+          },
+          {
+            "fraction": 0.625,
+            "native_rotation_degrees": 112.5,
+            "tip_pixel": [
+              1172.0903479109877,
+              123.38308958986505
+            ]
+          },
+          {
+            "fraction": 0.75,
+            "native_rotation_degrees": 135.0,
+            "tip_pixel": [
+              1292.5487378234864,
+              223.95082614274384
+            ]
+          },
+          {
+            "fraction": 0.875,
+            "native_rotation_degrees": 157.5,
+            "tip_pixel": [
+              1373.0364607211718,
+              374.46108020600826
+            ]
+          },
+          {
+            "fraction": 1.0,
+            "native_rotation_degrees": 180.0,
+            "tip_pixel": [
+              1401.299990415896,
+              552.0000299773741
+            ]
+          }
+        ]
+      },
+      "native_mid_identity_basis_and_negative_depth_preserved": true,
+      "side_mirror_uvs_preserved": true,
+      "rearview_unobstructed_18_overhead_and_15_full_cabin_sightlines": true,
+      "door_returns": {
+        "FL": {
+          "closed_manifold_edges": true,
+          "end_gap_rays_blocked": 2
+        },
+        "FR": {
+          "closed_manifold_edges": true,
+          "end_gap_rays_blocked": 2
+        },
+        "BL": {
+          "closed_manifold_edges": true,
+          "end_gap_rays_blocked": 2
+        },
+        "BR": {
+          "closed_manifold_edges": true,
+          "end_gap_rays_blocked": 2
+        }
+      },
+      "body_color_mirror_caps": 2,
+      "blue_grille_leds": 24,
+      "climate_lcd_fitted_to_source_recess": true
+    }
+  },
+  "decoded_driver_motion": {
+    "format": "KSANIM v2",
+    "decoded_frames": 362,
+    "rig_targets": 60,
+    "maximum_quaternion_length_error": 4.12271812244569e-08,
+    "maximum_local_bone_offset_change_m": 0,
+    "maximum_grip_radius_error_m": 8.293241438028787e-08,
+    "maximum_interpolated_grip_radius_error_m": 0.0013706421708107874,
+    "neutral_animation_and_knh_match": true,
+    "sampled_contacts": [
+      {
+        "frame": 0,
+        "contacts_in_wheel_space": [
+          [
+            0.11120224545385621,
+            0.13252563652219643,
+            -0.004000005298098907
+          ],
+          [
+            -0.1112022592305768,
+            -0.132525686770644,
+            -0.003999987503166525
+          ]
+        ]
+      },
+      {
+        "frame": 30,
+        "contacts_in_wheel_space": [
+          [
+            0.15679124233127156,
+            -0.07311292640601355,
+            -0.0040000209621087615
+          ],
+          [
+            -0.04477571428619048,
+            -0.16710512331829508,
+            -0.003999990264882381
+          ]
+        ]
+      },
+      {
+        "frame": 60,
+        "contacts_in_wheel_space": [
+          [
+            0.17300001118315383,
+            2.1531233838236862e-08,
+            -0.003999994507721736
+          ],
+          [
+            0.030041136644470334,
+            -0.17037168610436082,
+            -0.004000013760082038
+          ]
+        ]
+      },
+      {
+        "frame": 90,
+        "contacts_in_wheel_space": [
+          [
+            0.15679121646008892,
+            0.07311294088844844,
+            -0.00400000705494029
+          ],
+          [
+            -0.15679124204520528,
+            -0.07311295380720864,
+            -0.003999966254592139
+          ]
+        ]
+      },
+      {
+        "frame": 120,
+        "contacts_in_wheel_space": [
+          [
+            0.11120224545385621,
+            0.13252563652219643,
+            -0.004000005298098907
+          ],
+          [
+            -0.1112022592305768,
+            -0.132525686770644,
+            -0.003999987503166525
+          ]
+        ]
+      },
+      {
+        "frame": 150,
+        "contacts_in_wheel_space": [
+          [
+            0.15679124233127156,
+            -0.07311292640601355,
+            -0.0040000209621087615
+          ],
+          [
+            -0.04477571428619048,
+            -0.16710512331829508,
+            -0.003999990264882381
+          ]
+        ]
+      },
+      {
+        "frame": 180,
+        "contacts_in_wheel_space": [
+          [
+            0.17300001118315383,
+            2.1531233838236862e-08,
+            -0.003999994507721736
+          ],
+          [
+            -0.17300000298708318,
+            3.754497253506608e-08,
+            -0.003999964058428903
+          ]
+        ]
+      },
+      {
+        "frame": 210,
+        "contacts_in_wheel_space": [
+          [
+            0.052022140846295695,
+            -0.16499302538286176,
+            -0.003999995434336083
+          ],
+          [
+            -0.15717189112098207,
+            -0.07229098444325463,
+            -0.02192297049306342
+          ]
+        ]
+      },
+      {
+        "frame": 240,
+        "contacts_in_wheel_space": [
+          [
+            0.11687710310144334,
+            -0.12754896085689033,
+            -0.0040000222828539544
+          ],
+          [
+            -0.11687706627876848,
+            0.12754896792783063,
+            -0.003999986454784
+          ]
+        ]
+      },
+      {
+        "frame": 270,
+        "contacts_in_wheel_space": [
+          [
+            0.1564062761837552,
+            -0.07393290461039774,
+            -0.021922987927303725
+          ],
+          [
+            -0.15983115707138756,
+            0.06620421961660657,
+            -0.003999983157890153
+          ]
+        ]
+      },
+      {
+        "frame": 300,
+        "contacts_in_wheel_space": [
+          [
+            -0.022581008413782244,
+            -0.17151991359518085,
+            -0.003999997067701942
+          ],
+          [
+            -0.17283533339797263,
+            -0.007546116285697241,
+            -0.003999964915838176
+          ]
+        ]
+      },
+      {
+        "frame": 330,
+        "contacts_in_wheel_space": [
+          [
+            0.052022140846295695,
+            -0.16499302538286176,
+            -0.003999995434336083
+          ],
+          [
+            -0.15717189112098207,
+            -0.07229098444325463,
+            -0.02192297049306342
+          ]
+        ]
+      },
+      {
+        "frame": 360,
+        "contacts_in_wheel_space": [
+          [
+            0.11687710310144334,
+            -0.12754896085689033,
+            -0.0040000222828539544
+          ],
+          [
+            -0.11687706627876848,
+            0.12754896792783063,
+            -0.003999986454784
+          ]
+        ]
+      }
+    ],
+    "actual_driver_skinning_and_runtime_tested": false
+  },
+  "native_mid_fonts": {
+    "native_font_atlas": [
+      6080,
+      96
+    ],
+    "ascii_metrics": 95,
+    "speed_gear_clock_assets_included": true,
+    "installation_paths": [
+      "content/fonts/rav4_adventure_mid_10.png",
+      "content/fonts/rav4_adventure_mid_10.txt"
+    ],
+    "content_manager_font_installation_path_cross_checked": true,
+    "actual_game_font_rendering_tested": false
+  }
+}

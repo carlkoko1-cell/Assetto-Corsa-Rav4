@@ -1,0 +1,14 @@
+{
+  "archive": "Toyota_RAV4_Blue_Flame_CARL_Interior_0.13.zip",
+  "bytes": 103838276,
+  "files": 125,
+  "sha256": "044006c23ac5d8d4158dbb42fe81762603f6ec3fb610f8fc6ff0bcd2d44002c9",
+  "zip_crc": "passed",
+  "every_member_matches_final_files": true,
+  "native_mid_font_included": true,
+  "offline_validation": "passed_offline_checks",
+  "assetto_corsa_runtime_tested": false,
+  "navigation": "Supplied ASW BMW X5M CSP Navigator_AndroidAuto, adapted to RAV4 screen",
+  "grille_lights": "CSP Extra B",
+  "install": "Install all detected car and font entries in Content Manager"
+}
