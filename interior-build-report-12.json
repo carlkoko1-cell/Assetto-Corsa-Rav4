@@ -1,0 +1,1890 @@
+{
+  "release": "0.12",
+  "source": "User-supplied 2023 RAV4 Hybrid FBX and textures",
+  "runtime_tested": false,
+  "models": {
+    "x5.kn5": {
+      "imported_meshes": [
+        "RAV4_V12_WHEEL_part_0_ATLAS_0",
+        "RAV4_V12_WHEEL_part_0_LEATHER_0",
+        "RAV4_V12_WHEEL_part_1_GRAPHITE_0",
+        "RAV4_V12_WHEEL_part_1_PLASTIC_0",
+        "RAV4_V12_WHEEL_part_1_SATIN_0",
+        "RAV4_V12_WHEEL_part_2_LEATHER_0",
+        "RAV4_V12_WHEEL_part_4_ATLAS_0",
+        "RAV4_V12_CABIN_part_5_SATIN_0",
+        "RAV4_V12_CABIN_part_6_ATLAS_0",
+        "RAV4_V12_CABIN_part_6_PLASTIC_0",
+        "RAV4_V12_CABIN_part_6_SATIN_0",
+        "RAV4_V12_CABIN_part_7_LEATHER_0",
+        "RAV4_V12_part_8_Speaker",
+        "RAV4_V12_CABIN_part_9_LEATHER_0",
+        "RAV4_V12_CABIN_part_10_ATLAS_0",
+        "RAV4_V12_CABIN_part_11_ATLAS_0",
+        "RAV4_V12_CABIN_part_11_PLASTIC_0",
+        "RAV4_V12_CABIN_part_11_SATIN_0",
+        "RAV4_V12_CABIN_part_12_LEATHER_0",
+        "RAV4_V12_part_13_Speaker",
+        "RAV4_V12_CABIN_part_14_LEATHER_0",
+        "RAV4_V12_CABIN_part_15_ATLAS_0",
+        "RAV4_V12_CABIN_part_16_SATIN_0",
+        "RAV4_V12_CABIN_part_17_ATLAS_0",
+        "RAV4_V12_CABIN_part_18_ATLAS_0",
+        "RAV4_V12_CABIN_part_18_PLASTIC_0",
+        "RAV4_V12_CABIN_part_18_SATIN_0",
+        "RAV4_V12_CABIN_part_19_LEATHER_0",
+        "RAV4_V12_part_20_Speaker",
+        "RAV4_V12_CABIN_part_21_LEATHER_0",
+        "RAV4_V12_CABIN_part_22_ATLAS_0",
+        "RAV4_V12_CABIN_part_23_ATLAS_0",
+        "RAV4_V12_CABIN_part_23_PLASTIC_0",
+        "RAV4_V12_CABIN_part_23_SATIN_0",
+        "RAV4_V12_CABIN_part_24_LEATHER_0",
+        "RAV4_V12_part_25_Speaker",
+        "RAV4_V12_CABIN_part_26_LEATHER_0",
+        "RAV4_V12_CABIN_part_27_PLASTIC_0",
+        "RAV4_V12_CABIN_part_29_ATLAS_0",
+        "RAV4_V12_OVERHEAD_part_29_ATLAS_0",
+        "RAV4_V12_CABIN_part_29_PLASTIC_0",
+        "RAV4_V12_CABIN_part_30_ATLAS_0",
+        "RAV4_V12_CABIN_part_30_GRAPHITE_0",
+        "RAV4_V12_CABIN_part_30_ORANGE_0",
+        "RAV4_V12_CABIN_part_30_PLASTIC_0",
+        "RAV4_V12_CABIN_part_30_PLASTIC_1",
+        "RAV4_V12_OVERHEAD_part_30_PLASTIC_0",
+        "RAV4_V12_CABIN_part_30_SATIN_0",
+        "RAV4_V12_CABIN_part_31_HEADLINER_0",
+        "RAV4_V12_CABIN_part_32_HEADLINER_0",
+        "RAV4_V12_CABIN_part_33_CARPET_0",
+        "RAV4_V12_CABIN_part_33_PLASTIC_0",
+        "RAV4_V12_CABIN_part_34_LEATHER_0",
+        "RAV4_V12_OVERHEAD_part_35_HEADLINER_0",
+        "RAV4_V12_CABIN_part_36_LEATHER_0",
+        "RAV4_V12_CABIN_part_36_LEATHER_1",
+        "RAV4_V12_CABIN_part_37_LEATHER_0",
+        "RAV4_V12_CABIN_part_38_ATLAS_0",
+        "RAV4_V12_CABIN_part_38_DASH_0",
+        "RAV4_V12_CABIN_part_38_LEATHER_0",
+        "RAV4_V12_CABIN_part_39_PLASTIC_0",
+        "RAV4_V12_part_40_OverheadGrille",
+        "RAV4_V12_part_41_DashGrille",
+        "RAV4_V12_part_42_Speaker",
+        "RAV4_V12_CABIN_part_43_GRAPHITE_0"
+      ],
+      "source_file": "donor_geometry.npz",
+      "source_triangles_imported": 111671,
+      "steering_pivot_and_tilt_retained": true,
+      "wheel_fit_scale": 1.011,
+      "instruments": {
+        "cluster_center": [
+          0.431,
+          1.0709400177001953,
+          0.8035829067230225
+        ],
+        "cluster_width_height_m": [
+          0.3086971044540405,
+          0.09264814853668213
+        ],
+        "mid_scale": 0.8720257187967247,
+        "display_surface": "Adventure face on a plane fitted within supplied cluster hood",
+        "hybrid_baked_readings_removed": true,
+        "source_tablet_viewport_width_m": 0.20245718955993652,
+        "native_pointer_calibrations_retained": true
+      },
+      "old_cabin_meshes_removed": [
+        "RAV4_CABIN_BODY_Interior_0_Headliner_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_0_Plastic_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_0_SoftTex_SURFACE_0_PERFORATED_REAR",
+        "RAV4_CABIN_BODY_Interior_0_SoftTex_SURFACE_0_PERFORATED_FRONT",
+        "RAV4_CABIN_BODY_Interior_0_SoftTex_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_1_Dash_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_1_Headliner_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_1_Plastic_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_1_SoftTex_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_1_SoftTex_SURFACE_2",
+        "RAV4_CABIN_BODY_Interior_2_Dash_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_2_Dash_SURFACE_1",
+        "RAV4_CABIN_BODY_Interior_2_Plastic_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_2_SoftTex_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_2_SoftTex_SURFACE_1",
+        "STEER_HR",
+        "RAV4_CLUSTER_FACE",
+        "RAV4_DASH_STITCH",
+        "RAV4_STEERING_STATIONARY_0",
+        "RAV4_STEERING_STATIONARY_1",
+        "RAV4_SELECTOR_LEGEND",
+        "RAV4_SEAT_STITCH",
+        "RAV4_V9_SEAT_SEAMS",
+        "RAV4_V10_ORANGE_SHOULDER_STRIPES",
+        "RAV4_ENTUNE_BEZEL",
+        "RAV4_ENTUNE_SCREEN",
+        "RAV4_V10_ENTUNE_SILVER_-1",
+        "RAV4_V10_ENTUNE_KEY_-1_0",
+        "RAV4_V10_ENTUNE_KEY_-1_1",
+        "RAV4_V10_ENTUNE_KEY_-1_2",
+        "RAV4_V10_ENTUNE_KEY_-1_3",
+        "RAV4_ENTUNE_KNOB_-1",
+        "RAV4_ENTUNE_KNOB_FACE_-1",
+        "RAV4_V10_ENTUNE_SILVER_1",
+        "RAV4_V10_ENTUNE_KEY_1_0",
+        "RAV4_V10_ENTUNE_KEY_1_1",
+        "RAV4_V10_ENTUNE_KEY_1_2",
+        "RAV4_V10_ENTUNE_KEY_1_3",
+        "RAV4_ENTUNE_KNOB_1",
+        "RAV4_ENTUNE_KNOB_FACE_1",
+        "RAV4_CENTER_VENT_-1",
+        "RAV4_V10_VENT_SLIDER_-1",
+        "RAV4_CENTER_VENT_1",
+        "RAV4_V10_VENT_SLIDER_1",
+        "RAV4_V10_HAZARD",
+        "RAV4_CLIMATE_PANEL",
+        "RAV4_HVAC_SATIN_RING_-1",
+        "RAV4_HVAC_KNOB_-1",
+        "RAV4_V10_HVAC_DIAL_FACE_-1",
+        "RAV4_HVAC_SATIN_RING_1",
+        "RAV4_HVAC_KNOB_1",
+        "RAV4_V10_HVAC_DIAL_FACE_1",
+        "RAV4_V10_ORANGE_PASSENGER_TRAY",
+        "RAV4_V10_TRAY_ROLLED_LIP",
+        "RAV4_V10_ORANGE_DRIVER_TRAY",
+        "RAV4_V10_CONSOLE_BLACK_BACKING_-1",
+        "RAV4_V10_CONSOLE_SILVER_RAIL_-1",
+        "RAV4_V10_CONSOLE_BLACK_BACKING_1",
+        "RAV4_V10_CONSOLE_SILVER_RAIL_1",
+        "RAV4_V10_ORANGE_FRONT_STORAGE",
+        "RAV4_V10_12V_CAP",
+        "RAV4_V10_USB_PANEL",
+        "RAV4_V10_CUPHOLDER_DECK",
+        "RAV4_V10_CUPHOLDER_WELL_0",
+        "RAV4_V10_CUPHOLDER_WELL_1",
+        "RAV4_V10_CUPHOLDER_ORANGE_LIP",
+        "ARROW_RPM",
+        "RAV4_NEEDLE_CAP_RPM",
+        "ARROW_SPEED",
+        "RAV4_MID_DISPLAY",
+        "RAV4_V10_HVAC_KNURL",
+        "RAV4_V10_VENT_LOUVER",
+        "RAV4_V10_VENT_VANE",
+        "RAV4_V11_CLIMATE_KEY_0",
+        "RAV4_V11_CLIMATE_KEY_1",
+        "RAV4_V11_CLIMATE_KEY_2",
+        "RAV4_V11_CLIMATE_KEY_3",
+        "RAV4_V11_CLIMATE_KEY_4",
+        "RAV4_V11_CLIMATE_KEY_5"
+      ],
+      "tangents": {
+        "normal_mapped_meshes_rebuilt": [
+          {
+            "name": "BODY_lambert1_0",
+            "vertices": 49851,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.116626578509752e-08
+          },
+          {
+            "name": "BODY_lambert1_1",
+            "vertices": 46035,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.063940850507208e-08
+          },
+          {
+            "name": "BODY_lambert1_2",
+            "vertices": 4155,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.352437177861489e-08
+          },
+          {
+            "name": "BODY_BlackTrims_0",
+            "vertices": 51000,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.036759776449017e-08
+          },
+          {
+            "name": "BODY_BlackTrims_1",
+            "vertices": 40746,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.059309210990847e-08
+          },
+          {
+            "name": "BODY_BlackTrims_2",
+            "vertices": 28641,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.0609726859042183e-08
+          },
+          {
+            "name": "BODY_Adventure_Rock_0",
+            "vertices": 51000,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.981055890500684e-08
+          },
+          {
+            "name": "BODY_Adventure_Rock_1",
+            "vertices": 51000,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.1621335822306094e-08
+          },
+          {
+            "name": "BODY_Adventure_Rock_2",
+            "vertices": 25305,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.647084795277422e-08
+          },
+          {
+            "name": "RAV4_TAILGATE_GARNISH",
+            "vertices": 5652,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.78683485124931e-08
+          },
+          {
+            "name": "BODY_WhiteRoof_0",
+            "vertices": 20073,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.877381149486325e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_LF_TREAD",
+            "vertices": 2544,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.757367039725068e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_RF_TREAD",
+            "vertices": 2544,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.8289791670642614e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_LR_TREAD",
+            "vertices": 2544,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.9017124420226423e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_RR_TREAD",
+            "vertices": 2544,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.078198717616388e-08
+          },
+          {
+            "name": "RAV4_SOLID_ROOF",
+            "vertices": 15420,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.5626165643248848e-08
+          },
+          {
+            "name": "RAV4_ROOF_EDGE_RETURN",
+            "vertices": 288,
+            "fallback_vertices": 288,
+            "degenerate_uv_or_geometry_faces": 96,
+            "max_abs_normal_dot_tangent": 1.3877787807814457e-17
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_6_ATLAS_0",
+            "vertices": 16,
+            "fallback_vertices": 6,
+            "degenerate_uv_or_geometry_faces": 15,
+            "max_abs_normal_dot_tangent": 2.6406668018896795e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_7_LEATHER_0",
+            "vertices": 394,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.593639152921213e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_9_LEATHER_0",
+            "vertices": 1165,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.910003576468313e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_10_ATLAS_0",
+            "vertices": 53,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.024898787007402e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_11_ATLAS_0",
+            "vertices": 16,
+            "fallback_vertices": 6,
+            "degenerate_uv_or_geometry_faces": 15,
+            "max_abs_normal_dot_tangent": 3.3153178369271785e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_12_LEATHER_0",
+            "vertices": 402,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.593639152921213e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_14_LEATHER_0",
+            "vertices": 1223,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.932375585661424e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_15_ATLAS_0",
+            "vertices": 50,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.024898787007402e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_17_ATLAS_0",
+            "vertices": 160,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 1.8332124589615778e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_18_ATLAS_0",
+            "vertices": 16,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.1588612003918826e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_19_LEATHER_0",
+            "vertices": 2013,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.9683772934395734e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_21_LEATHER_0",
+            "vertices": 587,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.050312002983446e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_22_ATLAS_0",
+            "vertices": 86,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.6919344303942836e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_23_ATLAS_0",
+            "vertices": 16,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.704458861886195e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_24_LEATHER_0",
+            "vertices": 2038,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.553482613716241e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_26_LEATHER_0",
+            "vertices": 584,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.507104129329974e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_29_ATLAS_0",
+            "vertices": 3386,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.8928478551802925e-08
+          },
+          {
+            "name": "RAV4_V12_OVERHEAD_part_29_ATLAS_0",
+            "vertices": 100,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 1.9274589591056213e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_30_ATLAS_0",
+            "vertices": 432,
+            "fallback_vertices": 2,
+            "degenerate_uv_or_geometry_faces": 90,
+            "max_abs_normal_dot_tangent": 3.647897983682924e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_34_LEATHER_0",
+            "vertices": 672,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.121902547587041e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_36_LEATHER_0",
+            "vertices": 11323,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.077292375948005e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_36_LEATHER_1",
+            "vertices": 1347,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.019565280621862e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_37_LEATHER_0",
+            "vertices": 2823,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.960418154536072e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_38_ATLAS_0",
+            "vertices": 4,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 1.0953508967903591e-09
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_38_DASH_0",
+            "vertices": 909,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.26843989320691e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_38_LEATHER_0",
+            "vertices": 695,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.696478462211772e-08
+          },
+          {
+            "name": "RAV4_V12_part_40_OverheadGrille",
+            "vertices": 83,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.7863858286268405e-10
+          },
+          {
+            "name": "RAV4_V12_part_41_DashGrille",
+            "vertices": 54,
+            "fallback_vertices": 5,
+            "degenerate_uv_or_geometry_faces": 11,
+            "max_abs_normal_dot_tangent": 1.746008088110429e-08
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_0_ATLAS_0",
+            "vertices": 12,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 9.454098337524641e-10
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_0_LEATHER_0",
+            "vertices": 1036,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.04244556162503e-08
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_2_LEATHER_0",
+            "vertices": 1669,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.059343522433423e-08
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_4_ATLAS_0",
+            "vertices": 272,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.899018207374113e-08
+          }
+        ],
+        "max_abs_normal_dot_tangent": 4.26843989320691e-08,
+        "normals_positions_and_uvs_preserved": true
+      }
+    },
+    "x5_lod_b.kn5": {
+      "imported_meshes": [
+        "RAV4_V12_WHEEL_part_0_ATLAS_0",
+        "RAV4_V12_WHEEL_part_0_LEATHER_0",
+        "RAV4_V12_WHEEL_part_1_GRAPHITE_0",
+        "RAV4_V12_WHEEL_part_1_PLASTIC_0",
+        "RAV4_V12_WHEEL_part_1_SATIN_0",
+        "RAV4_V12_WHEEL_part_2_LEATHER_0",
+        "RAV4_V12_WHEEL_part_4_ATLAS_0",
+        "RAV4_V12_CABIN_part_5_SATIN_0",
+        "RAV4_V12_CABIN_part_6_ATLAS_0",
+        "RAV4_V12_CABIN_part_6_PLASTIC_0",
+        "RAV4_V12_CABIN_part_6_SATIN_0",
+        "RAV4_V12_CABIN_part_7_LEATHER_0",
+        "RAV4_V12_part_8_Speaker",
+        "RAV4_V12_CABIN_part_9_LEATHER_0",
+        "RAV4_V12_CABIN_part_10_ATLAS_0",
+        "RAV4_V12_CABIN_part_11_ATLAS_0",
+        "RAV4_V12_CABIN_part_11_PLASTIC_0",
+        "RAV4_V12_CABIN_part_11_SATIN_0",
+        "RAV4_V12_CABIN_part_12_LEATHER_0",
+        "RAV4_V12_part_13_Speaker",
+        "RAV4_V12_CABIN_part_14_LEATHER_0",
+        "RAV4_V12_CABIN_part_15_ATLAS_0",
+        "RAV4_V12_CABIN_part_16_SATIN_0",
+        "RAV4_V12_CABIN_part_17_ATLAS_0",
+        "RAV4_V12_CABIN_part_18_ATLAS_0",
+        "RAV4_V12_CABIN_part_18_PLASTIC_0",
+        "RAV4_V12_CABIN_part_18_SATIN_0",
+        "RAV4_V12_CABIN_part_19_LEATHER_0",
+        "RAV4_V12_part_20_Speaker",
+        "RAV4_V12_CABIN_part_21_LEATHER_0",
+        "RAV4_V12_CABIN_part_22_ATLAS_0",
+        "RAV4_V12_CABIN_part_23_ATLAS_0",
+        "RAV4_V12_CABIN_part_23_PLASTIC_0",
+        "RAV4_V12_CABIN_part_23_SATIN_0",
+        "RAV4_V12_CABIN_part_24_LEATHER_0",
+        "RAV4_V12_part_25_Speaker",
+        "RAV4_V12_CABIN_part_26_LEATHER_0",
+        "RAV4_V12_CABIN_part_27_PLASTIC_0",
+        "RAV4_V12_CABIN_part_29_ATLAS_0",
+        "RAV4_V12_OVERHEAD_part_29_ATLAS_0",
+        "RAV4_V12_CABIN_part_29_PLASTIC_0",
+        "RAV4_V12_CABIN_part_30_ATLAS_0",
+        "RAV4_V12_CABIN_part_30_GRAPHITE_0",
+        "RAV4_V12_CABIN_part_30_ORANGE_0",
+        "RAV4_V12_CABIN_part_30_PLASTIC_0",
+        "RAV4_V12_CABIN_part_30_PLASTIC_1",
+        "RAV4_V12_OVERHEAD_part_30_PLASTIC_0",
+        "RAV4_V12_CABIN_part_30_SATIN_0",
+        "RAV4_V12_CABIN_part_31_HEADLINER_0",
+        "RAV4_V12_CABIN_part_32_HEADLINER_0",
+        "RAV4_V12_CABIN_part_33_CARPET_0",
+        "RAV4_V12_CABIN_part_33_PLASTIC_0",
+        "RAV4_V12_CABIN_part_34_LEATHER_0",
+        "RAV4_V12_OVERHEAD_part_35_HEADLINER_0",
+        "RAV4_V12_CABIN_part_36_LEATHER_0",
+        "RAV4_V12_CABIN_part_37_LEATHER_0",
+        "RAV4_V12_CABIN_part_38_DASH_0",
+        "RAV4_V12_CABIN_part_38_LEATHER_0",
+        "RAV4_V12_CABIN_part_39_PLASTIC_0",
+        "RAV4_V12_part_40_OverheadGrille",
+        "RAV4_V12_part_41_DashGrille",
+        "RAV4_V12_part_42_Speaker",
+        "RAV4_V12_CABIN_part_43_GRAPHITE_0"
+      ],
+      "source_file": "donor_geometry_lod_1.npz",
+      "source_triangles_imported": 66377,
+      "steering_pivot_and_tilt_retained": true,
+      "wheel_fit_scale": 1.011,
+      "instruments": {
+        "cluster_center": [
+          0.431,
+          1.0709400177001953,
+          0.8035829067230225
+        ],
+        "cluster_width_height_m": [
+          0.3086971044540405,
+          0.09264814853668213
+        ],
+        "mid_scale": 0.8720257187967247,
+        "display_surface": "Adventure face on a plane fitted within supplied cluster hood",
+        "hybrid_baked_readings_removed": true,
+        "source_tablet_viewport_width_m": 0.20245718955993652,
+        "native_pointer_calibrations_retained": true
+      },
+      "old_cabin_meshes_removed": [
+        "RAV4_CABIN_BODY_Interior_0_Headliner_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_0_Plastic_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_0_SoftTex_SURFACE_0_PERFORATED_REAR",
+        "RAV4_CABIN_BODY_Interior_0_SoftTex_SURFACE_0_PERFORATED_FRONT",
+        "RAV4_CABIN_BODY_Interior_0_SoftTex_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_1_Dash_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_1_Headliner_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_1_Plastic_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_1_SoftTex_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_1_SoftTex_SURFACE_2",
+        "RAV4_CABIN_BODY_Interior_2_Dash_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_2_Dash_SURFACE_1",
+        "RAV4_CABIN_BODY_Interior_2_Plastic_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_2_SoftTex_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_2_SoftTex_SURFACE_1",
+        "STEER_HR",
+        "RAV4_CLUSTER_FACE",
+        "RAV4_DASH_STITCH",
+        "RAV4_STEERING_STATIONARY_0",
+        "RAV4_STEERING_STATIONARY_1",
+        "RAV4_SELECTOR_LEGEND",
+        "RAV4_SEAT_STITCH",
+        "RAV4_V9_SEAT_SEAMS",
+        "RAV4_V10_ORANGE_SHOULDER_STRIPES",
+        "RAV4_ENTUNE_BEZEL",
+        "RAV4_ENTUNE_SCREEN",
+        "RAV4_V10_ENTUNE_SILVER_-1",
+        "RAV4_V10_ENTUNE_KEY_-1_0",
+        "RAV4_V10_ENTUNE_KEY_-1_1",
+        "RAV4_V10_ENTUNE_KEY_-1_2",
+        "RAV4_V10_ENTUNE_KEY_-1_3",
+        "RAV4_ENTUNE_KNOB_-1",
+        "RAV4_ENTUNE_KNOB_FACE_-1",
+        "RAV4_V10_ENTUNE_SILVER_1",
+        "RAV4_V10_ENTUNE_KEY_1_0",
+        "RAV4_V10_ENTUNE_KEY_1_1",
+        "RAV4_V10_ENTUNE_KEY_1_2",
+        "RAV4_V10_ENTUNE_KEY_1_3",
+        "RAV4_ENTUNE_KNOB_1",
+        "RAV4_ENTUNE_KNOB_FACE_1",
+        "RAV4_CENTER_VENT_-1",
+        "RAV4_V10_VENT_SLIDER_-1",
+        "RAV4_CENTER_VENT_1",
+        "RAV4_V10_VENT_SLIDER_1",
+        "RAV4_V10_HAZARD",
+        "RAV4_CLIMATE_PANEL",
+        "RAV4_HVAC_SATIN_RING_-1",
+        "RAV4_HVAC_KNOB_-1",
+        "RAV4_V10_HVAC_DIAL_FACE_-1",
+        "RAV4_HVAC_SATIN_RING_1",
+        "RAV4_HVAC_KNOB_1",
+        "RAV4_V10_HVAC_DIAL_FACE_1",
+        "RAV4_V10_ORANGE_PASSENGER_TRAY",
+        "RAV4_V10_TRAY_ROLLED_LIP",
+        "RAV4_V10_ORANGE_DRIVER_TRAY",
+        "RAV4_V10_CONSOLE_BLACK_BACKING_-1",
+        "RAV4_V10_CONSOLE_SILVER_RAIL_-1",
+        "RAV4_V10_CONSOLE_BLACK_BACKING_1",
+        "RAV4_V10_CONSOLE_SILVER_RAIL_1",
+        "RAV4_V10_ORANGE_FRONT_STORAGE",
+        "RAV4_V10_12V_CAP",
+        "RAV4_V10_USB_PANEL",
+        "RAV4_V10_CUPHOLDER_DECK",
+        "RAV4_V10_CUPHOLDER_WELL_0",
+        "RAV4_V10_CUPHOLDER_WELL_1",
+        "RAV4_V10_CUPHOLDER_ORANGE_LIP",
+        "ARROW_RPM",
+        "RAV4_NEEDLE_CAP_RPM",
+        "ARROW_SPEED",
+        "RAV4_MID_DISPLAY",
+        "RAV4_V10_HVAC_KNURL",
+        "RAV4_V10_VENT_LOUVER",
+        "RAV4_V10_VENT_VANE",
+        "RAV4_V11_CLIMATE_KEY_0",
+        "RAV4_V11_CLIMATE_KEY_1",
+        "RAV4_V11_CLIMATE_KEY_2",
+        "RAV4_V11_CLIMATE_KEY_3",
+        "RAV4_V11_CLIMATE_KEY_4",
+        "RAV4_V11_CLIMATE_KEY_5"
+      ],
+      "tangents": {
+        "normal_mapped_meshes_rebuilt": [
+          {
+            "name": "BODY_lambert1_0",
+            "vertices": 39268,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.072168641178209e-08
+          },
+          {
+            "name": "BODY_BlackTrims_0",
+            "vertices": 30024,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.149229665406651e-08
+          },
+          {
+            "name": "BODY_Adventure_Rock_0",
+            "vertices": 31821,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.362571709437546e-08
+          },
+          {
+            "name": "RAV4_TAILGATE_GARNISH",
+            "vertices": 1410,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.518522996570628e-08
+          },
+          {
+            "name": "BODY_WhiteRoof_0",
+            "vertices": 5013,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.889719806665637e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_LF_TREAD",
+            "vertices": 768,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.919484498071668e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_RF_TREAD",
+            "vertices": 768,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.950950483444515e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_LR_TREAD",
+            "vertices": 768,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.739082626852408e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_RR_TREAD",
+            "vertices": 768,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.4742419274813585e-08
+          },
+          {
+            "name": "RAV4_SOLID_ROOF",
+            "vertices": 3838,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.5884011686349694e-08
+          },
+          {
+            "name": "RAV4_ROOF_EDGE_RETURN",
+            "vertices": 116,
+            "fallback_vertices": 116,
+            "degenerate_uv_or_geometry_faces": 96,
+            "max_abs_normal_dot_tangent": 1.8258407452620418e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_6_ATLAS_0",
+            "vertices": 9,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 1,
+            "max_abs_normal_dot_tangent": 2.4282035604450414e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_7_LEATHER_0",
+            "vertices": 242,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.655874619701294e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_9_LEATHER_0",
+            "vertices": 633,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.6106590384221704e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_10_ATLAS_0",
+            "vertices": 53,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.024898787007402e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_11_ATLAS_0",
+            "vertices": 10,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 2,
+            "max_abs_normal_dot_tangent": 2.992345965457943e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_12_LEATHER_0",
+            "vertices": 246,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.408026089113392e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_14_LEATHER_0",
+            "vertices": 668,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.6346150866783944e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_15_ATLAS_0",
+            "vertices": 50,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.024898787007402e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_17_ATLAS_0",
+            "vertices": 160,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 1.8332124589615778e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_18_ATLAS_0",
+            "vertices": 9,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.049309887399488e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_19_LEATHER_0",
+            "vertices": 1104,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.5580863866346846e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_21_LEATHER_0",
+            "vertices": 361,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.6764570512937134e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_22_ATLAS_0",
+            "vertices": 86,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.6919344303942836e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_23_ATLAS_0",
+            "vertices": 8,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.6260155050472633e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_24_LEATHER_0",
+            "vertices": 1096,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.096996292750731e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_26_LEATHER_0",
+            "vertices": 360,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.45479644076746e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_29_ATLAS_0",
+            "vertices": 3199,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.6288959393004916e-08
+          },
+          {
+            "name": "RAV4_V12_OVERHEAD_part_29_ATLAS_0",
+            "vertices": 72,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 1.9274589591056213e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_30_ATLAS_0",
+            "vertices": 217,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 7,
+            "max_abs_normal_dot_tangent": 3.751333690210634e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_34_LEATHER_0",
+            "vertices": 381,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.5913924611996606e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_36_LEATHER_0",
+            "vertices": 7188,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.1782090960673646e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_37_LEATHER_0",
+            "vertices": 1627,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.775475743150736e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_38_DASH_0",
+            "vertices": 527,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.0310329302007943e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_38_LEATHER_0",
+            "vertices": 394,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.321255658856771e-08
+          },
+          {
+            "name": "RAV4_V12_part_40_OverheadGrille",
+            "vertices": 83,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.7863858286268405e-10
+          },
+          {
+            "name": "RAV4_V12_part_41_DashGrille",
+            "vertices": 54,
+            "fallback_vertices": 5,
+            "degenerate_uv_or_geometry_faces": 11,
+            "max_abs_normal_dot_tangent": 1.746008088110429e-08
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_0_ATLAS_0",
+            "vertices": 12,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 9.454098337524641e-10
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_0_LEATHER_0",
+            "vertices": 1036,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.04244556162503e-08
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_2_LEATHER_0",
+            "vertices": 1669,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.059343522433423e-08
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_4_ATLAS_0",
+            "vertices": 272,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.899018207374113e-08
+          }
+        ],
+        "max_abs_normal_dot_tangent": 4.362571709437546e-08,
+        "normals_positions_and_uvs_preserved": true
+      },
+      "texture_memory": {
+        "textures_resized": 1,
+        "max_dimension": 1024,
+        "bytes_saved": 1572864
+      }
+    },
+    "x5_lod_c.kn5": {
+      "imported_meshes": [
+        "RAV4_V12_WHEEL_part_0_ATLAS_0",
+        "RAV4_V12_WHEEL_part_0_LEATHER_0",
+        "RAV4_V12_WHEEL_part_1_GRAPHITE_0",
+        "RAV4_V12_WHEEL_part_1_PLASTIC_0",
+        "RAV4_V12_WHEEL_part_1_SATIN_0",
+        "RAV4_V12_WHEEL_part_2_LEATHER_0",
+        "RAV4_V12_WHEEL_part_4_ATLAS_0",
+        "RAV4_V12_CABIN_part_5_SATIN_0",
+        "RAV4_V12_CABIN_part_6_ATLAS_0",
+        "RAV4_V12_CABIN_part_6_PLASTIC_0",
+        "RAV4_V12_CABIN_part_6_SATIN_0",
+        "RAV4_V12_CABIN_part_7_LEATHER_0",
+        "RAV4_V12_part_8_Speaker",
+        "RAV4_V12_CABIN_part_9_LEATHER_0",
+        "RAV4_V12_CABIN_part_10_ATLAS_0",
+        "RAV4_V12_CABIN_part_11_ATLAS_0",
+        "RAV4_V12_CABIN_part_11_PLASTIC_0",
+        "RAV4_V12_CABIN_part_11_SATIN_0",
+        "RAV4_V12_CABIN_part_12_LEATHER_0",
+        "RAV4_V12_part_13_Speaker",
+        "RAV4_V12_CABIN_part_14_LEATHER_0",
+        "RAV4_V12_CABIN_part_15_ATLAS_0",
+        "RAV4_V12_CABIN_part_16_SATIN_0",
+        "RAV4_V12_CABIN_part_17_ATLAS_0",
+        "RAV4_V12_CABIN_part_18_ATLAS_0",
+        "RAV4_V12_CABIN_part_18_PLASTIC_0",
+        "RAV4_V12_CABIN_part_18_SATIN_0",
+        "RAV4_V12_CABIN_part_19_LEATHER_0",
+        "RAV4_V12_part_20_Speaker",
+        "RAV4_V12_CABIN_part_21_LEATHER_0",
+        "RAV4_V12_CABIN_part_22_ATLAS_0",
+        "RAV4_V12_CABIN_part_23_ATLAS_0",
+        "RAV4_V12_CABIN_part_23_PLASTIC_0",
+        "RAV4_V12_CABIN_part_23_SATIN_0",
+        "RAV4_V12_CABIN_part_24_LEATHER_0",
+        "RAV4_V12_part_25_Speaker",
+        "RAV4_V12_CABIN_part_26_LEATHER_0",
+        "RAV4_V12_CABIN_part_27_PLASTIC_0",
+        "RAV4_V12_CABIN_part_29_ATLAS_0",
+        "RAV4_V12_OVERHEAD_part_29_ATLAS_0",
+        "RAV4_V12_CABIN_part_29_PLASTIC_0",
+        "RAV4_V12_CABIN_part_30_ATLAS_0",
+        "RAV4_V12_CABIN_part_30_GRAPHITE_0",
+        "RAV4_V12_CABIN_part_30_ORANGE_0",
+        "RAV4_V12_CABIN_part_30_PLASTIC_0",
+        "RAV4_V12_OVERHEAD_part_30_PLASTIC_0",
+        "RAV4_V12_CABIN_part_30_SATIN_0",
+        "RAV4_V12_CABIN_part_31_HEADLINER_0",
+        "RAV4_V12_CABIN_part_32_HEADLINER_0",
+        "RAV4_V12_CABIN_part_33_CARPET_0",
+        "RAV4_V12_CABIN_part_33_PLASTIC_0",
+        "RAV4_V12_CABIN_part_34_LEATHER_0",
+        "RAV4_V12_OVERHEAD_part_35_HEADLINER_0",
+        "RAV4_V12_CABIN_part_36_LEATHER_0",
+        "RAV4_V12_CABIN_part_37_LEATHER_0",
+        "RAV4_V12_CABIN_part_38_DASH_0",
+        "RAV4_V12_CABIN_part_38_LEATHER_0",
+        "RAV4_V12_CABIN_part_39_PLASTIC_0",
+        "RAV4_V12_part_40_OverheadGrille",
+        "RAV4_V12_part_41_DashGrille",
+        "RAV4_V12_part_42_Speaker",
+        "RAV4_V12_CABIN_part_43_GRAPHITE_0"
+      ],
+      "source_file": "donor_geometry_lod_2.npz",
+      "source_triangles_imported": 37747,
+      "steering_pivot_and_tilt_retained": true,
+      "wheel_fit_scale": 1.011,
+      "instruments": {
+        "cluster_center": [
+          0.431,
+          1.0709400177001953,
+          0.8035829067230225
+        ],
+        "cluster_width_height_m": [
+          0.3086971044540405,
+          0.09264814853668213
+        ],
+        "mid_scale": 0.8720257187967247,
+        "display_surface": "Adventure face on a plane fitted within supplied cluster hood",
+        "hybrid_baked_readings_removed": true,
+        "source_tablet_viewport_width_m": 0.20245718955993652,
+        "native_pointer_calibrations_retained": true
+      },
+      "old_cabin_meshes_removed": [
+        "RAV4_CABIN_BODY_Interior_0_Headliner_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_0_Plastic_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_0_SoftTex_SURFACE_0_PERFORATED_REAR",
+        "RAV4_CABIN_BODY_Interior_0_SoftTex_SURFACE_0_PERFORATED_FRONT",
+        "RAV4_CABIN_BODY_Interior_0_SoftTex_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_1_Dash_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_1_Headliner_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_1_Plastic_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_1_SoftTex_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_1_SoftTex_SURFACE_2",
+        "RAV4_CABIN_BODY_Interior_2_Dash_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_2_Dash_SURFACE_1",
+        "RAV4_CABIN_BODY_Interior_2_Plastic_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_2_SoftTex_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_2_SoftTex_SURFACE_1",
+        "STEER_HR",
+        "RAV4_CLUSTER_FACE",
+        "RAV4_DASH_STITCH",
+        "RAV4_STEERING_STATIONARY_0",
+        "RAV4_STEERING_STATIONARY_1",
+        "RAV4_SELECTOR_LEGEND",
+        "RAV4_SEAT_STITCH",
+        "RAV4_V9_SEAT_SEAMS",
+        "RAV4_V10_ORANGE_SHOULDER_STRIPES",
+        "RAV4_ENTUNE_BEZEL",
+        "RAV4_ENTUNE_SCREEN",
+        "RAV4_V10_ENTUNE_SILVER_-1",
+        "RAV4_V10_ENTUNE_KEY_-1_0",
+        "RAV4_V10_ENTUNE_KEY_-1_1",
+        "RAV4_V10_ENTUNE_KEY_-1_2",
+        "RAV4_V10_ENTUNE_KEY_-1_3",
+        "RAV4_ENTUNE_KNOB_-1",
+        "RAV4_ENTUNE_KNOB_FACE_-1",
+        "RAV4_V10_ENTUNE_SILVER_1",
+        "RAV4_V10_ENTUNE_KEY_1_0",
+        "RAV4_V10_ENTUNE_KEY_1_1",
+        "RAV4_V10_ENTUNE_KEY_1_2",
+        "RAV4_V10_ENTUNE_KEY_1_3",
+        "RAV4_ENTUNE_KNOB_1",
+        "RAV4_ENTUNE_KNOB_FACE_1",
+        "RAV4_CENTER_VENT_-1",
+        "RAV4_V10_VENT_SLIDER_-1",
+        "RAV4_CENTER_VENT_1",
+        "RAV4_V10_VENT_SLIDER_1",
+        "RAV4_V10_HAZARD",
+        "RAV4_CLIMATE_PANEL",
+        "RAV4_HVAC_SATIN_RING_-1",
+        "RAV4_HVAC_KNOB_-1",
+        "RAV4_V10_HVAC_DIAL_FACE_-1",
+        "RAV4_HVAC_SATIN_RING_1",
+        "RAV4_HVAC_KNOB_1",
+        "RAV4_V10_HVAC_DIAL_FACE_1",
+        "RAV4_V10_ORANGE_PASSENGER_TRAY",
+        "RAV4_V10_TRAY_ROLLED_LIP",
+        "RAV4_V10_ORANGE_DRIVER_TRAY",
+        "RAV4_V10_CONSOLE_BLACK_BACKING_-1",
+        "RAV4_V10_CONSOLE_SILVER_RAIL_-1",
+        "RAV4_V10_CONSOLE_BLACK_BACKING_1",
+        "RAV4_V10_CONSOLE_SILVER_RAIL_1",
+        "RAV4_V10_ORANGE_FRONT_STORAGE",
+        "RAV4_V10_12V_CAP",
+        "RAV4_V10_USB_PANEL",
+        "RAV4_V10_CUPHOLDER_DECK",
+        "RAV4_V10_CUPHOLDER_WELL_0",
+        "RAV4_V10_CUPHOLDER_WELL_1",
+        "RAV4_V10_CUPHOLDER_ORANGE_LIP",
+        "ARROW_RPM",
+        "RAV4_NEEDLE_CAP_RPM",
+        "ARROW_SPEED",
+        "RAV4_MID_DISPLAY",
+        "RAV4_V10_HVAC_KNURL",
+        "RAV4_V10_VENT_LOUVER",
+        "RAV4_V10_VENT_VANE",
+        "RAV4_V11_CLIMATE_KEY_0",
+        "RAV4_V11_CLIMATE_KEY_1",
+        "RAV4_V11_CLIMATE_KEY_2",
+        "RAV4_V11_CLIMATE_KEY_3",
+        "RAV4_V11_CLIMATE_KEY_4",
+        "RAV4_V11_CLIMATE_KEY_5"
+      ],
+      "tangents": {
+        "normal_mapped_meshes_rebuilt": [
+          {
+            "name": "BODY_lambert1_0",
+            "vertices": 39268,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.072168641178209e-08
+          },
+          {
+            "name": "BODY_BlackTrims_0",
+            "vertices": 10647,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.7627818466899896e-08
+          },
+          {
+            "name": "BODY_Adventure_Rock_0",
+            "vertices": 11199,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.3558036288970925e-08
+          },
+          {
+            "name": "RAV4_TAILGATE_GARNISH",
+            "vertices": 414,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.836681816693499e-08
+          },
+          {
+            "name": "BODY_WhiteRoof_0",
+            "vertices": 1653,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.153016730512604e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_LF_TREAD",
+            "vertices": 768,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.919484498071668e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_RF_TREAD",
+            "vertices": 768,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.950950483444515e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_LR_TREAD",
+            "vertices": 768,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.739082626852408e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_RR_TREAD",
+            "vertices": 768,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.4742419274813585e-08
+          },
+          {
+            "name": "RAV4_SOLID_ROOF",
+            "vertices": 1074,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.7525151985740024e-08
+          },
+          {
+            "name": "RAV4_ROOF_EDGE_RETURN",
+            "vertices": 116,
+            "fallback_vertices": 116,
+            "degenerate_uv_or_geometry_faces": 96,
+            "max_abs_normal_dot_tangent": 1.8258407452620418e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_6_ATLAS_0",
+            "vertices": 3,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.5501985745357558e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_7_LEATHER_0",
+            "vertices": 150,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.735311649404437e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_9_LEATHER_0",
+            "vertices": 353,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.2386471948697704e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_10_ATLAS_0",
+            "vertices": 53,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.024898787007402e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_11_ATLAS_0",
+            "vertices": 4,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 1.729781129444774e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_12_LEATHER_0",
+            "vertices": 149,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.3847648295282085e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_14_LEATHER_0",
+            "vertices": 371,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.171280931775101e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_15_ATLAS_0",
+            "vertices": 50,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.024898787007402e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_17_ATLAS_0",
+            "vertices": 160,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 1.8332124589615778e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_18_ATLAS_0",
+            "vertices": 4,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.866011761248899e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_19_LEATHER_0",
+            "vertices": 600,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.8707917704439154e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_21_LEATHER_0",
+            "vertices": 215,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.6764570512937134e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_22_ATLAS_0",
+            "vertices": 86,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.6919344303942836e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_23_ATLAS_0",
+            "vertices": 3,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 9.402495615429274e-09
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_24_LEATHER_0",
+            "vertices": 590,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.897934847119089e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_26_LEATHER_0",
+            "vertices": 214,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.289817374074744e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_29_ATLAS_0",
+            "vertices": 3199,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.6288959393004916e-08
+          },
+          {
+            "name": "RAV4_V12_OVERHEAD_part_29_ATLAS_0",
+            "vertices": 72,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 1.9274589591056213e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_30_ATLAS_0",
+            "vertices": 117,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 7,
+            "max_abs_normal_dot_tangent": 3.084264774133594e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_34_LEATHER_0",
+            "vertices": 240,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.991283969995152e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_36_LEATHER_0",
+            "vertices": 3839,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.1097307168502795e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_37_LEATHER_0",
+            "vertices": 923,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.700337786183283e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_38_DASH_0",
+            "vertices": 345,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.240893220457508e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_38_LEATHER_0",
+            "vertices": 193,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.53182082468706e-08
+          },
+          {
+            "name": "RAV4_V12_part_40_OverheadGrille",
+            "vertices": 83,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.7863858286268405e-10
+          },
+          {
+            "name": "RAV4_V12_part_41_DashGrille",
+            "vertices": 54,
+            "fallback_vertices": 5,
+            "degenerate_uv_or_geometry_faces": 11,
+            "max_abs_normal_dot_tangent": 1.746008088110429e-08
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_0_ATLAS_0",
+            "vertices": 12,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 9.454098337524641e-10
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_0_LEATHER_0",
+            "vertices": 1036,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.04244556162503e-08
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_2_LEATHER_0",
+            "vertices": 1669,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.059343522433423e-08
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_4_ATLAS_0",
+            "vertices": 272,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.899018207374113e-08
+          }
+        ],
+        "max_abs_normal_dot_tangent": 4.7627818466899896e-08,
+        "normals_positions_and_uvs_preserved": true
+      },
+      "texture_memory": {
+        "textures_resized": 2,
+        "max_dimension": 512,
+        "bytes_saved": 2228224
+      }
+    },
+    "x5_lod_d.kn5": {
+      "imported_meshes": [
+        "RAV4_V12_WHEEL_part_0_ATLAS_0",
+        "RAV4_V12_WHEEL_part_0_LEATHER_0",
+        "RAV4_V12_WHEEL_part_1_GRAPHITE_0",
+        "RAV4_V12_WHEEL_part_1_PLASTIC_0",
+        "RAV4_V12_WHEEL_part_1_SATIN_0",
+        "RAV4_V12_WHEEL_part_2_LEATHER_0",
+        "RAV4_V12_WHEEL_part_4_ATLAS_0",
+        "RAV4_V12_CABIN_part_5_SATIN_0",
+        "RAV4_V12_CABIN_part_6_PLASTIC_0",
+        "RAV4_V12_CABIN_part_6_SATIN_0",
+        "RAV4_V12_CABIN_part_7_LEATHER_0",
+        "RAV4_V12_part_8_Speaker",
+        "RAV4_V12_CABIN_part_9_LEATHER_0",
+        "RAV4_V12_CABIN_part_10_ATLAS_0",
+        "RAV4_V12_CABIN_part_11_PLASTIC_0",
+        "RAV4_V12_CABIN_part_11_SATIN_0",
+        "RAV4_V12_CABIN_part_12_LEATHER_0",
+        "RAV4_V12_part_13_Speaker",
+        "RAV4_V12_CABIN_part_14_LEATHER_0",
+        "RAV4_V12_CABIN_part_15_ATLAS_0",
+        "RAV4_V12_CABIN_part_16_SATIN_0",
+        "RAV4_V12_CABIN_part_17_ATLAS_0",
+        "RAV4_V12_CABIN_part_18_PLASTIC_0",
+        "RAV4_V12_CABIN_part_18_SATIN_0",
+        "RAV4_V12_CABIN_part_19_LEATHER_0",
+        "RAV4_V12_part_20_Speaker",
+        "RAV4_V12_CABIN_part_21_LEATHER_0",
+        "RAV4_V12_CABIN_part_22_ATLAS_0",
+        "RAV4_V12_CABIN_part_23_PLASTIC_0",
+        "RAV4_V12_CABIN_part_23_SATIN_0",
+        "RAV4_V12_CABIN_part_24_LEATHER_0",
+        "RAV4_V12_part_25_Speaker",
+        "RAV4_V12_CABIN_part_26_LEATHER_0",
+        "RAV4_V12_CABIN_part_27_PLASTIC_0",
+        "RAV4_V12_CABIN_part_29_ATLAS_0",
+        "RAV4_V12_OVERHEAD_part_29_ATLAS_0",
+        "RAV4_V12_CABIN_part_29_PLASTIC_0",
+        "RAV4_V12_CABIN_part_30_ATLAS_0",
+        "RAV4_V12_CABIN_part_30_GRAPHITE_0",
+        "RAV4_V12_CABIN_part_30_ORANGE_0",
+        "RAV4_V12_CABIN_part_30_PLASTIC_0",
+        "RAV4_V12_OVERHEAD_part_30_PLASTIC_0",
+        "RAV4_V12_CABIN_part_30_SATIN_0",
+        "RAV4_V12_CABIN_part_31_HEADLINER_0",
+        "RAV4_V12_CABIN_part_32_HEADLINER_0",
+        "RAV4_V12_CABIN_part_33_CARPET_0",
+        "RAV4_V12_CABIN_part_33_PLASTIC_0",
+        "RAV4_V12_CABIN_part_34_LEATHER_0",
+        "RAV4_V12_OVERHEAD_part_35_HEADLINER_0",
+        "RAV4_V12_CABIN_part_36_LEATHER_0",
+        "RAV4_V12_CABIN_part_37_LEATHER_0",
+        "RAV4_V12_CABIN_part_38_DASH_0",
+        "RAV4_V12_CABIN_part_38_LEATHER_0",
+        "RAV4_V12_CABIN_part_39_PLASTIC_0",
+        "RAV4_V12_part_40_OverheadGrille",
+        "RAV4_V12_part_41_DashGrille",
+        "RAV4_V12_part_42_Speaker",
+        "RAV4_V12_CABIN_part_43_GRAPHITE_0"
+      ],
+      "source_file": "donor_geometry_lod_3.npz",
+      "source_triangles_imported": 29366,
+      "steering_pivot_and_tilt_retained": true,
+      "wheel_fit_scale": 1.011,
+      "instruments": {
+        "cluster_center": [
+          0.431,
+          1.0709400177001953,
+          0.8035829067230225
+        ],
+        "cluster_width_height_m": [
+          0.3086971044540405,
+          0.09264814853668213
+        ],
+        "mid_scale": 0.8720257187967247,
+        "display_surface": "Adventure face on a plane fitted within supplied cluster hood",
+        "hybrid_baked_readings_removed": true,
+        "source_tablet_viewport_width_m": 0.20245718955993652,
+        "native_pointer_calibrations_retained": true
+      },
+      "old_cabin_meshes_removed": [
+        "RAV4_CABIN_BODY_Interior_0_Headliner_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_0_Plastic_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_0_SoftTex_SURFACE_0_PERFORATED_REAR",
+        "RAV4_CABIN_BODY_Interior_0_SoftTex_SURFACE_0_PERFORATED_FRONT",
+        "RAV4_CABIN_BODY_Interior_0_SoftTex_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_1_Dash_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_1_Headliner_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_1_Plastic_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_1_SoftTex_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_1_SoftTex_SURFACE_2",
+        "RAV4_CABIN_BODY_Interior_2_Dash_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_2_Dash_SURFACE_1",
+        "RAV4_CABIN_BODY_Interior_2_Plastic_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_2_SoftTex_SURFACE_0",
+        "RAV4_CABIN_BODY_Interior_2_SoftTex_SURFACE_1",
+        "STEER_HR",
+        "RAV4_CLUSTER_FACE",
+        "RAV4_DASH_STITCH",
+        "RAV4_STEERING_STATIONARY_0",
+        "RAV4_STEERING_STATIONARY_1",
+        "RAV4_SELECTOR_LEGEND",
+        "RAV4_SEAT_STITCH",
+        "RAV4_V9_SEAT_SEAMS",
+        "RAV4_V10_ORANGE_SHOULDER_STRIPES",
+        "RAV4_ENTUNE_BEZEL",
+        "RAV4_ENTUNE_SCREEN",
+        "RAV4_V10_ENTUNE_SILVER_-1",
+        "RAV4_V10_ENTUNE_KEY_-1_0",
+        "RAV4_V10_ENTUNE_KEY_-1_1",
+        "RAV4_V10_ENTUNE_KEY_-1_2",
+        "RAV4_V10_ENTUNE_KEY_-1_3",
+        "RAV4_ENTUNE_KNOB_-1",
+        "RAV4_ENTUNE_KNOB_FACE_-1",
+        "RAV4_V10_ENTUNE_SILVER_1",
+        "RAV4_V10_ENTUNE_KEY_1_0",
+        "RAV4_V10_ENTUNE_KEY_1_1",
+        "RAV4_V10_ENTUNE_KEY_1_2",
+        "RAV4_V10_ENTUNE_KEY_1_3",
+        "RAV4_ENTUNE_KNOB_1",
+        "RAV4_ENTUNE_KNOB_FACE_1",
+        "RAV4_CENTER_VENT_-1",
+        "RAV4_V10_VENT_SLIDER_-1",
+        "RAV4_CENTER_VENT_1",
+        "RAV4_V10_VENT_SLIDER_1",
+        "RAV4_V10_HAZARD",
+        "RAV4_CLIMATE_PANEL",
+        "RAV4_HVAC_SATIN_RING_-1",
+        "RAV4_HVAC_KNOB_-1",
+        "RAV4_V10_HVAC_DIAL_FACE_-1",
+        "RAV4_HVAC_SATIN_RING_1",
+        "RAV4_HVAC_KNOB_1",
+        "RAV4_V10_HVAC_DIAL_FACE_1",
+        "RAV4_V10_ORANGE_PASSENGER_TRAY",
+        "RAV4_V10_TRAY_ROLLED_LIP",
+        "RAV4_V10_ORANGE_DRIVER_TRAY",
+        "RAV4_V10_CONSOLE_BLACK_BACKING_-1",
+        "RAV4_V10_CONSOLE_SILVER_RAIL_-1",
+        "RAV4_V10_CONSOLE_BLACK_BACKING_1",
+        "RAV4_V10_CONSOLE_SILVER_RAIL_1",
+        "RAV4_V10_ORANGE_FRONT_STORAGE",
+        "RAV4_V10_12V_CAP",
+        "RAV4_V10_USB_PANEL",
+        "RAV4_V10_CUPHOLDER_DECK",
+        "RAV4_V10_CUPHOLDER_WELL_0",
+        "RAV4_V10_CUPHOLDER_WELL_1",
+        "RAV4_V10_CUPHOLDER_ORANGE_LIP",
+        "ARROW_RPM",
+        "RAV4_NEEDLE_CAP_RPM",
+        "ARROW_SPEED",
+        "RAV4_MID_DISPLAY",
+        "RAV4_V10_HVAC_KNURL",
+        "RAV4_V10_VENT_LOUVER",
+        "RAV4_V10_VENT_VANE",
+        "RAV4_V11_CLIMATE_KEY_0",
+        "RAV4_V11_CLIMATE_KEY_1",
+        "RAV4_V11_CLIMATE_KEY_2",
+        "RAV4_V11_CLIMATE_KEY_3",
+        "RAV4_V11_CLIMATE_KEY_4",
+        "RAV4_V11_CLIMATE_KEY_5"
+      ],
+      "tangents": {
+        "normal_mapped_meshes_rebuilt": [
+          {
+            "name": "BODY_lambert1_0",
+            "vertices": 39268,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.072168641178209e-08
+          },
+          {
+            "name": "BODY_BlackTrims_0",
+            "vertices": 10647,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.7627818466899896e-08
+          },
+          {
+            "name": "BODY_Adventure_Rock_0",
+            "vertices": 11199,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.3558036288970925e-08
+          },
+          {
+            "name": "RAV4_TAILGATE_GARNISH",
+            "vertices": 414,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.836681816693499e-08
+          },
+          {
+            "name": "BODY_WhiteRoof_0",
+            "vertices": 1653,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.153016730512604e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_LF_TREAD",
+            "vertices": 768,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.919484498071668e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_RF_TREAD",
+            "vertices": 768,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.950950483444515e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_LR_TREAD",
+            "vertices": 768,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.739082626852408e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_RR_TREAD",
+            "vertices": 768,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.4742419274813585e-08
+          },
+          {
+            "name": "RAV4_SOLID_ROOF",
+            "vertices": 228,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.9108676136146983e-08
+          },
+          {
+            "name": "RAV4_ROOF_EDGE_RETURN",
+            "vertices": 116,
+            "fallback_vertices": 116,
+            "degenerate_uv_or_geometry_faces": 96,
+            "max_abs_normal_dot_tangent": 1.8258407452620418e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_7_LEATHER_0",
+            "vertices": 149,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.735311649404437e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_9_LEATHER_0",
+            "vertices": 249,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.419929339720795e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_10_ATLAS_0",
+            "vertices": 53,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.024898787007402e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_12_LEATHER_0",
+            "vertices": 146,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.057483677348927e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_14_LEATHER_0",
+            "vertices": 261,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.3745094607517956e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_15_ATLAS_0",
+            "vertices": 50,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.024898787007402e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_17_ATLAS_0",
+            "vertices": 160,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 1.8332124589615778e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_19_LEATHER_0",
+            "vertices": 379,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.281281002465164e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_21_LEATHER_0",
+            "vertices": 190,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.6764570512937134e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_22_ATLAS_0",
+            "vertices": 86,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.6919344303942836e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_24_LEATHER_0",
+            "vertices": 339,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.486211103131964e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_26_LEATHER_0",
+            "vertices": 189,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.4714713714745216e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_29_ATLAS_0",
+            "vertices": 3199,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.6288959393004916e-08
+          },
+          {
+            "name": "RAV4_V12_OVERHEAD_part_29_ATLAS_0",
+            "vertices": 72,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 1.9274589591056213e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_30_ATLAS_0",
+            "vertices": 98,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 7,
+            "max_abs_normal_dot_tangent": 3.2311276210172934e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_34_LEATHER_0",
+            "vertices": 240,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.991283969995152e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_36_LEATHER_0",
+            "vertices": 2629,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.9312301247651504e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_37_LEATHER_0",
+            "vertices": 749,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.6583915286048097e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_38_DASH_0",
+            "vertices": 297,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.397672765359516e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_38_LEATHER_0",
+            "vertices": 143,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.661115199893317e-08
+          },
+          {
+            "name": "RAV4_V12_part_40_OverheadGrille",
+            "vertices": 83,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.7863858286268405e-10
+          },
+          {
+            "name": "RAV4_V12_part_41_DashGrille",
+            "vertices": 54,
+            "fallback_vertices": 5,
+            "degenerate_uv_or_geometry_faces": 11,
+            "max_abs_normal_dot_tangent": 1.746008088110429e-08
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_0_ATLAS_0",
+            "vertices": 12,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 9.454098337524641e-10
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_0_LEATHER_0",
+            "vertices": 1036,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.04244556162503e-08
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_2_LEATHER_0",
+            "vertices": 1669,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.059343522433423e-08
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_4_ATLAS_0",
+            "vertices": 272,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.899018207374113e-08
+          }
+        ],
+        "max_abs_normal_dot_tangent": 4.7627818466899896e-08,
+        "normals_positions_and_uvs_preserved": true
+      },
+      "texture_memory": {
+        "textures_resized": 4,
+        "max_dimension": 256,
+        "bytes_saved": 2916352
+      }
+    }
+  }
+}

@@ -1,0 +1,652 @@
+{
+  "expected_version": "0.12",
+  "models": {
+    "x5.kn5": {
+      "nodes": 201,
+      "triangles": 553078,
+      "textures": 62,
+      "materials": 58,
+      "generated_dds_full_mip_chains": 24,
+      "degenerate_faces": 0,
+      "reversed_normal_faces": 0,
+      "normal_mapped_meshes": 49,
+      "max_abs_normal_dot_tangent": 6.442860467359424e-08,
+      "bounds_min": [
+        -1.1372859477996826,
+        0.008048206567764282,
+        -2.494028091430664
+      ],
+      "bounds_max": [
+        1.1372631788253784,
+        1.7452579736709595,
+        2.623293876647949
+      ],
+      "paint_panel_topology": {
+        "triangles": 82473,
+        "welded_vertices": 45859,
+        "surface_area_m2": 12.40052475416667,
+        "boundary_edges": 10428,
+        "nonmanifold_edges": 1307,
+        "boundary_edges_per_triangle": 0.12644138081553963
+      },
+      "opaque_exterior_topology": {
+        "triangles": 264822,
+        "welded_vertices": 146894,
+        "surface_area_m2": 45.84753582206426,
+        "boundary_edges": 29537,
+        "nonmanifold_edges": 1309,
+        "boundary_edges_per_triangle": 0.1115352954059708
+      },
+      "lossless_binary_roundtrip": true,
+      "sha256": "d50e3502fa212ecc1feba54f4f3eabce1b943fd1b6382c013696217d526dd1c7"
+    },
+    "x5_lod_b.kn5": {
+      "nodes": 199,
+      "triangles": 185148,
+      "textures": 62,
+      "materials": 58,
+      "generated_dds_full_mip_chains": 24,
+      "degenerate_faces": 0,
+      "reversed_normal_faces": 0,
+      "normal_mapped_meshes": 41,
+      "max_abs_normal_dot_tangent": 6.379559636116028e-08,
+      "bounds_min": [
+        -1.1370753049850464,
+        0.007948189973831177,
+        -2.494077682495117
+      ],
+      "bounds_max": [
+        1.137052059173584,
+        1.7451080083847046,
+        2.6232290267944336
+      ],
+      "paint_panel_topology": {
+        "triangles": 25369,
+        "welded_vertices": 17307,
+        "surface_area_m2": 12.316245146253468,
+        "boundary_edges": 10428,
+        "nonmanifold_edges": 1307,
+        "boundary_edges_per_triangle": 0.4110528597895069,
+        "area_ratio_to_highest_lod": 0.9932035450447464
+      },
+      "opaque_exterior_topology": {
+        "triangles": 72236,
+        "welded_vertices": 50627,
+        "surface_area_m2": 45.69720341661725,
+        "boundary_edges": 29553,
+        "nonmanifold_edges": 1307,
+        "boundary_edges_per_triangle": 0.4091173376155933,
+        "area_ratio_to_highest_lod": 0.996721036305409
+      },
+      "lossless_binary_roundtrip": true,
+      "sha256": "0f144d1840282cde82c2c9d5282a8161393dc40518bf280f26bf0fd8aed622c4"
+    },
+    "x5_lod_c.kn5": {
+      "nodes": 198,
+      "triangles": 107082,
+      "textures": 62,
+      "materials": 58,
+      "generated_dds_full_mip_chains": 24,
+      "degenerate_faces": 0,
+      "reversed_normal_faces": 0,
+      "normal_mapped_meshes": 41,
+      "max_abs_normal_dot_tangent": 6.379559636116028e-08,
+      "bounds_min": [
+        -1.140393853187561,
+        0.007948189973831177,
+        -2.5352325439453125
+      ],
+      "bounds_max": [
+        1.1371949911117554,
+        1.739615797996521,
+        2.6236815452575684
+      ],
+      "paint_panel_topology": {
+        "triangles": 17375,
+        "welded_vertices": 13310,
+        "surface_area_m2": 12.518362294583387,
+        "boundary_edges": 10428,
+        "nonmanifold_edges": 1307,
+        "boundary_edges_per_triangle": 0.6001726618705036,
+        "area_ratio_to_highest_lod": 1.0095026253124588
+      },
+      "opaque_exterior_topology": {
+        "triangles": 39056,
+        "welded_vertices": 34037,
+        "surface_area_m2": 43.84313800310342,
+        "boundary_edges": 29553,
+        "nonmanifold_edges": 1307,
+        "boundary_edges_per_triangle": 0.7566827120032773,
+        "area_ratio_to_highest_lod": 0.9562812311933193
+      },
+      "lossless_binary_roundtrip": true,
+      "sha256": "357fcdf3b1313a6bd56d6c7af6dafeac9e98065db4291a70f91b6953ab6cc807"
+    },
+    "x5_lod_d.kn5": {
+      "nodes": 194,
+      "triangles": 97245,
+      "textures": 62,
+      "materials": 58,
+      "generated_dds_full_mip_chains": 24,
+      "degenerate_faces": 0,
+      "reversed_normal_faces": 0,
+      "normal_mapped_meshes": 37,
+      "max_abs_normal_dot_tangent": 6.379559636116028e-08,
+      "bounds_min": [
+        -1.140393853187561,
+        0.007948189973831177,
+        -2.5352325439453125
+      ],
+      "bounds_max": [
+        1.1371949911117554,
+        1.739615797996521,
+        2.628718137741089
+      ],
+      "paint_panel_topology": {
+        "triangles": 17375,
+        "welded_vertices": 13310,
+        "surface_area_m2": 12.518362294583387,
+        "boundary_edges": 10428,
+        "nonmanifold_edges": 1307,
+        "boundary_edges_per_triangle": 0.6001726618705036,
+        "area_ratio_to_highest_lod": 1.0095026253124588
+      },
+      "opaque_exterior_topology": {
+        "triangles": 38624,
+        "welded_vertices": 33821,
+        "surface_area_m2": 43.75602744690286,
+        "boundary_edges": 29553,
+        "nonmanifold_edges": 1307,
+        "boundary_edges_per_triangle": 0.7651460231980116,
+        "area_ratio_to_highest_lod": 0.9543812259991767
+      },
+      "lossless_binary_roundtrip": true,
+      "sha256": "2674915a07292a358fa37d2f2360125516140bc5aa53d05c99e60c3c14164e0e"
+    }
+  },
+  "errors": [],
+  "warnings": [
+    "x5_lod_b.kn5: paint_panel_topology high boundary-edge ratio; inspect LOD silhouettes and seams",
+    "x5_lod_b.kn5: opaque_exterior_topology high boundary-edge ratio; inspect LOD silhouettes and seams",
+    "x5_lod_c.kn5: paint_panel_topology high boundary-edge ratio; inspect LOD silhouettes and seams",
+    "x5_lod_c.kn5: opaque_exterior_topology high boundary-edge ratio; inspect LOD silhouettes and seams",
+    "x5_lod_d.kn5: paint_panel_topology high boundary-edge ratio; inspect LOD silhouettes and seams",
+    "x5_lod_d.kn5: opaque_exterior_topology high boundary-edge ratio; inspect LOD silhouettes and seams",
+    "Preserved donor physics script requires signed ACI entitlement for online throttle; offline is enabled"
+  ],
+  "assetto_corsa_runtime_tested": false,
+  "runtime_checks_not_performed": [
+    "Assetto Corsa/Content Manager load and offline driving",
+    "CSP shader rendering, glass sorting, light switching and beams",
+    "Gauge direction/calibration under live telemetry",
+    "Driver hand alignment, steering input, mirror views and cockpit visibility",
+    "Replay/photo mode and actual LOD transition appearance",
+    "Sound playback and online entitlement/server compatibility"
+  ],
+  "collider": {
+    "nodes": 2,
+    "triangles": 214,
+    "textures": 0,
+    "materials": 1,
+    "generated_dds_full_mip_chains": 0,
+    "degenerate_faces": 0,
+    "reversed_normal_faces": 0,
+    "normal_mapped_meshes": 0,
+    "max_abs_normal_dot_tangent": 0.0,
+    "bounds_min": [
+      -0.9819519111799124,
+      0.2864273662336509,
+      -2.468715815561289
+    ],
+    "bounds_max": [
+      0.9819519111799124,
+      1.7367582069255256,
+      2.4817033788658627
+    ],
+    "paint_panel_topology": {
+      "triangles": 0,
+      "surface_area_m2": 0,
+      "boundary_edges": 0
+    },
+    "opaque_exterior_topology": {
+      "triangles": 0,
+      "surface_area_m2": 0,
+      "boundary_edges": 0
+    },
+    "lossless_binary_roundtrip": true,
+    "sha256": "0b7819a0efb56ee338b9df111bb85aa671f91aff474806f912373a1db2493b06"
+  },
+  "preservation": {
+    "byte_identical_data_files": 59,
+    "byte_identical_audio_files": 2,
+    "byte_identical_collision_meshes": 1,
+    "permitted_visual_data_changes": [
+      "data/driver3d.ini",
+      "data/mirrors.ini",
+      "data/car.ini",
+      "data/proview_nodes.ini",
+      "data/extra_animations.ini",
+      "data/lights.ini",
+      "data/analog_instruments.ini",
+      "data/digital_instruments.ini",
+      "data/dash_cam.ini",
+      "data/damage.ini"
+    ],
+    "engine_drivetrain_transmission_suspension_tyres_luts_and_physics_script_preserved": true
+  },
+  "configuration": {
+    "resolved_literal_mesh_material_references": 63,
+    "configured_driver_eye": [
+      0.431,
+      1.361272,
+      -0.096665
+    ],
+    "cluster_center": [
+      0.4309999942779541,
+      1.0709400177001953,
+      0.8035829067230225
+    ],
+    "camera_bounds_plausible_but_runtime_visibility_unverified": true,
+    "animation_bindings": [
+      {
+        "path": "animations/shift_dw.ksanim",
+        "targets": 55,
+        "driver_targets": 55,
+        "matching_car_targets": 0,
+        "absent_car_targets": [],
+        "all_targets_absent_from_car": false,
+        "explicit_configuration_mention": true
+      },
+      {
+        "path": "animations/shift_up.ksanim",
+        "targets": 55,
+        "driver_targets": 55,
+        "matching_car_targets": 0,
+        "absent_car_targets": [],
+        "all_targets_absent_from_car": false,
+        "explicit_configuration_mention": true
+      },
+      {
+        "path": "animations/steer.ksanim",
+        "targets": 60,
+        "driver_targets": 60,
+        "matching_car_targets": 0,
+        "absent_car_targets": [],
+        "all_targets_absent_from_car": false,
+        "explicit_configuration_mention": true
+      }
+    ]
+  },
+  "status": "passed_offline_checks",
+  "transplanted_interior": {
+    "x5.kn5": {
+      "imported_cabin_triangles": 111671,
+      "preserved_other_nodes": 116,
+      "retained_exterior_roof_plate_glass_mirrors_geometry": true,
+      "source_wheel_diameter_m": 0.37992000579833984,
+      "max_driver_contact_to_rim_vertex_m": 0.016004319450275625,
+      "wheel_moving_parts_under_single_native_steer_parent": true,
+      "native_mid_extra_rotation_absent": true,
+      "original_hybrid_display_not_imported": true,
+      "overhead_console_clear_of_raised_mirror_18_tested_sightlines": true,
+      "cluster_exterior_light_leak_two_driver_rays_blocked": true,
+      "old_cabin_removed_except_raised_mirror_housing": true
+    },
+    "x5_lod_b.kn5": {
+      "imported_cabin_triangles": 66377,
+      "preserved_other_nodes": 116,
+      "retained_exterior_roof_plate_glass_mirrors_geometry": true,
+      "source_wheel_diameter_m": 0.37992000579833984,
+      "max_driver_contact_to_rim_vertex_m": 0.016004319450275625,
+      "wheel_moving_parts_under_single_native_steer_parent": true,
+      "native_mid_extra_rotation_absent": true,
+      "original_hybrid_display_not_imported": true,
+      "overhead_console_clear_of_raised_mirror_18_tested_sightlines": true,
+      "cluster_exterior_light_leak_two_driver_rays_blocked": true,
+      "old_cabin_removed_except_raised_mirror_housing": true
+    },
+    "x5_lod_c.kn5": {
+      "imported_cabin_triangles": 37747,
+      "preserved_other_nodes": 116,
+      "retained_exterior_roof_plate_glass_mirrors_geometry": true,
+      "source_wheel_diameter_m": 0.37992000579833984,
+      "max_driver_contact_to_rim_vertex_m": 0.016004319450275625,
+      "wheel_moving_parts_under_single_native_steer_parent": true,
+      "native_mid_extra_rotation_absent": true,
+      "original_hybrid_display_not_imported": true,
+      "overhead_console_clear_of_raised_mirror_18_tested_sightlines": true,
+      "cluster_exterior_light_leak_two_driver_rays_blocked": true,
+      "old_cabin_removed_except_raised_mirror_housing": true
+    },
+    "x5_lod_d.kn5": {
+      "imported_cabin_triangles": 29366,
+      "preserved_other_nodes": 116,
+      "retained_exterior_roof_plate_glass_mirrors_geometry": true,
+      "source_wheel_diameter_m": 0.37992000579833984,
+      "max_driver_contact_to_rim_vertex_m": 0.016004319450275625,
+      "wheel_moving_parts_under_single_native_steer_parent": true,
+      "native_mid_extra_rotation_absent": true,
+      "original_hybrid_display_not_imported": true,
+      "overhead_console_clear_of_raised_mirror_18_tested_sightlines": true,
+      "cluster_exterior_light_leak_two_driver_rays_blocked": true,
+      "old_cabin_removed_except_raised_mirror_housing": true
+    }
+  },
+  "native_gauge_motion": [
+    {
+      "target": "ARROW_RPM",
+      "single_native_owner": true,
+      "samples": [
+        {
+          "input": 0,
+          "rotation_degrees": 0.0,
+          "tip_xy": [
+            0.026149053126573563,
+            -0.026149053126573563
+          ]
+        },
+        {
+          "input": 2000.0,
+          "rotation_degrees": 67.5,
+          "tip_xy": [
+            0.034165384381765834,
+            0.014151765574617326
+          ]
+        },
+        {
+          "input": 4000.0,
+          "rotation_degrees": 135.0,
+          "tip_xy": [
+            4.400973090057756e-18,
+            0.03698034557481492
+          ]
+        },
+        {
+          "input": 6000.0,
+          "rotation_degrees": 202.5,
+          "tip_xy": [
+            -0.034165384381765834,
+            0.014151765574617337
+          ]
+        },
+        {
+          "input": 8000,
+          "rotation_degrees": 270.0,
+          "tip_xy": [
+            -0.02614905312657357,
+            -0.026149053126573556
+          ]
+        }
+      ]
+    },
+    {
+      "target": "ARROW_SPEED",
+      "single_native_owner": true,
+      "samples": [
+        {
+          "input": 0.0,
+          "rotation_degrees": 0.0,
+          "tip_xy": [
+            0.032561082392930984,
+            -0.032561082392930984
+          ]
+        },
+        {
+          "input": 56.327040000000004,
+          "rotation_degrees": 67.5,
+          "tip_xy": [
+            0.04254310435089188,
+            0.017621930807593243
+          ]
+        },
+        {
+          "input": 112.65408000000001,
+          "rotation_degrees": 135.0,
+          "tip_xy": [
+            7.971005204497818e-18,
+            0.046048324325630795
+          ]
+        },
+        {
+          "input": 168.98112,
+          "rotation_degrees": 202.5,
+          "tip_xy": [
+            -0.04254310435089188,
+            0.017621930807593254
+          ]
+        },
+        {
+          "input": 225.30816000000002,
+          "rotation_degrees": 270.0,
+          "tip_xy": [
+            -0.03256108239293099,
+            -0.03256108239293098
+          ]
+        }
+      ]
+    }
+  ],
+  "decoded_driver_motion": {
+    "format": "KSANIM v2",
+    "decoded_frames": 362,
+    "rig_targets": 60,
+    "maximum_quaternion_length_error": 4.12271812244569e-08,
+    "maximum_local_bone_offset_change_m": 0,
+    "maximum_grip_radius_error_m": 8.293241438028787e-08,
+    "maximum_interpolated_grip_radius_error_m": 0.0013706421708107874,
+    "neutral_animation_and_knh_match": true,
+    "sampled_contacts": [
+      {
+        "frame": 0,
+        "contacts_in_wheel_space": [
+          [
+            0.11120224545385621,
+            0.13252563652219643,
+            -0.004000005298098907
+          ],
+          [
+            -0.1112022592305768,
+            -0.132525686770644,
+            -0.003999987503166525
+          ]
+        ]
+      },
+      {
+        "frame": 30,
+        "contacts_in_wheel_space": [
+          [
+            0.15679124233127156,
+            -0.07311292640601355,
+            -0.0040000209621087615
+          ],
+          [
+            -0.04477571428619048,
+            -0.16710512331829508,
+            -0.003999990264882381
+          ]
+        ]
+      },
+      {
+        "frame": 60,
+        "contacts_in_wheel_space": [
+          [
+            0.17300001118315383,
+            2.1531233838236862e-08,
+            -0.003999994507721736
+          ],
+          [
+            0.030041136644470334,
+            -0.17037168610436082,
+            -0.004000013760082038
+          ]
+        ]
+      },
+      {
+        "frame": 90,
+        "contacts_in_wheel_space": [
+          [
+            0.15679121646008892,
+            0.07311294088844844,
+            -0.00400000705494029
+          ],
+          [
+            -0.15679124204520528,
+            -0.07311295380720864,
+            -0.003999966254592139
+          ]
+        ]
+      },
+      {
+        "frame": 120,
+        "contacts_in_wheel_space": [
+          [
+            0.11120224545385621,
+            0.13252563652219643,
+            -0.004000005298098907
+          ],
+          [
+            -0.1112022592305768,
+            -0.132525686770644,
+            -0.003999987503166525
+          ]
+        ]
+      },
+      {
+        "frame": 150,
+        "contacts_in_wheel_space": [
+          [
+            0.15679124233127156,
+            -0.07311292640601355,
+            -0.0040000209621087615
+          ],
+          [
+            -0.04477571428619048,
+            -0.16710512331829508,
+            -0.003999990264882381
+          ]
+        ]
+      },
+      {
+        "frame": 180,
+        "contacts_in_wheel_space": [
+          [
+            0.17300001118315383,
+            2.1531233838236862e-08,
+            -0.003999994507721736
+          ],
+          [
+            -0.17300000298708318,
+            3.754497253506608e-08,
+            -0.003999964058428903
+          ]
+        ]
+      },
+      {
+        "frame": 210,
+        "contacts_in_wheel_space": [
+          [
+            0.052022140846295695,
+            -0.16499302538286176,
+            -0.003999995434336083
+          ],
+          [
+            -0.15717189112098207,
+            -0.07229098444325463,
+            -0.02192297049306342
+          ]
+        ]
+      },
+      {
+        "frame": 240,
+        "contacts_in_wheel_space": [
+          [
+            0.11687710310144334,
+            -0.12754896085689033,
+            -0.0040000222828539544
+          ],
+          [
+            -0.11687706627876848,
+            0.12754896792783063,
+            -0.003999986454784
+          ]
+        ]
+      },
+      {
+        "frame": 270,
+        "contacts_in_wheel_space": [
+          [
+            0.1564062761837552,
+            -0.07393290461039774,
+            -0.021922987927303725
+          ],
+          [
+            -0.15983115707138756,
+            0.06620421961660657,
+            -0.003999983157890153
+          ]
+        ]
+      },
+      {
+        "frame": 300,
+        "contacts_in_wheel_space": [
+          [
+            -0.022581008413782244,
+            -0.17151991359518085,
+            -0.003999997067701942
+          ],
+          [
+            -0.17283533339797263,
+            -0.007546116285697241,
+            -0.003999964915838176
+          ]
+        ]
+      },
+      {
+        "frame": 330,
+        "contacts_in_wheel_space": [
+          [
+            0.052022140846295695,
+            -0.16499302538286176,
+            -0.003999995434336083
+          ],
+          [
+            -0.15717189112098207,
+            -0.07229098444325463,
+            -0.02192297049306342
+          ]
+        ]
+      },
+      {
+        "frame": 360,
+        "contacts_in_wheel_space": [
+          [
+            0.11687710310144334,
+            -0.12754896085689033,
+            -0.0040000222828539544
+          ],
+          [
+            -0.11687706627876848,
+            0.12754896792783063,
+            -0.003999986454784
+          ]
+        ]
+      }
+    ],
+    "actual_driver_skinning_and_runtime_tested": false
+  },
+  "native_mid_fonts": {
+    "native_font_atlas": [
+      6080,
+      96
+    ],
+    "ascii_metrics": 95,
+    "speed_gear_clock_assets_included": true,
+    "installation_paths": [
+      "content/fonts/rav4_adventure_mid_10.png",
+      "content/fonts/rav4_adventure_mid_10.txt"
+    ],
+    "content_manager_font_installation_path_cross_checked": true,
+    "actual_game_font_rendering_tested": false
+  },
+  "supplied_asset_sha256": "17689da39a8931b84838e9f27add07cb481fd610136829ee1dcfc0af5ba2f153"
+}
