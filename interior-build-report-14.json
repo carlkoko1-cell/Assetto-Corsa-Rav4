@@ -1,0 +1,5951 @@
+{
+  "release": "0.14",
+  "runtime_tested": false,
+  "models": {
+    "x5.kn5": {
+      "doors": {
+        "FL": {
+          "fitted_parts": [
+            "RAV4_V12_CABIN_part_17_ATLAS_0",
+            "RAV4_V12_CABIN_part_18_ATLAS_0",
+            "RAV4_V12_CABIN_part_18_PLASTIC_0",
+            "RAV4_V12_CABIN_part_18_SATIN_0",
+            "RAV4_V12_CABIN_part_19_LEATHER_0",
+            "RAV4_V12_part_20_Speaker",
+            "RAV4_V12_CABIN_part_21_LEATHER_0"
+          ],
+          "clipped_to_actual_window_sill": {
+            "RAV4_V12_CABIN_part_17_ATLAS_0": {
+              "before": 126,
+              "after": 126
+            },
+            "RAV4_V12_CABIN_part_18_ATLAS_0": {
+              "before": 22,
+              "after": 22
+            },
+            "RAV4_V12_CABIN_part_18_PLASTIC_0": {
+              "before": 2660,
+              "after": 2589
+            },
+            "RAV4_V12_CABIN_part_18_SATIN_0": {
+              "before": 735,
+              "after": 735
+            },
+            "RAV4_V12_CABIN_part_19_LEATHER_0": {
+              "before": 3204,
+              "after": 3205
+            },
+            "RAV4_V12_part_20_Speaker": {
+              "before": 130,
+              "after": 130
+            },
+            "RAV4_V12_CABIN_part_21_LEATHER_0": {
+              "before": 937,
+              "after": 937
+            }
+          },
+          "backing_outline_yz": [
+            [
+              0.425,
+              -0.235
+            ],
+            [
+              0.425,
+              0.78
+            ],
+            [
+              0.9,
+              0.94
+            ],
+            [
+              1.13,
+              0.94
+            ],
+            [
+              1.13,
+              -0.18
+            ],
+            [
+              1.19,
+              -0.205
+            ],
+            [
+              1.19,
+              -0.235
+            ]
+          ],
+          "jambs": [
+            {
+              "end": "REAR",
+              "z_m": -0.23499999940395355,
+              "top_m": 1.19,
+              "inner_x_m": 0.7581127867698669
+            },
+            {
+              "end": "FRONT",
+              "z_m": 0.9229999780654907,
+              "top_m": 1.13,
+              "inner_x_m": 0.74925923204422
+            }
+          ]
+        },
+        "FR": {
+          "fitted_parts": [
+            "RAV4_V12_CABIN_part_22_ATLAS_0",
+            "RAV4_V12_CABIN_part_23_ATLAS_0",
+            "RAV4_V12_CABIN_part_23_PLASTIC_0",
+            "RAV4_V12_CABIN_part_23_SATIN_0",
+            "RAV4_V12_CABIN_part_24_LEATHER_0",
+            "RAV4_V12_part_25_Speaker",
+            "RAV4_V12_CABIN_part_26_LEATHER_0"
+          ],
+          "clipped_to_actual_window_sill": {
+            "RAV4_V12_CABIN_part_22_ATLAS_0": {
+              "before": 76,
+              "after": 76
+            },
+            "RAV4_V12_CABIN_part_23_ATLAS_0": {
+              "before": 22,
+              "after": 22
+            },
+            "RAV4_V12_CABIN_part_23_PLASTIC_0": {
+              "before": 1458,
+              "after": 1387
+            },
+            "RAV4_V12_CABIN_part_23_SATIN_0": {
+              "before": 643,
+              "after": 643
+            },
+            "RAV4_V12_CABIN_part_24_LEATHER_0": {
+              "before": 3266,
+              "after": 3267
+            },
+            "RAV4_V12_part_25_Speaker": {
+              "before": 130,
+              "after": 130
+            },
+            "RAV4_V12_CABIN_part_26_LEATHER_0": {
+              "before": 940,
+              "after": 940
+            }
+          },
+          "backing_outline_yz": [
+            [
+              0.425,
+              -0.235
+            ],
+            [
+              0.425,
+              0.78
+            ],
+            [
+              0.9,
+              0.94
+            ],
+            [
+              1.13,
+              0.94
+            ],
+            [
+              1.13,
+              -0.18
+            ],
+            [
+              1.19,
+              -0.205
+            ],
+            [
+              1.19,
+              -0.235
+            ]
+          ],
+          "jambs": [
+            {
+              "end": "REAR",
+              "z_m": -0.23499999940395355,
+              "top_m": 1.19,
+              "inner_x_m": 0.7581127867698669
+            },
+            {
+              "end": "FRONT",
+              "z_m": 0.9229999780654907,
+              "top_m": 1.13,
+              "inner_x_m": 0.74925923204422
+            }
+          ]
+        },
+        "BL": {
+          "fitted_parts": [
+            "RAV4_V12_CABIN_part_5_SATIN_0",
+            "RAV4_V12_CABIN_part_6_ATLAS_0",
+            "RAV4_V12_CABIN_part_6_PLASTIC_0",
+            "RAV4_V12_CABIN_part_6_SATIN_0",
+            "RAV4_V12_CABIN_part_7_LEATHER_0",
+            "RAV4_V12_part_8_Speaker",
+            "RAV4_V12_CABIN_part_9_LEATHER_0",
+            "RAV4_V12_CABIN_part_10_ATLAS_0"
+          ],
+          "clipped_to_actual_window_sill": {
+            "RAV4_V12_CABIN_part_5_SATIN_0": {
+              "before": 708,
+              "after": 708
+            },
+            "RAV4_V12_CABIN_part_6_ATLAS_0": {
+              "before": 22,
+              "after": 22
+            },
+            "RAV4_V12_CABIN_part_6_PLASTIC_0": {
+              "before": 915,
+              "after": 915
+            },
+            "RAV4_V12_CABIN_part_6_SATIN_0": {
+              "before": 504,
+              "after": 504
+            },
+            "RAV4_V12_CABIN_part_7_LEATHER_0": {
+              "before": 571,
+              "after": 571
+            },
+            "RAV4_V12_part_8_Speaker": {
+              "before": 97,
+              "after": 97
+            },
+            "RAV4_V12_CABIN_part_9_LEATHER_0": {
+              "before": 1770,
+              "after": 1770
+            },
+            "RAV4_V12_CABIN_part_10_ATLAS_0": {
+              "before": 44,
+              "after": 44
+            }
+          },
+          "backing_outline_yz": [
+            [
+              0.435,
+              -1.325
+            ],
+            [
+              0.435,
+              -0.27
+            ],
+            [
+              1.173,
+              -0.27
+            ],
+            [
+              1.178,
+              -0.32
+            ],
+            [
+              1.178,
+              -1.01
+            ],
+            [
+              1.207,
+              -1.27
+            ],
+            [
+              1.22,
+              -1.325
+            ]
+          ],
+          "jambs": [
+            {
+              "end": "REAR",
+              "z_m": -1.3250000476837158,
+              "top_m": 1.22,
+              "inner_x_m": 0.7190927848815918
+            },
+            {
+              "end": "FRONT",
+              "z_m": -0.27000001072883606,
+              "top_m": 1.173,
+              "inner_x_m": 0.7379800066947937
+            }
+          ]
+        },
+        "BR": {
+          "fitted_parts": [
+            "RAV4_V12_CABIN_part_11_ATLAS_0",
+            "RAV4_V12_CABIN_part_11_PLASTIC_0",
+            "RAV4_V12_CABIN_part_11_SATIN_0",
+            "RAV4_V12_CABIN_part_12_LEATHER_0",
+            "RAV4_V12_part_13_Speaker",
+            "RAV4_V12_CABIN_part_14_LEATHER_0",
+            "RAV4_V12_CABIN_part_15_ATLAS_0",
+            "RAV4_V12_CABIN_part_16_SATIN_0"
+          ],
+          "clipped_to_actual_window_sill": {
+            "RAV4_V12_CABIN_part_11_ATLAS_0": {
+              "before": 22,
+              "after": 22
+            },
+            "RAV4_V12_CABIN_part_11_PLASTIC_0": {
+              "before": 916,
+              "after": 916
+            },
+            "RAV4_V12_CABIN_part_11_SATIN_0": {
+              "before": 512,
+              "after": 512
+            },
+            "RAV4_V12_CABIN_part_12_LEATHER_0": {
+              "before": 582,
+              "after": 582
+            },
+            "RAV4_V12_part_13_Speaker": {
+              "before": 97,
+              "after": 97
+            },
+            "RAV4_V12_CABIN_part_14_LEATHER_0": {
+              "before": 1863,
+              "after": 1863
+            },
+            "RAV4_V12_CABIN_part_15_ATLAS_0": {
+              "before": 44,
+              "after": 44
+            },
+            "RAV4_V12_CABIN_part_16_SATIN_0": {
+              "before": 708,
+              "after": 708
+            }
+          },
+          "backing_outline_yz": [
+            [
+              0.435,
+              -1.325
+            ],
+            [
+              0.435,
+              -0.27
+            ],
+            [
+              1.173,
+              -0.27
+            ],
+            [
+              1.178,
+              -0.32
+            ],
+            [
+              1.178,
+              -1.01
+            ],
+            [
+              1.207,
+              -1.27
+            ],
+            [
+              1.22,
+              -1.325
+            ]
+          ],
+          "jambs": [
+            {
+              "end": "REAR",
+              "z_m": -1.3250000476837158,
+              "top_m": 1.22,
+              "inner_x_m": 0.7190927848815918
+            },
+            {
+              "end": "FRONT",
+              "z_m": -0.27000001072883606,
+              "top_m": 1.173,
+              "inner_x_m": 0.7379800066947937
+            }
+          ]
+        }
+      },
+      "rpm": {
+        "control": "Single CSP RPM analog controller; native RPM entry removed",
+        "pivot_m": [
+          0.5301812887191772,
+          1.0698542594909668,
+          0.800583004951477
+        ],
+        "zero_degrees": -91,
+        "sweep_degrees": 183,
+        "range_rpm": [
+          0,
+          8000
+        ]
+      },
+      "materials": {
+        "changed_materials": [
+          "Rims1",
+          "Rims2",
+          "RAV4_V8_FrontGlass",
+          "RAV4_V8_PrivacyGlass",
+          "RAV4_V9_InnerFrontGlass",
+          "RAV4_V9_InnerPrivacyGlass"
+        ],
+        "inside_glass": "Known alpha-capable shader; reflection/specular terms zero; excluded from SSR",
+        "black_wheel_pockets": "Rims2 matte; original dark diffuse retained"
+      },
+      "android_auto": {
+        "runtime": "CSP shared android_auto/script.lua via Display_AndroidAuto",
+        "fallback": "Explicit dependency card, not a fake live interface",
+        "resolution": [
+          1024,
+          544
+        ]
+      },
+      "grille": {
+        "modules": [
+          {
+            "center_m": [
+              -0.37,
+              0.87,
+              2.5616225016466467
+            ],
+            "width_m": 0.135,
+            "height_m": 0.02,
+            "depth_m": 0.008,
+            "front_surface_offset_m": 0.0065
+          },
+          {
+            "center_m": [
+              -0.215,
+              0.87,
+              2.5759964642174027
+            ],
+            "width_m": 0.135,
+            "height_m": 0.02,
+            "depth_m": 0.008,
+            "front_surface_offset_m": 0.0065
+          },
+          {
+            "center_m": [
+              0.215,
+              0.87,
+              2.5760059109382207
+            ],
+            "width_m": 0.135,
+            "height_m": 0.02,
+            "depth_m": 0.008,
+            "front_surface_offset_m": 0.0065
+          },
+          {
+            "center_m": [
+              0.37,
+              0.87,
+              2.5616198750350936
+            ],
+            "width_m": 0.135,
+            "height_m": 0.02,
+            "depth_m": 0.008,
+            "front_surface_offset_m": 0.0065
+          }
+        ],
+        "emitter_meshes": [
+          "RAV4_V14_GRILLE_LED_0",
+          "RAV4_V14_GRILLE_LED_1",
+          "RAV4_V14_GRILLE_LED_2",
+          "RAV4_V14_GRILLE_LED_3"
+        ],
+        "control": "Normal headlights; native light bindings plus CSP emissive/short-range fill",
+        "surface_profile_xz": [
+          [
+            -0.445,
+            2.529252835804497
+          ],
+          [
+            -0.4400555555555556,
+            2.531936214215169
+          ],
+          [
+            -0.4351111111111111,
+            2.5346156478426654
+          ],
+          [
+            -0.4301666666666667,
+            2.5371319262782275
+          ],
+          [
+            -0.4252222222222222,
+            2.5396150838011575
+          ],
+          [
+            -0.4202777777777778,
+            2.5421053193965455
+          ],
+          [
+            -0.41533333333333333,
+            2.5444134245761765
+          ],
+          [
+            -0.4103888888888889,
+            2.5466473413736423
+          ],
+          [
+            -0.40544444444444444,
+            2.548880672031158
+          ],
+          [
+            -0.4005,
+            2.5508154836072494
+          ],
+          [
+            -0.39555555555555555,
+            2.552607035925404
+          ],
+          [
+            -0.39061111111111113,
+            2.554414513125824
+          ],
+          [
+            -0.38566666666666666,
+            2.5556765550924547
+          ],
+          [
+            -0.38072222222222224,
+            2.5567882122533887
+          ],
+          [
+            -0.37577777777777777,
+            2.557885653828805
+          ],
+          [
+            -0.37083333333333335,
+            2.558975222638299
+          ],
+          [
+            -0.3658888888888889,
+            2.559849078087828
+          ],
+          [
+            -0.36094444444444446,
+            2.560576009844583
+          ],
+          [
+            -0.356,
+            2.5613029416013386
+          ],
+          [
+            -0.35105555555555557,
+            2.5620366291476313
+          ],
+          [
+            -0.3461111111111111,
+            2.562784731687993
+          ],
+          [
+            -0.3411666666666667,
+            2.5635328342283548
+          ],
+          [
+            -0.3362222222222222,
+            2.5642809367687156
+          ],
+          [
+            -0.3312777777777778,
+            2.5649022018151775
+          ],
+          [
+            -0.32633333333333336,
+            2.565438167545219
+          ],
+          [
+            -0.3213888888888889,
+            2.5659741332752604
+          ],
+          [
+            -0.3164444444444444,
+            2.566510099005302
+          ],
+          [
+            -0.3115,
+            2.5670460647353437
+          ],
+          [
+            -0.3065555555555556,
+            2.567566927773288
+          ],
+          [
+            -0.3016111111111111,
+            2.568087424423194
+          ],
+          [
+            -0.29666666666666663,
+            2.5686079210731
+          ],
+          [
+            -0.2917222222222222,
+            2.5691284177230065
+          ],
+          [
+            -0.2867777777777778,
+            2.569477446151555
+          ],
+          [
+            -0.2818333333333333,
+            2.5697916347731176
+          ],
+          [
+            -0.27688888888888885,
+            2.5701058233946794
+          ],
+          [
+            -0.27194444444444443,
+            2.5704200120162417
+          ],
+          [
+            -0.267,
+            2.5707369944144114
+          ],
+          [
+            -0.26205555555555554,
+            2.5710598925121686
+          ],
+          [
+            -0.25711111111111107,
+            2.5713827906099254
+          ],
+          [
+            -0.25216666666666665,
+            2.571705688707682
+          ],
+          [
+            -0.2472222222222222,
+            2.572028586805439
+          ],
+          [
+            -0.24227777777777776,
+            2.5723166627437304
+          ],
+          [
+            -0.2373333333333333,
+            2.5725331741516593
+          ],
+          [
+            -0.23238888888888887,
+            2.5727496855595877
+          ],
+          [
+            -0.22744444444444442,
+            2.5729661969675166
+          ],
+          [
+            -0.22249999999999998,
+            2.573182708375445
+          ],
+          [
+            -0.21755555555555553,
+            2.573395381816577
+          ],
+          [
+            -0.21261111111111108,
+            2.5735909542877398
+          ],
+          [
+            -0.20766666666666667,
+            2.5737865267589033
+          ],
+          [
+            -0.20272222222222222,
+            2.5739820992300664
+          ],
+          [
+            -0.19777777777777777,
+            2.57417767170123
+          ],
+          [
+            -0.1928333333333333,
+            2.574374705026808
+          ],
+          [
+            -0.18788888888888888,
+            2.5745734647107423
+          ],
+          [
+            -0.1829444444444444,
+            2.574772224394677
+          ],
+          [
+            -0.178,
+            2.574970984078611
+          ],
+          [
+            -0.17305555555555552,
+            2.5751697437625456
+          ],
+          [
+            -0.1681111111111111,
+            2.5753626122395112
+          ],
+          [
+            -0.16316666666666663,
+            2.575553167732029
+          ],
+          [
+            -0.1582222222222222,
+            2.5757437232245466
+          ],
+          [
+            -0.15327777777777774,
+            2.5759342787170643
+          ],
+          [
+            -0.14833333333333332,
+            2.576124834209582
+          ],
+          [
+            -0.14338888888888884,
+            2.5762834917588533
+          ],
+          [
+            -0.13844444444444443,
+            2.5764206667212965
+          ],
+          [
+            -0.13349999999999995,
+            2.5765578416837394
+          ],
+          [
+            -0.12855555555555553,
+            2.576695016646182
+          ],
+          [
+            -0.12361111111111112,
+            2.5768321916086254
+          ],
+          [
+            -0.11866666666666664,
+            2.5769606313975673
+          ],
+          [
+            -0.11372222222222222,
+            2.57707964748692
+          ],
+          [
+            -0.10877777777777775,
+            2.5872558287119687
+          ],
+          [
+            -0.10383333333333333,
+            2.5909342346029267
+          ],
+          [
+            -0.09888888888888886,
+            2.594005044620619
+          ],
+          [
+            -0.09394444444444444,
+            2.5958560892447977
+          ],
+          [
+            -0.08899999999999997,
+            2.5970143505848267
+          ],
+          [
+            -0.08405555555555555,
+            2.5980134982601752
+          ],
+          [
+            -0.07911111111111108,
+            2.598168160118076
+          ],
+          [
+            -0.07416666666666666,
+            2.594113771422321
+          ],
+          [
+            -0.06922222222222219,
+            2.589594451383018
+          ],
+          [
+            -0.06427777777777777,
+            2.577906893501154
+          ],
+          [
+            -0.059333333333333294,
+            2.5779615327655034
+          ],
+          [
+            -0.054388888888888876,
+            2.578016172029853
+          ],
+          [
+            -0.0494444444444444,
+            2.578070811294203
+          ],
+          [
+            -0.044499999999999984,
+            2.578095662578148
+          ],
+          [
+            -0.03955555555555551,
+            2.57810402518524
+          ],
+          [
+            -0.03461111111111109,
+            2.578112387792332
+          ],
+          [
+            -0.02966666666666662,
+            2.578120750399424
+          ],
+          [
+            -0.0247222222222222,
+            2.5781291130065163
+          ],
+          [
+            -0.019777777777777727,
+            2.5781299787221292
+          ],
+          [
+            -0.01483333333333331,
+            2.5781297907287635
+          ],
+          [
+            -0.009888888888888836,
+            2.578129602735398
+          ],
+          [
+            -0.004944444444444418,
+            2.578129414742033
+          ],
+          [
+            5.551115123125783e-17,
+            2.5781292267486675
+          ],
+          [
+            0.0049444444444444735,
+            2.5781290387553017
+          ],
+          [
+            0.009888888888888947,
+            2.5781288507619364
+          ],
+          [
+            0.014833333333333365,
+            2.578128662768571
+          ],
+          [
+            0.01977777777777784,
+            2.578128474775206
+          ],
+          [
+            0.024722222222222257,
+            2.5781282867818405
+          ],
+          [
+            0.029666666666666675,
+            2.5781206770265235
+          ],
+          [
+            0.03461111111111115,
+            2.578112319541466
+          ],
+          [
+            0.039555555555555566,
+            2.5781039620564097
+          ],
+          [
+            0.04450000000000004,
+            2.5780956045713532
+          ],
+          [
+            0.04944444444444446,
+            2.5780805622948577
+          ],
+          [
+            0.05438888888888893,
+            2.5780239245063283
+          ],
+          [
+            0.059333333333333405,
+            2.5779672867177985
+          ],
+          [
+            0.06427777777777782,
+            2.5779106489292687
+          ],
+          [
+            0.06922222222222224,
+            2.5896060936683325
+          ],
+          [
+            0.07416666666666666,
+            2.594125278184843
+          ],
+          [
+            0.07911111111111119,
+            2.5981752901673554
+          ],
+          [
+            0.0840555555555556,
+            2.5980107420781833
+          ],
+          [
+            0.08900000000000002,
+            2.5970107810767997
+          ],
+          [
+            0.09394444444444444,
+            2.595853823578317
+          ],
+          [
+            0.09888888888888897,
+            2.5939965219665364
+          ],
+          [
+            0.10383333333333339,
+            2.590925087804971
+          ],
+          [
+            0.1087777777777778,
+            2.587242504879786
+          ],
+          [
+            0.11372222222222222,
+            2.577079281991052
+          ],
+          [
+            0.11866666666666675,
+            2.5769602659016995
+          ],
+          [
+            0.12361111111111117,
+            2.576831770325134
+          ],
+          [
+            0.1285555555555556,
+            2.576694595320333
+          ],
+          [
+            0.1335,
+            2.576557420315532
+          ],
+          [
+            0.13844444444444454,
+            2.576420245310731
+          ],
+          [
+            0.14338888888888895,
+            2.57628307030593
+          ],
+          [
+            0.14833333333333337,
+            2.5761242528118324
+          ],
+          [
+            0.1532777777777778,
+            2.575933707417982
+          ],
+          [
+            0.15822222222222232,
+            2.5757431620241316
+          ],
+          [
+            0.16316666666666674,
+            2.5755526166302807
+          ],
+          [
+            0.16811111111111116,
+            2.5753620712364302
+          ],
+          [
+            0.17305555555555557,
+            2.575173228158164
+          ],
+          [
+            0.1780000000000001,
+            2.5749886615002295
+          ],
+          [
+            0.18294444444444452,
+            2.5748040948422948
+          ],
+          [
+            0.18788888888888894,
+            2.5746195281843605
+          ],
+          [
+            0.19283333333333336,
+            2.574434961526426
+          ],
+          [
+            0.19777777777777777,
+            2.5742367856304993
+          ],
+          [
+            0.2027222222222223,
+            2.5740269538640064
+          ],
+          [
+            0.20766666666666672,
+            2.5738171220975135
+          ],
+          [
+            0.21261111111111114,
+            2.5736072903310205
+          ],
+          [
+            0.21755555555555556,
+            2.573397458564528
+          ],
+          [
+            0.2225000000000001,
+            2.5731821450906516
+          ],
+          [
+            0.2274444444444445,
+            2.572965622320567
+          ],
+          [
+            0.23238888888888892,
+            2.5727490995504825
+          ],
+          [
+            0.23733333333333334,
+            2.572532576780398
+          ],
+          [
+            0.24227777777777787,
+            2.572316054010313
+          ],
+          [
+            0.2472222222222223,
+            2.5720276733928484
+          ],
+          [
+            0.2521666666666667,
+            2.571704775193251
+          ],
+          [
+            0.2571111111111111,
+            2.571381876993653
+          ],
+          [
+            0.26205555555555565,
+            2.571058978794055
+          ],
+          [
+            0.26700000000000007,
+            2.570736080594457
+          ],
+          [
+            0.2719444444444445,
+            2.5704191228472153
+          ],
+          [
+            0.2768888888888889,
+            2.5701049342756823
+          ],
+          [
+            0.28183333333333344,
+            2.5697907457041493
+          ],
+          [
+            0.28677777777777785,
+            2.5694765571326164
+          ],
+          [
+            0.29172222222222227,
+            2.5691269449355065
+          ],
+          [
+            0.2966666666666667,
+            2.568606447854366
+          ],
+          [
+            0.3016111111111112,
+            2.568085950773226
+          ],
+          [
+            0.30655555555555564,
+            2.5675654536920853
+          ],
+          [
+            0.31150000000000005,
+            2.567044547246412
+          ],
+          [
+            0.3164444444444445,
+            2.5665086129670835
+          ],
+          [
+            0.321388888888889,
+            2.5659726786877552
+          ],
+          [
+            0.3263333333333334,
+            2.565436744408427
+          ],
+          [
+            0.33127777777777784,
+            2.564900810129099
+          ],
+          [
+            0.33622222222222226,
+            2.564279020648702
+          ],
+          [
+            0.3411666666666668,
+            2.5635309187621282
+          ],
+          [
+            0.3461111111111112,
+            2.5627828168755546
+          ],
+          [
+            0.3510555555555556,
+            2.562034714988982
+          ],
+          [
+            0.35600000000000004,
+            2.5613010826596736
+          ],
+          [
+            0.36094444444444446,
+            2.56057415214152
+          ],
+          [
+            0.365888888888889,
+            2.5598472216233668
+          ],
+          [
+            0.3708333333333334,
+            2.5589724399158493
+          ],
+          [
+            0.3757777777777778,
+            2.557882868059971
+          ],
+          [
+            0.38072222222222224,
+            2.556785367438495
+          ],
+          [
+            0.38566666666666677,
+            2.5556737086646395
+          ],
+          [
+            0.3906111111111112,
+            2.554409814377224
+          ],
+          [
+            0.3955555555555556,
+            2.5526020234598814
+          ],
+          [
+            0.4005,
+            2.550810529473216
+          ],
+          [
+            0.40544444444444455,
+            2.548874538406812
+          ],
+          [
+            0.41038888888888897,
+            2.5466412732406534
+          ],
+          [
+            0.4153333333333334,
+            2.5444073864898455
+          ],
+          [
+            0.4202777777777778,
+            2.542098677093818
+          ],
+          [
+            0.42522222222222233,
+            2.5396082294830715
+          ],
+          [
+            0.43016666666666675,
+            2.5371246595754045
+          ],
+          [
+            0.43511111111111117,
+            2.534607563470773
+          ],
+          [
+            0.4400555555555556,
+            2.531928642445243
+          ],
+          [
+            0.445,
+            2.529245621002799
+          ]
+        ]
+      },
+      "rpm_hood_clearance": {
+        "coarse_hood_faces_crossing_pointer_opening_removed": {},
+        "opaque_cluster_face_and_enclosure_retained": true
+      },
+      "tangents": {
+        "normal_mapped_meshes_rebuilt": [
+          {
+            "name": "BODY_lambert1_0",
+            "vertices": 49851,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.116626578509752e-08
+          },
+          {
+            "name": "BODY_lambert1_1",
+            "vertices": 46035,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.063940850507208e-08
+          },
+          {
+            "name": "BODY_lambert1_2",
+            "vertices": 4155,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.352437177861489e-08
+          },
+          {
+            "name": "BODY_BlackTrims_0",
+            "vertices": 51000,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.036759776449017e-08
+          },
+          {
+            "name": "BODY_BlackTrims_1",
+            "vertices": 40746,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.059309210990847e-08
+          },
+          {
+            "name": "BODY_BlackTrims_2",
+            "vertices": 28641,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.0609726859042183e-08
+          },
+          {
+            "name": "BODY_Adventure_Rock_0",
+            "vertices": 51000,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.981055890500684e-08
+          },
+          {
+            "name": "BODY_Adventure_Rock_1",
+            "vertices": 51000,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.1621335822306094e-08
+          },
+          {
+            "name": "BODY_Adventure_Rock_2",
+            "vertices": 25305,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.647084795277422e-08
+          },
+          {
+            "name": "RAV4_TAILGATE_GARNISH",
+            "vertices": 5652,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.78683485124931e-08
+          },
+          {
+            "name": "BODY_WhiteRoof_0",
+            "vertices": 20073,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.877381149486325e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_LF_TREAD",
+            "vertices": 2544,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.757367039725068e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_RF_TREAD",
+            "vertices": 2544,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.8289791670642614e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_LR_TREAD",
+            "vertices": 2544,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.9017124420226423e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_RR_TREAD",
+            "vertices": 2544,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.078198717616388e-08
+          },
+          {
+            "name": "RAV4_SOLID_ROOF",
+            "vertices": 15420,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.5626165643248848e-08
+          },
+          {
+            "name": "RAV4_ROOF_EDGE_RETURN",
+            "vertices": 288,
+            "fallback_vertices": 288,
+            "degenerate_uv_or_geometry_faces": 96,
+            "max_abs_normal_dot_tangent": 1.3877787807814457e-17
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_6_ATLAS_0",
+            "vertices": 16,
+            "fallback_vertices": 6,
+            "degenerate_uv_or_geometry_faces": 15,
+            "max_abs_normal_dot_tangent": 1.727287352037976e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_7_LEATHER_0",
+            "vertices": 394,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.914445545483147e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_9_LEATHER_0",
+            "vertices": 1165,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.8261800727745765e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_10_ATLAS_0",
+            "vertices": 53,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.411670090880392e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_11_ATLAS_0",
+            "vertices": 16,
+            "fallback_vertices": 6,
+            "degenerate_uv_or_geometry_faces": 15,
+            "max_abs_normal_dot_tangent": 1.945103245137858e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_12_LEATHER_0",
+            "vertices": 402,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.914445545483147e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_14_LEATHER_0",
+            "vertices": 1223,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.8261800727745765e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_15_ATLAS_0",
+            "vertices": 50,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.3091963397003923e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_17_ATLAS_0",
+            "vertices": 160,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.056069298150831e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_18_ATLAS_0",
+            "vertices": 16,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.3096783541287635e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_19_LEATHER_0",
+            "vertices": 2027,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.791333530456242e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_21_LEATHER_0",
+            "vertices": 587,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.590358282901107e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_22_ATLAS_0",
+            "vertices": 86,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 1.8044160950136945e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_23_ATLAS_0",
+            "vertices": 16,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 1.9141844942449637e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_24_LEATHER_0",
+            "vertices": 2051,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.8878925689989074e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_26_LEATHER_0",
+            "vertices": 584,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.480754884321868e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_29_ATLAS_0",
+            "vertices": 3386,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.8928478551802925e-08
+          },
+          {
+            "name": "RAV4_V12_OVERHEAD_part_29_ATLAS_0",
+            "vertices": 100,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 1.9274589591056213e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_30_ATLAS_0",
+            "vertices": 432,
+            "fallback_vertices": 2,
+            "degenerate_uv_or_geometry_faces": 90,
+            "max_abs_normal_dot_tangent": 3.647897983682924e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_34_LEATHER_0",
+            "vertices": 672,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.121902547587041e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_36_LEATHER_0",
+            "vertices": 11323,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.077292375948005e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_36_LEATHER_1",
+            "vertices": 1347,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.019565280621862e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_37_LEATHER_0",
+            "vertices": 2823,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.960418154536072e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_38_ATLAS_0",
+            "vertices": 4,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 1.0953508967903591e-09
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_38_DASH_0",
+            "vertices": 909,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.26843989320691e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_38_LEATHER_0",
+            "vertices": 695,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.696478462211772e-08
+          },
+          {
+            "name": "RAV4_V12_part_40_OverheadGrille",
+            "vertices": 83,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.7863858286268405e-10
+          },
+          {
+            "name": "RAV4_V12_part_41_DashGrille",
+            "vertices": 54,
+            "fallback_vertices": 5,
+            "degenerate_uv_or_geometry_faces": 11,
+            "max_abs_normal_dot_tangent": 1.746008088110429e-08
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_0_ATLAS_0",
+            "vertices": 12,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 9.454098337524641e-10
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_0_LEATHER_0",
+            "vertices": 1036,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.04244556162503e-08
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_2_LEATHER_0",
+            "vertices": 1669,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.059343522433423e-08
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_4_ATLAS_0",
+            "vertices": 272,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.899018207374113e-08
+          },
+          {
+            "name": "RAV4_V13_MIRROR_CAP_L",
+            "vertices": 2799,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.076263265817559e-08
+          },
+          {
+            "name": "RAV4_V13_MIRROR_CAP_R",
+            "vertices": 2805,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.908554474518766e-08
+          }
+        ],
+        "max_abs_normal_dot_tangent": 4.26843989320691e-08,
+        "normals_positions_and_uvs_preserved": true
+      }
+    },
+    "x5_lod_b.kn5": {
+      "doors": {
+        "FL": {
+          "fitted_parts": [
+            "RAV4_V12_CABIN_part_17_ATLAS_0",
+            "RAV4_V12_CABIN_part_18_ATLAS_0",
+            "RAV4_V12_CABIN_part_18_PLASTIC_0",
+            "RAV4_V12_CABIN_part_18_SATIN_0",
+            "RAV4_V12_CABIN_part_19_LEATHER_0",
+            "RAV4_V12_part_20_Speaker",
+            "RAV4_V12_CABIN_part_21_LEATHER_0"
+          ],
+          "clipped_to_actual_window_sill": {
+            "RAV4_V12_CABIN_part_17_ATLAS_0": {
+              "before": 126,
+              "after": 126
+            },
+            "RAV4_V12_CABIN_part_18_ATLAS_0": {
+              "before": 8,
+              "after": 8
+            },
+            "RAV4_V12_CABIN_part_18_PLASTIC_0": {
+              "before": 1466,
+              "after": 1413
+            },
+            "RAV4_V12_CABIN_part_18_SATIN_0": {
+              "before": 405,
+              "after": 405
+            },
+            "RAV4_V12_CABIN_part_19_LEATHER_0": {
+              "before": 1762,
+              "after": 1769
+            },
+            "RAV4_V12_part_20_Speaker": {
+              "before": 130,
+              "after": 130
+            },
+            "RAV4_V12_CABIN_part_21_LEATHER_0": {
+              "before": 515,
+              "after": 515
+            }
+          },
+          "backing_outline_yz": [
+            [
+              0.425,
+              -0.235
+            ],
+            [
+              0.425,
+              0.78
+            ],
+            [
+              0.9,
+              0.94
+            ],
+            [
+              1.13,
+              0.94
+            ],
+            [
+              1.13,
+              -0.18
+            ],
+            [
+              1.19,
+              -0.205
+            ],
+            [
+              1.19,
+              -0.235
+            ]
+          ],
+          "jambs": [
+            {
+              "end": "REAR",
+              "z_m": -0.23499999940395355,
+              "top_m": 1.19,
+              "inner_x_m": 0.7589111909866333
+            },
+            {
+              "end": "FRONT",
+              "z_m": 0.9229999780654907,
+              "top_m": 1.13,
+              "inner_x_m": 0.7521511898040771
+            }
+          ]
+        },
+        "FR": {
+          "fitted_parts": [
+            "RAV4_V12_CABIN_part_22_ATLAS_0",
+            "RAV4_V12_CABIN_part_23_ATLAS_0",
+            "RAV4_V12_CABIN_part_23_PLASTIC_0",
+            "RAV4_V12_CABIN_part_23_SATIN_0",
+            "RAV4_V12_CABIN_part_24_LEATHER_0",
+            "RAV4_V12_part_25_Speaker",
+            "RAV4_V12_CABIN_part_26_LEATHER_0"
+          ],
+          "clipped_to_actual_window_sill": {
+            "RAV4_V12_CABIN_part_22_ATLAS_0": {
+              "before": 76,
+              "after": 76
+            },
+            "RAV4_V12_CABIN_part_23_ATLAS_0": {
+              "before": 6,
+              "after": 6
+            },
+            "RAV4_V12_CABIN_part_23_PLASTIC_0": {
+              "before": 839,
+              "after": 792
+            },
+            "RAV4_V12_CABIN_part_23_SATIN_0": {
+              "before": 322,
+              "after": 322
+            },
+            "RAV4_V12_CABIN_part_24_LEATHER_0": {
+              "before": 1796,
+              "after": 1803
+            },
+            "RAV4_V12_part_25_Speaker": {
+              "before": 130,
+              "after": 130
+            },
+            "RAV4_V12_CABIN_part_26_LEATHER_0": {
+              "before": 516,
+              "after": 516
+            }
+          },
+          "backing_outline_yz": [
+            [
+              0.425,
+              -0.235
+            ],
+            [
+              0.425,
+              0.78
+            ],
+            [
+              0.9,
+              0.94
+            ],
+            [
+              1.13,
+              0.94
+            ],
+            [
+              1.13,
+              -0.18
+            ],
+            [
+              1.19,
+              -0.205
+            ],
+            [
+              1.19,
+              -0.235
+            ]
+          ],
+          "jambs": [
+            {
+              "end": "REAR",
+              "z_m": -0.23499999940395355,
+              "top_m": 1.19,
+              "inner_x_m": 0.7589015946388245
+            },
+            {
+              "end": "FRONT",
+              "z_m": 0.9229999780654907,
+              "top_m": 1.13,
+              "inner_x_m": 0.7509767994880676
+            }
+          ]
+        },
+        "BL": {
+          "fitted_parts": [
+            "RAV4_V12_CABIN_part_5_SATIN_0",
+            "RAV4_V12_CABIN_part_6_ATLAS_0",
+            "RAV4_V12_CABIN_part_6_PLASTIC_0",
+            "RAV4_V12_CABIN_part_6_SATIN_0",
+            "RAV4_V12_CABIN_part_7_LEATHER_0",
+            "RAV4_V12_part_8_Speaker",
+            "RAV4_V12_CABIN_part_9_LEATHER_0",
+            "RAV4_V12_CABIN_part_10_ATLAS_0"
+          ],
+          "clipped_to_actual_window_sill": {
+            "RAV4_V12_CABIN_part_5_SATIN_0": {
+              "before": 388,
+              "after": 388
+            },
+            "RAV4_V12_CABIN_part_6_ATLAS_0": {
+              "before": 8,
+              "after": 8
+            },
+            "RAV4_V12_CABIN_part_6_PLASTIC_0": {
+              "before": 507,
+              "after": 507
+            },
+            "RAV4_V12_CABIN_part_6_SATIN_0": {
+              "before": 276,
+              "after": 276
+            },
+            "RAV4_V12_CABIN_part_7_LEATHER_0": {
+              "before": 313,
+              "after": 313
+            },
+            "RAV4_V12_part_8_Speaker": {
+              "before": 97,
+              "after": 97
+            },
+            "RAV4_V12_CABIN_part_9_LEATHER_0": {
+              "before": 972,
+              "after": 972
+            },
+            "RAV4_V12_CABIN_part_10_ATLAS_0": {
+              "before": 44,
+              "after": 44
+            }
+          },
+          "backing_outline_yz": [
+            [
+              0.435,
+              -1.325
+            ],
+            [
+              0.435,
+              -0.27
+            ],
+            [
+              1.173,
+              -0.27
+            ],
+            [
+              1.178,
+              -0.32
+            ],
+            [
+              1.178,
+              -1.01
+            ],
+            [
+              1.207,
+              -1.27
+            ],
+            [
+              1.22,
+              -1.325
+            ]
+          ],
+          "jambs": [
+            {
+              "end": "REAR",
+              "z_m": -1.3250000476837158,
+              "top_m": 1.22,
+              "inner_x_m": 0.7182695851325989
+            },
+            {
+              "end": "FRONT",
+              "z_m": -0.27000001072883606,
+              "top_m": 1.173,
+              "inner_x_m": 0.738340018749237
+            }
+          ]
+        },
+        "BR": {
+          "fitted_parts": [
+            "RAV4_V12_CABIN_part_11_ATLAS_0",
+            "RAV4_V12_CABIN_part_11_PLASTIC_0",
+            "RAV4_V12_CABIN_part_11_SATIN_0",
+            "RAV4_V12_CABIN_part_12_LEATHER_0",
+            "RAV4_V12_part_13_Speaker",
+            "RAV4_V12_CABIN_part_14_LEATHER_0",
+            "RAV4_V12_CABIN_part_15_ATLAS_0",
+            "RAV4_V12_CABIN_part_16_SATIN_0"
+          ],
+          "clipped_to_actual_window_sill": {
+            "RAV4_V12_CABIN_part_11_ATLAS_0": {
+              "before": 10,
+              "after": 10
+            },
+            "RAV4_V12_CABIN_part_11_PLASTIC_0": {
+              "before": 506,
+              "after": 506
+            },
+            "RAV4_V12_CABIN_part_11_SATIN_0": {
+              "before": 280,
+              "after": 280
+            },
+            "RAV4_V12_CABIN_part_12_LEATHER_0": {
+              "before": 320,
+              "after": 320
+            },
+            "RAV4_V12_part_13_Speaker": {
+              "before": 97,
+              "after": 97
+            },
+            "RAV4_V12_CABIN_part_14_LEATHER_0": {
+              "before": 1023,
+              "after": 1023
+            },
+            "RAV4_V12_CABIN_part_15_ATLAS_0": {
+              "before": 44,
+              "after": 44
+            },
+            "RAV4_V12_CABIN_part_16_SATIN_0": {
+              "before": 388,
+              "after": 388
+            }
+          },
+          "backing_outline_yz": [
+            [
+              0.435,
+              -1.325
+            ],
+            [
+              0.435,
+              -0.27
+            ],
+            [
+              1.173,
+              -0.27
+            ],
+            [
+              1.178,
+              -0.32
+            ],
+            [
+              1.178,
+              -1.01
+            ],
+            [
+              1.207,
+              -1.27
+            ],
+            [
+              1.22,
+              -1.325
+            ]
+          ],
+          "jambs": [
+            {
+              "end": "REAR",
+              "z_m": -1.3250000476837158,
+              "top_m": 1.22,
+              "inner_x_m": 0.7182791814804077
+            },
+            {
+              "end": "FRONT",
+              "z_m": -0.27000001072883606,
+              "top_m": 1.173,
+              "inner_x_m": 0.7379800066947937
+            }
+          ]
+        }
+      },
+      "rpm": {
+        "control": "Single CSP RPM analog controller; native RPM entry removed",
+        "pivot_m": [
+          0.5301812887191772,
+          1.0698542594909668,
+          0.800583004951477
+        ],
+        "zero_degrees": -91,
+        "sweep_degrees": 183,
+        "range_rpm": [
+          0,
+          8000
+        ]
+      },
+      "materials": {
+        "changed_materials": [
+          "Rims1",
+          "Rims2",
+          "RAV4_V8_FrontGlass",
+          "RAV4_V8_PrivacyGlass",
+          "RAV4_V9_InnerFrontGlass",
+          "RAV4_V9_InnerPrivacyGlass"
+        ],
+        "inside_glass": "Known alpha-capable shader; reflection/specular terms zero; excluded from SSR",
+        "black_wheel_pockets": "Rims2 matte; original dark diffuse retained"
+      },
+      "android_auto": {
+        "runtime": "CSP shared android_auto/script.lua via Display_AndroidAuto",
+        "fallback": "Explicit dependency card, not a fake live interface",
+        "resolution": [
+          1024,
+          544
+        ]
+      },
+      "grille": {
+        "modules": [
+          {
+            "center_m": [
+              -0.37,
+              0.87,
+              2.5616225016466467
+            ],
+            "width_m": 0.135,
+            "height_m": 0.02,
+            "depth_m": 0.008,
+            "front_surface_offset_m": 0.0065
+          },
+          {
+            "center_m": [
+              -0.215,
+              0.87,
+              2.5759964642174027
+            ],
+            "width_m": 0.135,
+            "height_m": 0.02,
+            "depth_m": 0.008,
+            "front_surface_offset_m": 0.0065
+          },
+          {
+            "center_m": [
+              0.215,
+              0.87,
+              2.5760059109382207
+            ],
+            "width_m": 0.135,
+            "height_m": 0.02,
+            "depth_m": 0.008,
+            "front_surface_offset_m": 0.0065
+          },
+          {
+            "center_m": [
+              0.37,
+              0.87,
+              2.5616198750350936
+            ],
+            "width_m": 0.135,
+            "height_m": 0.02,
+            "depth_m": 0.008,
+            "front_surface_offset_m": 0.0065
+          }
+        ],
+        "emitter_meshes": [
+          "RAV4_V14_GRILLE_LED_0",
+          "RAV4_V14_GRILLE_LED_1",
+          "RAV4_V14_GRILLE_LED_2",
+          "RAV4_V14_GRILLE_LED_3"
+        ],
+        "control": "Normal headlights; native light bindings plus CSP emissive/short-range fill",
+        "surface_profile_xz": [
+          [
+            -0.445,
+            2.529252835804497
+          ],
+          [
+            -0.4400555555555556,
+            2.531936214215169
+          ],
+          [
+            -0.4351111111111111,
+            2.5346156478426654
+          ],
+          [
+            -0.4301666666666667,
+            2.5371319262782275
+          ],
+          [
+            -0.4252222222222222,
+            2.5396150838011575
+          ],
+          [
+            -0.4202777777777778,
+            2.5421053193965455
+          ],
+          [
+            -0.41533333333333333,
+            2.5444134245761765
+          ],
+          [
+            -0.4103888888888889,
+            2.5466473413736423
+          ],
+          [
+            -0.40544444444444444,
+            2.548880672031158
+          ],
+          [
+            -0.4005,
+            2.5508154836072494
+          ],
+          [
+            -0.39555555555555555,
+            2.552607035925404
+          ],
+          [
+            -0.39061111111111113,
+            2.554414513125824
+          ],
+          [
+            -0.38566666666666666,
+            2.5556765550924547
+          ],
+          [
+            -0.38072222222222224,
+            2.5567882122533887
+          ],
+          [
+            -0.37577777777777777,
+            2.557885653828805
+          ],
+          [
+            -0.37083333333333335,
+            2.558975222638299
+          ],
+          [
+            -0.3658888888888889,
+            2.559849078087828
+          ],
+          [
+            -0.36094444444444446,
+            2.560576009844583
+          ],
+          [
+            -0.356,
+            2.5613029416013386
+          ],
+          [
+            -0.35105555555555557,
+            2.5620366291476313
+          ],
+          [
+            -0.3461111111111111,
+            2.562784731687993
+          ],
+          [
+            -0.3411666666666667,
+            2.5635328342283548
+          ],
+          [
+            -0.3362222222222222,
+            2.5642809367687156
+          ],
+          [
+            -0.3312777777777778,
+            2.5649022018151775
+          ],
+          [
+            -0.32633333333333336,
+            2.565438167545219
+          ],
+          [
+            -0.3213888888888889,
+            2.5659741332752604
+          ],
+          [
+            -0.3164444444444444,
+            2.566510099005302
+          ],
+          [
+            -0.3115,
+            2.5670460647353437
+          ],
+          [
+            -0.3065555555555556,
+            2.567566927773288
+          ],
+          [
+            -0.3016111111111111,
+            2.568087424423194
+          ],
+          [
+            -0.29666666666666663,
+            2.5686079210731
+          ],
+          [
+            -0.2917222222222222,
+            2.5691284177230065
+          ],
+          [
+            -0.2867777777777778,
+            2.569477446151555
+          ],
+          [
+            -0.2818333333333333,
+            2.5697916347731176
+          ],
+          [
+            -0.27688888888888885,
+            2.5701058233946794
+          ],
+          [
+            -0.27194444444444443,
+            2.5704200120162417
+          ],
+          [
+            -0.267,
+            2.5707369944144114
+          ],
+          [
+            -0.26205555555555554,
+            2.5710598925121686
+          ],
+          [
+            -0.25711111111111107,
+            2.5713827906099254
+          ],
+          [
+            -0.25216666666666665,
+            2.571705688707682
+          ],
+          [
+            -0.2472222222222222,
+            2.572028586805439
+          ],
+          [
+            -0.24227777777777776,
+            2.5723166627437304
+          ],
+          [
+            -0.2373333333333333,
+            2.5725331741516593
+          ],
+          [
+            -0.23238888888888887,
+            2.5727496855595877
+          ],
+          [
+            -0.22744444444444442,
+            2.5729661969675166
+          ],
+          [
+            -0.22249999999999998,
+            2.573182708375445
+          ],
+          [
+            -0.21755555555555553,
+            2.573395381816577
+          ],
+          [
+            -0.21261111111111108,
+            2.5735909542877398
+          ],
+          [
+            -0.20766666666666667,
+            2.5737865267589033
+          ],
+          [
+            -0.20272222222222222,
+            2.5739820992300664
+          ],
+          [
+            -0.19777777777777777,
+            2.57417767170123
+          ],
+          [
+            -0.1928333333333333,
+            2.574374705026808
+          ],
+          [
+            -0.18788888888888888,
+            2.5745734647107423
+          ],
+          [
+            -0.1829444444444444,
+            2.574772224394677
+          ],
+          [
+            -0.178,
+            2.574970984078611
+          ],
+          [
+            -0.17305555555555552,
+            2.5751697437625456
+          ],
+          [
+            -0.1681111111111111,
+            2.5753626122395112
+          ],
+          [
+            -0.16316666666666663,
+            2.575553167732029
+          ],
+          [
+            -0.1582222222222222,
+            2.5757437232245466
+          ],
+          [
+            -0.15327777777777774,
+            2.5759342787170643
+          ],
+          [
+            -0.14833333333333332,
+            2.576124834209582
+          ],
+          [
+            -0.14338888888888884,
+            2.5762834917588533
+          ],
+          [
+            -0.13844444444444443,
+            2.5764206667212965
+          ],
+          [
+            -0.13349999999999995,
+            2.5765578416837394
+          ],
+          [
+            -0.12855555555555553,
+            2.576695016646182
+          ],
+          [
+            -0.12361111111111112,
+            2.5768321916086254
+          ],
+          [
+            -0.11866666666666664,
+            2.5769606313975673
+          ],
+          [
+            -0.11372222222222222,
+            2.57707964748692
+          ],
+          [
+            -0.10877777777777775,
+            2.5872558287119687
+          ],
+          [
+            -0.10383333333333333,
+            2.5909342346029267
+          ],
+          [
+            -0.09888888888888886,
+            2.594005044620619
+          ],
+          [
+            -0.09394444444444444,
+            2.5958560892447977
+          ],
+          [
+            -0.08899999999999997,
+            2.5970143505848267
+          ],
+          [
+            -0.08405555555555555,
+            2.5980134982601752
+          ],
+          [
+            -0.07911111111111108,
+            2.598168160118076
+          ],
+          [
+            -0.07416666666666666,
+            2.594113771422321
+          ],
+          [
+            -0.06922222222222219,
+            2.589594451383018
+          ],
+          [
+            -0.06427777777777777,
+            2.577906893501154
+          ],
+          [
+            -0.059333333333333294,
+            2.5779615327655034
+          ],
+          [
+            -0.054388888888888876,
+            2.578016172029853
+          ],
+          [
+            -0.0494444444444444,
+            2.578070811294203
+          ],
+          [
+            -0.044499999999999984,
+            2.578095662578148
+          ],
+          [
+            -0.03955555555555551,
+            2.57810402518524
+          ],
+          [
+            -0.03461111111111109,
+            2.578112387792332
+          ],
+          [
+            -0.02966666666666662,
+            2.578120750399424
+          ],
+          [
+            -0.0247222222222222,
+            2.5781291130065163
+          ],
+          [
+            -0.019777777777777727,
+            2.5781299787221292
+          ],
+          [
+            -0.01483333333333331,
+            2.5781297907287635
+          ],
+          [
+            -0.009888888888888836,
+            2.578129602735398
+          ],
+          [
+            -0.004944444444444418,
+            2.578129414742033
+          ],
+          [
+            5.551115123125783e-17,
+            2.5781292267486675
+          ],
+          [
+            0.0049444444444444735,
+            2.5781290387553017
+          ],
+          [
+            0.009888888888888947,
+            2.5781288507619364
+          ],
+          [
+            0.014833333333333365,
+            2.578128662768571
+          ],
+          [
+            0.01977777777777784,
+            2.578128474775206
+          ],
+          [
+            0.024722222222222257,
+            2.5781282867818405
+          ],
+          [
+            0.029666666666666675,
+            2.5781206770265235
+          ],
+          [
+            0.03461111111111115,
+            2.578112319541466
+          ],
+          [
+            0.039555555555555566,
+            2.5781039620564097
+          ],
+          [
+            0.04450000000000004,
+            2.5780956045713532
+          ],
+          [
+            0.04944444444444446,
+            2.5780805622948577
+          ],
+          [
+            0.05438888888888893,
+            2.5780239245063283
+          ],
+          [
+            0.059333333333333405,
+            2.5779672867177985
+          ],
+          [
+            0.06427777777777782,
+            2.5779106489292687
+          ],
+          [
+            0.06922222222222224,
+            2.5896060936683325
+          ],
+          [
+            0.07416666666666666,
+            2.594125278184843
+          ],
+          [
+            0.07911111111111119,
+            2.5981752901673554
+          ],
+          [
+            0.0840555555555556,
+            2.5980107420781833
+          ],
+          [
+            0.08900000000000002,
+            2.5970107810767997
+          ],
+          [
+            0.09394444444444444,
+            2.595853823578317
+          ],
+          [
+            0.09888888888888897,
+            2.5939965219665364
+          ],
+          [
+            0.10383333333333339,
+            2.590925087804971
+          ],
+          [
+            0.1087777777777778,
+            2.587242504879786
+          ],
+          [
+            0.11372222222222222,
+            2.577079281991052
+          ],
+          [
+            0.11866666666666675,
+            2.5769602659016995
+          ],
+          [
+            0.12361111111111117,
+            2.576831770325134
+          ],
+          [
+            0.1285555555555556,
+            2.576694595320333
+          ],
+          [
+            0.1335,
+            2.576557420315532
+          ],
+          [
+            0.13844444444444454,
+            2.576420245310731
+          ],
+          [
+            0.14338888888888895,
+            2.57628307030593
+          ],
+          [
+            0.14833333333333337,
+            2.5761242528118324
+          ],
+          [
+            0.1532777777777778,
+            2.575933707417982
+          ],
+          [
+            0.15822222222222232,
+            2.5757431620241316
+          ],
+          [
+            0.16316666666666674,
+            2.5755526166302807
+          ],
+          [
+            0.16811111111111116,
+            2.5753620712364302
+          ],
+          [
+            0.17305555555555557,
+            2.575173228158164
+          ],
+          [
+            0.1780000000000001,
+            2.5749886615002295
+          ],
+          [
+            0.18294444444444452,
+            2.5748040948422948
+          ],
+          [
+            0.18788888888888894,
+            2.5746195281843605
+          ],
+          [
+            0.19283333333333336,
+            2.574434961526426
+          ],
+          [
+            0.19777777777777777,
+            2.5742367856304993
+          ],
+          [
+            0.2027222222222223,
+            2.5740269538640064
+          ],
+          [
+            0.20766666666666672,
+            2.5738171220975135
+          ],
+          [
+            0.21261111111111114,
+            2.5736072903310205
+          ],
+          [
+            0.21755555555555556,
+            2.573397458564528
+          ],
+          [
+            0.2225000000000001,
+            2.5731821450906516
+          ],
+          [
+            0.2274444444444445,
+            2.572965622320567
+          ],
+          [
+            0.23238888888888892,
+            2.5727490995504825
+          ],
+          [
+            0.23733333333333334,
+            2.572532576780398
+          ],
+          [
+            0.24227777777777787,
+            2.572316054010313
+          ],
+          [
+            0.2472222222222223,
+            2.5720276733928484
+          ],
+          [
+            0.2521666666666667,
+            2.571704775193251
+          ],
+          [
+            0.2571111111111111,
+            2.571381876993653
+          ],
+          [
+            0.26205555555555565,
+            2.571058978794055
+          ],
+          [
+            0.26700000000000007,
+            2.570736080594457
+          ],
+          [
+            0.2719444444444445,
+            2.5704191228472153
+          ],
+          [
+            0.2768888888888889,
+            2.5701049342756823
+          ],
+          [
+            0.28183333333333344,
+            2.5697907457041493
+          ],
+          [
+            0.28677777777777785,
+            2.5694765571326164
+          ],
+          [
+            0.29172222222222227,
+            2.5691269449355065
+          ],
+          [
+            0.2966666666666667,
+            2.568606447854366
+          ],
+          [
+            0.3016111111111112,
+            2.568085950773226
+          ],
+          [
+            0.30655555555555564,
+            2.5675654536920853
+          ],
+          [
+            0.31150000000000005,
+            2.567044547246412
+          ],
+          [
+            0.3164444444444445,
+            2.5665086129670835
+          ],
+          [
+            0.321388888888889,
+            2.5659726786877552
+          ],
+          [
+            0.3263333333333334,
+            2.565436744408427
+          ],
+          [
+            0.33127777777777784,
+            2.564900810129099
+          ],
+          [
+            0.33622222222222226,
+            2.564279020648702
+          ],
+          [
+            0.3411666666666668,
+            2.5635309187621282
+          ],
+          [
+            0.3461111111111112,
+            2.5627828168755546
+          ],
+          [
+            0.3510555555555556,
+            2.562034714988982
+          ],
+          [
+            0.35600000000000004,
+            2.5613010826596736
+          ],
+          [
+            0.36094444444444446,
+            2.56057415214152
+          ],
+          [
+            0.365888888888889,
+            2.5598472216233668
+          ],
+          [
+            0.3708333333333334,
+            2.5589724399158493
+          ],
+          [
+            0.3757777777777778,
+            2.557882868059971
+          ],
+          [
+            0.38072222222222224,
+            2.556785367438495
+          ],
+          [
+            0.38566666666666677,
+            2.5556737086646395
+          ],
+          [
+            0.3906111111111112,
+            2.554409814377224
+          ],
+          [
+            0.3955555555555556,
+            2.5526020234598814
+          ],
+          [
+            0.4005,
+            2.550810529473216
+          ],
+          [
+            0.40544444444444455,
+            2.548874538406812
+          ],
+          [
+            0.41038888888888897,
+            2.5466412732406534
+          ],
+          [
+            0.4153333333333334,
+            2.5444073864898455
+          ],
+          [
+            0.4202777777777778,
+            2.542098677093818
+          ],
+          [
+            0.42522222222222233,
+            2.5396082294830715
+          ],
+          [
+            0.43016666666666675,
+            2.5371246595754045
+          ],
+          [
+            0.43511111111111117,
+            2.534607563470773
+          ],
+          [
+            0.4400555555555556,
+            2.531928642445243
+          ],
+          [
+            0.445,
+            2.529245621002799
+          ]
+        ]
+      },
+      "rpm_hood_clearance": {
+        "coarse_hood_faces_crossing_pointer_opening_removed": {},
+        "opaque_cluster_face_and_enclosure_retained": true
+      },
+      "tangents": {
+        "normal_mapped_meshes_rebuilt": [
+          {
+            "name": "BODY_lambert1_0",
+            "vertices": 39268,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.072168641178209e-08
+          },
+          {
+            "name": "BODY_BlackTrims_0",
+            "vertices": 30024,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.149229665406651e-08
+          },
+          {
+            "name": "BODY_Adventure_Rock_0",
+            "vertices": 31821,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.362571709437546e-08
+          },
+          {
+            "name": "RAV4_TAILGATE_GARNISH",
+            "vertices": 1410,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.518522996570628e-08
+          },
+          {
+            "name": "BODY_WhiteRoof_0",
+            "vertices": 5013,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.889719806665637e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_LF_TREAD",
+            "vertices": 768,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.919484498071668e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_RF_TREAD",
+            "vertices": 768,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.950950483444515e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_LR_TREAD",
+            "vertices": 768,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.739082626852408e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_RR_TREAD",
+            "vertices": 768,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.4742419274813585e-08
+          },
+          {
+            "name": "RAV4_SOLID_ROOF",
+            "vertices": 3838,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.5884011686349694e-08
+          },
+          {
+            "name": "RAV4_ROOF_EDGE_RETURN",
+            "vertices": 116,
+            "fallback_vertices": 116,
+            "degenerate_uv_or_geometry_faces": 96,
+            "max_abs_normal_dot_tangent": 1.8258407452620418e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_6_ATLAS_0",
+            "vertices": 9,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 1,
+            "max_abs_normal_dot_tangent": 1.8759976572191306e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_7_LEATHER_0",
+            "vertices": 242,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.0951733643046495e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_9_LEATHER_0",
+            "vertices": 633,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.672670056964478e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_10_ATLAS_0",
+            "vertices": 53,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.411670090880392e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_11_ATLAS_0",
+            "vertices": 10,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 2,
+            "max_abs_normal_dot_tangent": 1.2866698428926071e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_12_LEATHER_0",
+            "vertices": 246,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.0342741508547775e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_14_LEATHER_0",
+            "vertices": 668,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.1417932644384194e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_15_ATLAS_0",
+            "vertices": 50,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.3091963397003923e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_17_ATLAS_0",
+            "vertices": 160,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.056069298150831e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_18_ATLAS_0",
+            "vertices": 9,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.5590226826466278e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_19_LEATHER_0",
+            "vertices": 1128,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.597966194424096e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_21_LEATHER_0",
+            "vertices": 361,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.287656608064182e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_22_ATLAS_0",
+            "vertices": 86,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 1.8044160950136945e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_23_ATLAS_0",
+            "vertices": 8,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.7280473546831274e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_24_LEATHER_0",
+            "vertices": 1116,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.795146397145288e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_26_LEATHER_0",
+            "vertices": 360,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.002245612699795e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_29_ATLAS_0",
+            "vertices": 3199,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.6288959393004916e-08
+          },
+          {
+            "name": "RAV4_V12_OVERHEAD_part_29_ATLAS_0",
+            "vertices": 72,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 1.9274589591056213e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_30_ATLAS_0",
+            "vertices": 217,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 7,
+            "max_abs_normal_dot_tangent": 3.751333690210634e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_34_LEATHER_0",
+            "vertices": 381,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.5913924611996606e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_36_LEATHER_0",
+            "vertices": 7188,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.1782090960673646e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_37_LEATHER_0",
+            "vertices": 1627,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.775475743150736e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_38_DASH_0",
+            "vertices": 527,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.0310329302007943e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_38_LEATHER_0",
+            "vertices": 394,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.321255658856771e-08
+          },
+          {
+            "name": "RAV4_V12_part_40_OverheadGrille",
+            "vertices": 83,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.7863858286268405e-10
+          },
+          {
+            "name": "RAV4_V12_part_41_DashGrille",
+            "vertices": 54,
+            "fallback_vertices": 5,
+            "degenerate_uv_or_geometry_faces": 11,
+            "max_abs_normal_dot_tangent": 1.746008088110429e-08
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_0_ATLAS_0",
+            "vertices": 12,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 9.454098337524641e-10
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_0_LEATHER_0",
+            "vertices": 1036,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.04244556162503e-08
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_2_LEATHER_0",
+            "vertices": 1669,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.059343522433423e-08
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_4_ATLAS_0",
+            "vertices": 272,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.899018207374113e-08
+          },
+          {
+            "name": "RAV4_V13_MIRROR_CAP_L",
+            "vertices": 969,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.887151350800977e-08
+          },
+          {
+            "name": "RAV4_V13_MIRROR_CAP_R",
+            "vertices": 975,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.831261918829654e-08
+          }
+        ],
+        "max_abs_normal_dot_tangent": 4.362571709437546e-08,
+        "normals_positions_and_uvs_preserved": true
+      },
+      "lod_textures": {
+        "textures_resized": 1,
+        "max_dimension": 1024,
+        "bytes_saved": 928816
+      }
+    },
+    "x5_lod_c.kn5": {
+      "doors": {
+        "FL": {
+          "fitted_parts": [
+            "RAV4_V12_CABIN_part_17_ATLAS_0",
+            "RAV4_V12_CABIN_part_18_ATLAS_0",
+            "RAV4_V12_CABIN_part_18_PLASTIC_0",
+            "RAV4_V12_CABIN_part_18_SATIN_0",
+            "RAV4_V12_CABIN_part_19_LEATHER_0",
+            "RAV4_V12_part_20_Speaker",
+            "RAV4_V12_CABIN_part_21_LEATHER_0"
+          ],
+          "clipped_to_actual_window_sill": {
+            "RAV4_V12_CABIN_part_17_ATLAS_0": {
+              "before": 126,
+              "after": 126
+            },
+            "RAV4_V12_CABIN_part_18_ATLAS_0": {
+              "before": 2,
+              "after": 2
+            },
+            "RAV4_V12_CABIN_part_18_PLASTIC_0": {
+              "before": 687,
+              "after": 652
+            },
+            "RAV4_V12_CABIN_part_18_SATIN_0": {
+              "before": 198,
+              "after": 198
+            },
+            "RAV4_V12_CABIN_part_19_LEATHER_0": {
+              "before": 832,
+              "after": 833
+            },
+            "RAV4_V12_part_20_Speaker": {
+              "before": 130,
+              "after": 130
+            },
+            "RAV4_V12_CABIN_part_21_LEATHER_0": {
+              "before": 243,
+              "after": 243
+            }
+          },
+          "backing_outline_yz": [
+            [
+              0.425,
+              -0.235
+            ],
+            [
+              0.425,
+              0.78
+            ],
+            [
+              0.9,
+              0.94
+            ],
+            [
+              1.13,
+              0.94
+            ],
+            [
+              1.13,
+              -0.18
+            ],
+            [
+              1.19,
+              -0.205
+            ],
+            [
+              1.19,
+              -0.235
+            ]
+          ],
+          "jambs": [
+            {
+              "end": "REAR",
+              "z_m": -0.23499999940395355,
+              "top_m": 1.19,
+              "inner_x_m": 0.7622531638145447
+            },
+            {
+              "end": "FRONT",
+              "z_m": 0.9229999780654907,
+              "top_m": 1.13,
+              "inner_x_m": 0.7565735564231872
+            }
+          ]
+        },
+        "FR": {
+          "fitted_parts": [
+            "RAV4_V12_CABIN_part_22_ATLAS_0",
+            "RAV4_V12_CABIN_part_23_ATLAS_0",
+            "RAV4_V12_CABIN_part_23_PLASTIC_0",
+            "RAV4_V12_CABIN_part_23_SATIN_0",
+            "RAV4_V12_CABIN_part_24_LEATHER_0",
+            "RAV4_V12_part_25_Speaker",
+            "RAV4_V12_CABIN_part_26_LEATHER_0"
+          ],
+          "clipped_to_actual_window_sill": {
+            "RAV4_V12_CABIN_part_22_ATLAS_0": {
+              "before": 76,
+              "after": 76
+            },
+            "RAV4_V12_CABIN_part_23_ATLAS_0": {
+              "before": 1,
+              "after": 1
+            },
+            "RAV4_V12_CABIN_part_23_PLASTIC_0": {
+              "before": 392,
+              "after": 361
+            },
+            "RAV4_V12_CABIN_part_23_SATIN_0": {
+              "before": 158,
+              "after": 158
+            },
+            "RAV4_V12_CABIN_part_24_LEATHER_0": {
+              "before": 848,
+              "after": 849
+            },
+            "RAV4_V12_part_25_Speaker": {
+              "before": 130,
+              "after": 130
+            },
+            "RAV4_V12_CABIN_part_26_LEATHER_0": {
+              "before": 244,
+              "after": 244
+            }
+          },
+          "backing_outline_yz": [
+            [
+              0.425,
+              -0.235
+            ],
+            [
+              0.425,
+              0.78
+            ],
+            [
+              0.9,
+              0.94
+            ],
+            [
+              1.13,
+              0.94
+            ],
+            [
+              1.13,
+              -0.18
+            ],
+            [
+              1.19,
+              -0.205
+            ],
+            [
+              1.19,
+              -0.235
+            ]
+          ],
+          "jambs": [
+            {
+              "end": "REAR",
+              "z_m": -0.23499999940395355,
+              "top_m": 1.19,
+              "inner_x_m": 0.7617347822189331
+            },
+            {
+              "end": "FRONT",
+              "z_m": 0.9229999780654907,
+              "top_m": 1.13,
+              "inner_x_m": 0.7552192196846008
+            }
+          ]
+        },
+        "BL": {
+          "fitted_parts": [
+            "RAV4_V12_CABIN_part_5_SATIN_0",
+            "RAV4_V12_CABIN_part_6_ATLAS_0",
+            "RAV4_V12_CABIN_part_6_PLASTIC_0",
+            "RAV4_V12_CABIN_part_6_SATIN_0",
+            "RAV4_V12_CABIN_part_7_LEATHER_0",
+            "RAV4_V12_part_8_Speaker",
+            "RAV4_V12_CABIN_part_9_LEATHER_0",
+            "RAV4_V12_CABIN_part_10_ATLAS_0"
+          ],
+          "clipped_to_actual_window_sill": {
+            "RAV4_V12_CABIN_part_5_SATIN_0": {
+              "before": 184,
+              "after": 184
+            },
+            "RAV4_V12_CABIN_part_6_ATLAS_0": {
+              "before": 1,
+              "after": 1
+            },
+            "RAV4_V12_CABIN_part_6_PLASTIC_0": {
+              "before": 250,
+              "after": 250
+            },
+            "RAV4_V12_CABIN_part_6_SATIN_0": {
+              "before": 122,
+              "after": 122
+            },
+            "RAV4_V12_CABIN_part_7_LEATHER_0": {
+              "before": 147,
+              "after": 147
+            },
+            "RAV4_V12_part_8_Speaker": {
+              "before": 97,
+              "after": 97
+            },
+            "RAV4_V12_CABIN_part_9_LEATHER_0": {
+              "before": 460,
+              "after": 460
+            },
+            "RAV4_V12_CABIN_part_10_ATLAS_0": {
+              "before": 44,
+              "after": 44
+            }
+          },
+          "backing_outline_yz": [
+            [
+              0.435,
+              -1.325
+            ],
+            [
+              0.435,
+              -0.27
+            ],
+            [
+              1.173,
+              -0.27
+            ],
+            [
+              1.178,
+              -0.32
+            ],
+            [
+              1.178,
+              -1.01
+            ],
+            [
+              1.207,
+              -1.27
+            ],
+            [
+              1.22,
+              -1.325
+            ]
+          ],
+          "jambs": [
+            {
+              "end": "REAR",
+              "z_m": -1.3250000476837158,
+              "top_m": 1.22,
+              "inner_x_m": 0.7200499758720398
+            },
+            {
+              "end": "FRONT",
+              "z_m": -0.27024999260902405,
+              "top_m": 1.173,
+              "inner_x_m": 0.7379800066947937
+            }
+          ]
+        },
+        "BR": {
+          "fitted_parts": [
+            "RAV4_V12_CABIN_part_11_ATLAS_0",
+            "RAV4_V12_CABIN_part_11_PLASTIC_0",
+            "RAV4_V12_CABIN_part_11_SATIN_0",
+            "RAV4_V12_CABIN_part_12_LEATHER_0",
+            "RAV4_V12_part_13_Speaker",
+            "RAV4_V12_CABIN_part_14_LEATHER_0",
+            "RAV4_V12_CABIN_part_15_ATLAS_0",
+            "RAV4_V12_CABIN_part_16_SATIN_0"
+          ],
+          "clipped_to_actual_window_sill": {
+            "RAV4_V12_CABIN_part_11_ATLAS_0": {
+              "before": 2,
+              "after": 2
+            },
+            "RAV4_V12_CABIN_part_11_PLASTIC_0": {
+              "before": 251,
+              "after": 251
+            },
+            "RAV4_V12_CABIN_part_11_SATIN_0": {
+              "before": 123,
+              "after": 123
+            },
+            "RAV4_V12_CABIN_part_12_LEATHER_0": {
+              "before": 150,
+              "after": 150
+            },
+            "RAV4_V12_part_13_Speaker": {
+              "before": 97,
+              "after": 97
+            },
+            "RAV4_V12_CABIN_part_14_LEATHER_0": {
+              "before": 483,
+              "after": 483
+            },
+            "RAV4_V12_CABIN_part_15_ATLAS_0": {
+              "before": 44,
+              "after": 44
+            },
+            "RAV4_V12_CABIN_part_16_SATIN_0": {
+              "before": 184,
+              "after": 184
+            }
+          },
+          "backing_outline_yz": [
+            [
+              0.435,
+              -1.325
+            ],
+            [
+              0.435,
+              -0.27
+            ],
+            [
+              1.173,
+              -0.27
+            ],
+            [
+              1.178,
+              -0.32
+            ],
+            [
+              1.178,
+              -1.01
+            ],
+            [
+              1.207,
+              -1.27
+            ],
+            [
+              1.22,
+              -1.325
+            ]
+          ],
+          "jambs": [
+            {
+              "end": "REAR",
+              "z_m": -1.3250000476837158,
+              "top_m": 1.22,
+              "inner_x_m": 0.7199208126068115
+            },
+            {
+              "end": "FRONT",
+              "z_m": -0.27024999260902405,
+              "top_m": 1.173,
+              "inner_x_m": 0.7380720362663269
+            }
+          ]
+        }
+      },
+      "rpm": {
+        "control": "Single CSP RPM analog controller; native RPM entry removed",
+        "pivot_m": [
+          0.5301812887191772,
+          1.0698542594909668,
+          0.800583004951477
+        ],
+        "zero_degrees": -91,
+        "sweep_degrees": 183,
+        "range_rpm": [
+          0,
+          8000
+        ]
+      },
+      "materials": {
+        "changed_materials": [
+          "Rims1",
+          "Rims2",
+          "RAV4_V8_FrontGlass",
+          "RAV4_V8_PrivacyGlass",
+          "RAV4_V9_InnerFrontGlass",
+          "RAV4_V9_InnerPrivacyGlass"
+        ],
+        "inside_glass": "Known alpha-capable shader; reflection/specular terms zero; excluded from SSR",
+        "black_wheel_pockets": "Rims2 matte; original dark diffuse retained"
+      },
+      "android_auto": {
+        "runtime": "CSP shared android_auto/script.lua via Display_AndroidAuto",
+        "fallback": "Explicit dependency card, not a fake live interface",
+        "resolution": [
+          1024,
+          544
+        ]
+      },
+      "grille": {
+        "modules": [
+          {
+            "center_m": [
+              -0.37,
+              0.87,
+              2.5616225016466467
+            ],
+            "width_m": 0.135,
+            "height_m": 0.02,
+            "depth_m": 0.008,
+            "front_surface_offset_m": 0.0065
+          },
+          {
+            "center_m": [
+              -0.215,
+              0.87,
+              2.5759964642174027
+            ],
+            "width_m": 0.135,
+            "height_m": 0.02,
+            "depth_m": 0.008,
+            "front_surface_offset_m": 0.0065
+          },
+          {
+            "center_m": [
+              0.215,
+              0.87,
+              2.5760059109382207
+            ],
+            "width_m": 0.135,
+            "height_m": 0.02,
+            "depth_m": 0.008,
+            "front_surface_offset_m": 0.0065
+          },
+          {
+            "center_m": [
+              0.37,
+              0.87,
+              2.5616198750350936
+            ],
+            "width_m": 0.135,
+            "height_m": 0.02,
+            "depth_m": 0.008,
+            "front_surface_offset_m": 0.0065
+          }
+        ],
+        "emitter_meshes": [
+          "RAV4_V14_GRILLE_LED_0",
+          "RAV4_V14_GRILLE_LED_1",
+          "RAV4_V14_GRILLE_LED_2",
+          "RAV4_V14_GRILLE_LED_3"
+        ],
+        "control": "Normal headlights; native light bindings plus CSP emissive/short-range fill",
+        "surface_profile_xz": [
+          [
+            -0.445,
+            2.529252835804497
+          ],
+          [
+            -0.4400555555555556,
+            2.531936214215169
+          ],
+          [
+            -0.4351111111111111,
+            2.5346156478426654
+          ],
+          [
+            -0.4301666666666667,
+            2.5371319262782275
+          ],
+          [
+            -0.4252222222222222,
+            2.5396150838011575
+          ],
+          [
+            -0.4202777777777778,
+            2.5421053193965455
+          ],
+          [
+            -0.41533333333333333,
+            2.5444134245761765
+          ],
+          [
+            -0.4103888888888889,
+            2.5466473413736423
+          ],
+          [
+            -0.40544444444444444,
+            2.548880672031158
+          ],
+          [
+            -0.4005,
+            2.5508154836072494
+          ],
+          [
+            -0.39555555555555555,
+            2.552607035925404
+          ],
+          [
+            -0.39061111111111113,
+            2.554414513125824
+          ],
+          [
+            -0.38566666666666666,
+            2.5556765550924547
+          ],
+          [
+            -0.38072222222222224,
+            2.5567882122533887
+          ],
+          [
+            -0.37577777777777777,
+            2.557885653828805
+          ],
+          [
+            -0.37083333333333335,
+            2.558975222638299
+          ],
+          [
+            -0.3658888888888889,
+            2.559849078087828
+          ],
+          [
+            -0.36094444444444446,
+            2.560576009844583
+          ],
+          [
+            -0.356,
+            2.5613029416013386
+          ],
+          [
+            -0.35105555555555557,
+            2.5620366291476313
+          ],
+          [
+            -0.3461111111111111,
+            2.562784731687993
+          ],
+          [
+            -0.3411666666666667,
+            2.5635328342283548
+          ],
+          [
+            -0.3362222222222222,
+            2.5642809367687156
+          ],
+          [
+            -0.3312777777777778,
+            2.5649022018151775
+          ],
+          [
+            -0.32633333333333336,
+            2.565438167545219
+          ],
+          [
+            -0.3213888888888889,
+            2.5659741332752604
+          ],
+          [
+            -0.3164444444444444,
+            2.566510099005302
+          ],
+          [
+            -0.3115,
+            2.5670460647353437
+          ],
+          [
+            -0.3065555555555556,
+            2.567566927773288
+          ],
+          [
+            -0.3016111111111111,
+            2.568087424423194
+          ],
+          [
+            -0.29666666666666663,
+            2.5686079210731
+          ],
+          [
+            -0.2917222222222222,
+            2.5691284177230065
+          ],
+          [
+            -0.2867777777777778,
+            2.569477446151555
+          ],
+          [
+            -0.2818333333333333,
+            2.5697916347731176
+          ],
+          [
+            -0.27688888888888885,
+            2.5701058233946794
+          ],
+          [
+            -0.27194444444444443,
+            2.5704200120162417
+          ],
+          [
+            -0.267,
+            2.5707369944144114
+          ],
+          [
+            -0.26205555555555554,
+            2.5710598925121686
+          ],
+          [
+            -0.25711111111111107,
+            2.5713827906099254
+          ],
+          [
+            -0.25216666666666665,
+            2.571705688707682
+          ],
+          [
+            -0.2472222222222222,
+            2.572028586805439
+          ],
+          [
+            -0.24227777777777776,
+            2.5723166627437304
+          ],
+          [
+            -0.2373333333333333,
+            2.5725331741516593
+          ],
+          [
+            -0.23238888888888887,
+            2.5727496855595877
+          ],
+          [
+            -0.22744444444444442,
+            2.5729661969675166
+          ],
+          [
+            -0.22249999999999998,
+            2.573182708375445
+          ],
+          [
+            -0.21755555555555553,
+            2.573395381816577
+          ],
+          [
+            -0.21261111111111108,
+            2.5735909542877398
+          ],
+          [
+            -0.20766666666666667,
+            2.5737865267589033
+          ],
+          [
+            -0.20272222222222222,
+            2.5739820992300664
+          ],
+          [
+            -0.19777777777777777,
+            2.57417767170123
+          ],
+          [
+            -0.1928333333333333,
+            2.574374705026808
+          ],
+          [
+            -0.18788888888888888,
+            2.5745734647107423
+          ],
+          [
+            -0.1829444444444444,
+            2.574772224394677
+          ],
+          [
+            -0.178,
+            2.574970984078611
+          ],
+          [
+            -0.17305555555555552,
+            2.5751697437625456
+          ],
+          [
+            -0.1681111111111111,
+            2.5753626122395112
+          ],
+          [
+            -0.16316666666666663,
+            2.575553167732029
+          ],
+          [
+            -0.1582222222222222,
+            2.5757437232245466
+          ],
+          [
+            -0.15327777777777774,
+            2.5759342787170643
+          ],
+          [
+            -0.14833333333333332,
+            2.576124834209582
+          ],
+          [
+            -0.14338888888888884,
+            2.5762834917588533
+          ],
+          [
+            -0.13844444444444443,
+            2.5764206667212965
+          ],
+          [
+            -0.13349999999999995,
+            2.5765578416837394
+          ],
+          [
+            -0.12855555555555553,
+            2.576695016646182
+          ],
+          [
+            -0.12361111111111112,
+            2.5768321916086254
+          ],
+          [
+            -0.11866666666666664,
+            2.5769606313975673
+          ],
+          [
+            -0.11372222222222222,
+            2.57707964748692
+          ],
+          [
+            -0.10877777777777775,
+            2.5872558287119687
+          ],
+          [
+            -0.10383333333333333,
+            2.5909342346029267
+          ],
+          [
+            -0.09888888888888886,
+            2.594005044620619
+          ],
+          [
+            -0.09394444444444444,
+            2.5958560892447977
+          ],
+          [
+            -0.08899999999999997,
+            2.5970143505848267
+          ],
+          [
+            -0.08405555555555555,
+            2.5980134982601752
+          ],
+          [
+            -0.07911111111111108,
+            2.598168160118076
+          ],
+          [
+            -0.07416666666666666,
+            2.594113771422321
+          ],
+          [
+            -0.06922222222222219,
+            2.589594451383018
+          ],
+          [
+            -0.06427777777777777,
+            2.577906893501154
+          ],
+          [
+            -0.059333333333333294,
+            2.5779615327655034
+          ],
+          [
+            -0.054388888888888876,
+            2.578016172029853
+          ],
+          [
+            -0.0494444444444444,
+            2.578070811294203
+          ],
+          [
+            -0.044499999999999984,
+            2.578095662578148
+          ],
+          [
+            -0.03955555555555551,
+            2.57810402518524
+          ],
+          [
+            -0.03461111111111109,
+            2.578112387792332
+          ],
+          [
+            -0.02966666666666662,
+            2.578120750399424
+          ],
+          [
+            -0.0247222222222222,
+            2.5781291130065163
+          ],
+          [
+            -0.019777777777777727,
+            2.5781299787221292
+          ],
+          [
+            -0.01483333333333331,
+            2.5781297907287635
+          ],
+          [
+            -0.009888888888888836,
+            2.578129602735398
+          ],
+          [
+            -0.004944444444444418,
+            2.578129414742033
+          ],
+          [
+            5.551115123125783e-17,
+            2.5781292267486675
+          ],
+          [
+            0.0049444444444444735,
+            2.5781290387553017
+          ],
+          [
+            0.009888888888888947,
+            2.5781288507619364
+          ],
+          [
+            0.014833333333333365,
+            2.578128662768571
+          ],
+          [
+            0.01977777777777784,
+            2.578128474775206
+          ],
+          [
+            0.024722222222222257,
+            2.5781282867818405
+          ],
+          [
+            0.029666666666666675,
+            2.5781206770265235
+          ],
+          [
+            0.03461111111111115,
+            2.578112319541466
+          ],
+          [
+            0.039555555555555566,
+            2.5781039620564097
+          ],
+          [
+            0.04450000000000004,
+            2.5780956045713532
+          ],
+          [
+            0.04944444444444446,
+            2.5780805622948577
+          ],
+          [
+            0.05438888888888893,
+            2.5780239245063283
+          ],
+          [
+            0.059333333333333405,
+            2.5779672867177985
+          ],
+          [
+            0.06427777777777782,
+            2.5779106489292687
+          ],
+          [
+            0.06922222222222224,
+            2.5896060936683325
+          ],
+          [
+            0.07416666666666666,
+            2.594125278184843
+          ],
+          [
+            0.07911111111111119,
+            2.5981752901673554
+          ],
+          [
+            0.0840555555555556,
+            2.5980107420781833
+          ],
+          [
+            0.08900000000000002,
+            2.5970107810767997
+          ],
+          [
+            0.09394444444444444,
+            2.595853823578317
+          ],
+          [
+            0.09888888888888897,
+            2.5939965219665364
+          ],
+          [
+            0.10383333333333339,
+            2.590925087804971
+          ],
+          [
+            0.1087777777777778,
+            2.587242504879786
+          ],
+          [
+            0.11372222222222222,
+            2.577079281991052
+          ],
+          [
+            0.11866666666666675,
+            2.5769602659016995
+          ],
+          [
+            0.12361111111111117,
+            2.576831770325134
+          ],
+          [
+            0.1285555555555556,
+            2.576694595320333
+          ],
+          [
+            0.1335,
+            2.576557420315532
+          ],
+          [
+            0.13844444444444454,
+            2.576420245310731
+          ],
+          [
+            0.14338888888888895,
+            2.57628307030593
+          ],
+          [
+            0.14833333333333337,
+            2.5761242528118324
+          ],
+          [
+            0.1532777777777778,
+            2.575933707417982
+          ],
+          [
+            0.15822222222222232,
+            2.5757431620241316
+          ],
+          [
+            0.16316666666666674,
+            2.5755526166302807
+          ],
+          [
+            0.16811111111111116,
+            2.5753620712364302
+          ],
+          [
+            0.17305555555555557,
+            2.575173228158164
+          ],
+          [
+            0.1780000000000001,
+            2.5749886615002295
+          ],
+          [
+            0.18294444444444452,
+            2.5748040948422948
+          ],
+          [
+            0.18788888888888894,
+            2.5746195281843605
+          ],
+          [
+            0.19283333333333336,
+            2.574434961526426
+          ],
+          [
+            0.19777777777777777,
+            2.5742367856304993
+          ],
+          [
+            0.2027222222222223,
+            2.5740269538640064
+          ],
+          [
+            0.20766666666666672,
+            2.5738171220975135
+          ],
+          [
+            0.21261111111111114,
+            2.5736072903310205
+          ],
+          [
+            0.21755555555555556,
+            2.573397458564528
+          ],
+          [
+            0.2225000000000001,
+            2.5731821450906516
+          ],
+          [
+            0.2274444444444445,
+            2.572965622320567
+          ],
+          [
+            0.23238888888888892,
+            2.5727490995504825
+          ],
+          [
+            0.23733333333333334,
+            2.572532576780398
+          ],
+          [
+            0.24227777777777787,
+            2.572316054010313
+          ],
+          [
+            0.2472222222222223,
+            2.5720276733928484
+          ],
+          [
+            0.2521666666666667,
+            2.571704775193251
+          ],
+          [
+            0.2571111111111111,
+            2.571381876993653
+          ],
+          [
+            0.26205555555555565,
+            2.571058978794055
+          ],
+          [
+            0.26700000000000007,
+            2.570736080594457
+          ],
+          [
+            0.2719444444444445,
+            2.5704191228472153
+          ],
+          [
+            0.2768888888888889,
+            2.5701049342756823
+          ],
+          [
+            0.28183333333333344,
+            2.5697907457041493
+          ],
+          [
+            0.28677777777777785,
+            2.5694765571326164
+          ],
+          [
+            0.29172222222222227,
+            2.5691269449355065
+          ],
+          [
+            0.2966666666666667,
+            2.568606447854366
+          ],
+          [
+            0.3016111111111112,
+            2.568085950773226
+          ],
+          [
+            0.30655555555555564,
+            2.5675654536920853
+          ],
+          [
+            0.31150000000000005,
+            2.567044547246412
+          ],
+          [
+            0.3164444444444445,
+            2.5665086129670835
+          ],
+          [
+            0.321388888888889,
+            2.5659726786877552
+          ],
+          [
+            0.3263333333333334,
+            2.565436744408427
+          ],
+          [
+            0.33127777777777784,
+            2.564900810129099
+          ],
+          [
+            0.33622222222222226,
+            2.564279020648702
+          ],
+          [
+            0.3411666666666668,
+            2.5635309187621282
+          ],
+          [
+            0.3461111111111112,
+            2.5627828168755546
+          ],
+          [
+            0.3510555555555556,
+            2.562034714988982
+          ],
+          [
+            0.35600000000000004,
+            2.5613010826596736
+          ],
+          [
+            0.36094444444444446,
+            2.56057415214152
+          ],
+          [
+            0.365888888888889,
+            2.5598472216233668
+          ],
+          [
+            0.3708333333333334,
+            2.5589724399158493
+          ],
+          [
+            0.3757777777777778,
+            2.557882868059971
+          ],
+          [
+            0.38072222222222224,
+            2.556785367438495
+          ],
+          [
+            0.38566666666666677,
+            2.5556737086646395
+          ],
+          [
+            0.3906111111111112,
+            2.554409814377224
+          ],
+          [
+            0.3955555555555556,
+            2.5526020234598814
+          ],
+          [
+            0.4005,
+            2.550810529473216
+          ],
+          [
+            0.40544444444444455,
+            2.548874538406812
+          ],
+          [
+            0.41038888888888897,
+            2.5466412732406534
+          ],
+          [
+            0.4153333333333334,
+            2.5444073864898455
+          ],
+          [
+            0.4202777777777778,
+            2.542098677093818
+          ],
+          [
+            0.42522222222222233,
+            2.5396082294830715
+          ],
+          [
+            0.43016666666666675,
+            2.5371246595754045
+          ],
+          [
+            0.43511111111111117,
+            2.534607563470773
+          ],
+          [
+            0.4400555555555556,
+            2.531928642445243
+          ],
+          [
+            0.445,
+            2.529245621002799
+          ]
+        ]
+      },
+      "rpm_hood_clearance": {
+        "coarse_hood_faces_crossing_pointer_opening_removed": {},
+        "opaque_cluster_face_and_enclosure_retained": true
+      },
+      "tangents": {
+        "normal_mapped_meshes_rebuilt": [
+          {
+            "name": "BODY_lambert1_0",
+            "vertices": 39268,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.072168641178209e-08
+          },
+          {
+            "name": "BODY_BlackTrims_0",
+            "vertices": 10647,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.7627818466899896e-08
+          },
+          {
+            "name": "BODY_Adventure_Rock_0",
+            "vertices": 11199,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.3558036288970925e-08
+          },
+          {
+            "name": "RAV4_TAILGATE_GARNISH",
+            "vertices": 414,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.836681816693499e-08
+          },
+          {
+            "name": "BODY_WhiteRoof_0",
+            "vertices": 1653,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.153016730512604e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_LF_TREAD",
+            "vertices": 768,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.919484498071668e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_RF_TREAD",
+            "vertices": 768,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.950950483444515e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_LR_TREAD",
+            "vertices": 768,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.739082626852408e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_RR_TREAD",
+            "vertices": 768,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.4742419274813585e-08
+          },
+          {
+            "name": "RAV4_SOLID_ROOF",
+            "vertices": 1074,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.7525151985740024e-08
+          },
+          {
+            "name": "RAV4_ROOF_EDGE_RETURN",
+            "vertices": 116,
+            "fallback_vertices": 116,
+            "degenerate_uv_or_geometry_faces": 96,
+            "max_abs_normal_dot_tangent": 1.8258407452620418e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_6_ATLAS_0",
+            "vertices": 3,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 1.8529010548107294e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_7_LEATHER_0",
+            "vertices": 150,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.681378629716292e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_9_LEATHER_0",
+            "vertices": 353,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.338751553005892e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_10_ATLAS_0",
+            "vertices": 53,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.411670090880392e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_11_ATLAS_0",
+            "vertices": 4,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.9116552613395186e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_12_LEATHER_0",
+            "vertices": 149,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.72865983419468e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_14_LEATHER_0",
+            "vertices": 371,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.460441150293647e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_15_ATLAS_0",
+            "vertices": 50,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.3091963397003923e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_17_ATLAS_0",
+            "vertices": 160,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.056069298150831e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_18_ATLAS_0",
+            "vertices": 4,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.2503455820999108e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_19_LEATHER_0",
+            "vertices": 610,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.376531210186329e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_21_LEATHER_0",
+            "vertices": 215,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.615602683915142e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_22_ATLAS_0",
+            "vertices": 86,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 1.8044160950136945e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_23_ATLAS_0",
+            "vertices": 3,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.006400640075512e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_24_LEATHER_0",
+            "vertices": 596,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.7833251531615986e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_26_LEATHER_0",
+            "vertices": 214,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.3829165030075927e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_29_ATLAS_0",
+            "vertices": 3199,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.6288959393004916e-08
+          },
+          {
+            "name": "RAV4_V12_OVERHEAD_part_29_ATLAS_0",
+            "vertices": 72,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 1.9274589591056213e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_30_ATLAS_0",
+            "vertices": 117,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 7,
+            "max_abs_normal_dot_tangent": 3.084264774133594e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_34_LEATHER_0",
+            "vertices": 240,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.991283969995152e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_36_LEATHER_0",
+            "vertices": 3839,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.1097307168502795e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_37_LEATHER_0",
+            "vertices": 923,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.700337786183283e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_38_DASH_0",
+            "vertices": 345,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.240893220457508e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_38_LEATHER_0",
+            "vertices": 193,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.53182082468706e-08
+          },
+          {
+            "name": "RAV4_V12_part_40_OverheadGrille",
+            "vertices": 83,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.7863858286268405e-10
+          },
+          {
+            "name": "RAV4_V12_part_41_DashGrille",
+            "vertices": 54,
+            "fallback_vertices": 5,
+            "degenerate_uv_or_geometry_faces": 11,
+            "max_abs_normal_dot_tangent": 1.746008088110429e-08
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_0_ATLAS_0",
+            "vertices": 12,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 9.454098337524641e-10
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_0_LEATHER_0",
+            "vertices": 1036,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.04244556162503e-08
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_2_LEATHER_0",
+            "vertices": 1669,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.059343522433423e-08
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_4_ATLAS_0",
+            "vertices": 272,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.899018207374113e-08
+          },
+          {
+            "name": "RAV4_V13_MIRROR_CAP_L",
+            "vertices": 165,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.395944558892694e-08
+          },
+          {
+            "name": "RAV4_V13_MIRROR_CAP_R",
+            "vertices": 165,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.265376900124517e-08
+          }
+        ],
+        "max_abs_normal_dot_tangent": 4.7627818466899896e-08,
+        "normals_positions_and_uvs_preserved": true
+      },
+      "lod_textures": {
+        "textures_resized": 1,
+        "max_dimension": 512,
+        "bytes_saved": 1485872
+      }
+    },
+    "x5_lod_d.kn5": {
+      "doors": {
+        "FL": {
+          "fitted_parts": [
+            "RAV4_V12_CABIN_part_17_ATLAS_0",
+            "RAV4_V12_CABIN_part_18_PLASTIC_0",
+            "RAV4_V12_CABIN_part_18_SATIN_0",
+            "RAV4_V12_CABIN_part_19_LEATHER_0",
+            "RAV4_V12_part_20_Speaker",
+            "RAV4_V12_CABIN_part_21_LEATHER_0"
+          ],
+          "clipped_to_actual_window_sill": {
+            "RAV4_V12_CABIN_part_17_ATLAS_0": {
+              "before": 126,
+              "after": 126
+            },
+            "RAV4_V12_CABIN_part_18_PLASTIC_0": {
+              "before": 348,
+              "after": 323
+            },
+            "RAV4_V12_CABIN_part_18_SATIN_0": {
+              "before": 129,
+              "after": 129
+            },
+            "RAV4_V12_CABIN_part_19_LEATHER_0": {
+              "before": 414,
+              "after": 416
+            },
+            "RAV4_V12_part_20_Speaker": {
+              "before": 130,
+              "after": 130
+            },
+            "RAV4_V12_CABIN_part_21_LEATHER_0": {
+              "before": 193,
+              "after": 193
+            }
+          },
+          "backing_outline_yz": [
+            [
+              0.425,
+              -0.235
+            ],
+            [
+              0.425,
+              0.78
+            ],
+            [
+              0.9,
+              0.94
+            ],
+            [
+              1.13,
+              0.94
+            ],
+            [
+              1.13,
+              -0.18
+            ],
+            [
+              1.19,
+              -0.205
+            ],
+            [
+              1.19,
+              -0.235
+            ]
+          ],
+          "jambs": [
+            {
+              "end": "REAR",
+              "z_m": -0.23499999940395355,
+              "top_m": 1.19,
+              "inner_x_m": 0.7670375690460205
+            },
+            {
+              "end": "FRONT",
+              "z_m": 0.9229999780654907,
+              "top_m": 1.13,
+              "inner_x_m": 0.7582904086112976
+            }
+          ]
+        },
+        "FR": {
+          "fitted_parts": [
+            "RAV4_V12_CABIN_part_22_ATLAS_0",
+            "RAV4_V12_CABIN_part_23_PLASTIC_0",
+            "RAV4_V12_CABIN_part_23_SATIN_0",
+            "RAV4_V12_CABIN_part_24_LEATHER_0",
+            "RAV4_V12_part_25_Speaker",
+            "RAV4_V12_CABIN_part_26_LEATHER_0"
+          ],
+          "clipped_to_actual_window_sill": {
+            "RAV4_V12_CABIN_part_22_ATLAS_0": {
+              "before": 76,
+              "after": 76
+            },
+            "RAV4_V12_CABIN_part_23_PLASTIC_0": {
+              "before": 287,
+              "after": 262
+            },
+            "RAV4_V12_CABIN_part_23_SATIN_0": {
+              "before": 136,
+              "after": 136
+            },
+            "RAV4_V12_CABIN_part_24_LEATHER_0": {
+              "before": 366,
+              "after": 368
+            },
+            "RAV4_V12_part_25_Speaker": {
+              "before": 130,
+              "after": 130
+            },
+            "RAV4_V12_CABIN_part_26_LEATHER_0": {
+              "before": 194,
+              "after": 194
+            }
+          },
+          "backing_outline_yz": [
+            [
+              0.425,
+              -0.235
+            ],
+            [
+              0.425,
+              0.78
+            ],
+            [
+              0.9,
+              0.94
+            ],
+            [
+              1.13,
+              0.94
+            ],
+            [
+              1.13,
+              -0.18
+            ],
+            [
+              1.19,
+              -0.205
+            ],
+            [
+              1.19,
+              -0.235
+            ]
+          ],
+          "jambs": [
+            {
+              "end": "REAR",
+              "z_m": -0.23499999940395355,
+              "top_m": 1.19,
+              "inner_x_m": 0.7690991744995117
+            },
+            {
+              "end": "FRONT",
+              "z_m": 0.9229999780654907,
+              "top_m": 1.13,
+              "inner_x_m": 0.7581716165542602
+            }
+          ]
+        },
+        "BL": {
+          "fitted_parts": [
+            "RAV4_V12_CABIN_part_5_SATIN_0",
+            "RAV4_V12_CABIN_part_6_PLASTIC_0",
+            "RAV4_V12_CABIN_part_6_SATIN_0",
+            "RAV4_V12_CABIN_part_7_LEATHER_0",
+            "RAV4_V12_part_8_Speaker",
+            "RAV4_V12_CABIN_part_9_LEATHER_0",
+            "RAV4_V12_CABIN_part_10_ATLAS_0"
+          ],
+          "clipped_to_actual_window_sill": {
+            "RAV4_V12_CABIN_part_5_SATIN_0": {
+              "before": 98,
+              "after": 98
+            },
+            "RAV4_V12_CABIN_part_6_PLASTIC_0": {
+              "before": 171,
+              "after": 171
+            },
+            "RAV4_V12_CABIN_part_6_SATIN_0": {
+              "before": 98,
+              "after": 98
+            },
+            "RAV4_V12_CABIN_part_7_LEATHER_0": {
+              "before": 145,
+              "after": 145
+            },
+            "RAV4_V12_part_8_Speaker": {
+              "before": 97,
+              "after": 97
+            },
+            "RAV4_V12_CABIN_part_9_LEATHER_0": {
+              "before": 268,
+              "after": 268
+            },
+            "RAV4_V12_CABIN_part_10_ATLAS_0": {
+              "before": 44,
+              "after": 44
+            }
+          },
+          "backing_outline_yz": [
+            [
+              0.435,
+              -1.325
+            ],
+            [
+              0.435,
+              -0.27
+            ],
+            [
+              1.173,
+              -0.27
+            ],
+            [
+              1.178,
+              -0.32
+            ],
+            [
+              1.178,
+              -1.01
+            ],
+            [
+              1.207,
+              -1.27
+            ],
+            [
+              1.22,
+              -1.325
+            ]
+          ],
+          "jambs": [
+            {
+              "end": "REAR",
+              "z_m": -1.3250000476837158,
+              "top_m": 1.22,
+              "inner_x_m": 0.7204200015068054
+            },
+            {
+              "end": "FRONT",
+              "z_m": -0.27024999260902405,
+              "top_m": 1.173,
+              "inner_x_m": 0.7379800066947937
+            }
+          ]
+        },
+        "BR": {
+          "fitted_parts": [
+            "RAV4_V12_CABIN_part_11_PLASTIC_0",
+            "RAV4_V12_CABIN_part_11_SATIN_0",
+            "RAV4_V12_CABIN_part_12_LEATHER_0",
+            "RAV4_V12_part_13_Speaker",
+            "RAV4_V12_CABIN_part_14_LEATHER_0",
+            "RAV4_V12_CABIN_part_15_ATLAS_0",
+            "RAV4_V12_CABIN_part_16_SATIN_0"
+          ],
+          "clipped_to_actual_window_sill": {
+            "RAV4_V12_CABIN_part_11_PLASTIC_0": {
+              "before": 173,
+              "after": 173
+            },
+            "RAV4_V12_CABIN_part_11_SATIN_0": {
+              "before": 99,
+              "after": 99
+            },
+            "RAV4_V12_CABIN_part_12_LEATHER_0": {
+              "before": 146,
+              "after": 146
+            },
+            "RAV4_V12_part_13_Speaker": {
+              "before": 97,
+              "after": 97
+            },
+            "RAV4_V12_CABIN_part_14_LEATHER_0": {
+              "before": 279,
+              "after": 279
+            },
+            "RAV4_V12_CABIN_part_15_ATLAS_0": {
+              "before": 44,
+              "after": 44
+            },
+            "RAV4_V12_CABIN_part_16_SATIN_0": {
+              "before": 98,
+              "after": 98
+            }
+          },
+          "backing_outline_yz": [
+            [
+              0.435,
+              -1.325
+            ],
+            [
+              0.435,
+              -0.27
+            ],
+            [
+              1.173,
+              -0.27
+            ],
+            [
+              1.178,
+              -0.32
+            ],
+            [
+              1.178,
+              -1.01
+            ],
+            [
+              1.207,
+              -1.27
+            ],
+            [
+              1.22,
+              -1.325
+            ]
+          ],
+          "jambs": [
+            {
+              "end": "REAR",
+              "z_m": -1.3250000476837158,
+              "top_m": 1.22,
+              "inner_x_m": 0.7203311905860901
+            },
+            {
+              "end": "FRONT",
+              "z_m": -0.27024999260902405,
+              "top_m": 1.173,
+              "inner_x_m": 0.7379800066947937
+            }
+          ]
+        }
+      },
+      "rpm": {
+        "control": "Single CSP RPM analog controller; native RPM entry removed",
+        "pivot_m": [
+          0.5301812887191772,
+          1.0698542594909668,
+          0.800583004951477
+        ],
+        "zero_degrees": -91,
+        "sweep_degrees": 183,
+        "range_rpm": [
+          0,
+          8000
+        ]
+      },
+      "materials": {
+        "changed_materials": [
+          "Rims1",
+          "Rims2",
+          "RAV4_V8_FrontGlass",
+          "RAV4_V8_PrivacyGlass",
+          "RAV4_V9_InnerFrontGlass",
+          "RAV4_V9_InnerPrivacyGlass"
+        ],
+        "inside_glass": "Known alpha-capable shader; reflection/specular terms zero; excluded from SSR",
+        "black_wheel_pockets": "Rims2 matte; original dark diffuse retained"
+      },
+      "android_auto": {
+        "runtime": "CSP shared android_auto/script.lua via Display_AndroidAuto",
+        "fallback": "Explicit dependency card, not a fake live interface",
+        "resolution": [
+          1024,
+          544
+        ]
+      },
+      "grille": {
+        "modules": [
+          {
+            "center_m": [
+              -0.37,
+              0.87,
+              2.5616225016466467
+            ],
+            "width_m": 0.135,
+            "height_m": 0.02,
+            "depth_m": 0.008,
+            "front_surface_offset_m": 0.0065
+          },
+          {
+            "center_m": [
+              -0.215,
+              0.87,
+              2.5759964642174027
+            ],
+            "width_m": 0.135,
+            "height_m": 0.02,
+            "depth_m": 0.008,
+            "front_surface_offset_m": 0.0065
+          },
+          {
+            "center_m": [
+              0.215,
+              0.87,
+              2.5760059109382207
+            ],
+            "width_m": 0.135,
+            "height_m": 0.02,
+            "depth_m": 0.008,
+            "front_surface_offset_m": 0.0065
+          },
+          {
+            "center_m": [
+              0.37,
+              0.87,
+              2.5616198750350936
+            ],
+            "width_m": 0.135,
+            "height_m": 0.02,
+            "depth_m": 0.008,
+            "front_surface_offset_m": 0.0065
+          }
+        ],
+        "emitter_meshes": [
+          "RAV4_V14_GRILLE_LED_0",
+          "RAV4_V14_GRILLE_LED_1",
+          "RAV4_V14_GRILLE_LED_2",
+          "RAV4_V14_GRILLE_LED_3"
+        ],
+        "control": "Normal headlights; native light bindings plus CSP emissive/short-range fill",
+        "surface_profile_xz": [
+          [
+            -0.445,
+            2.529252835804497
+          ],
+          [
+            -0.4400555555555556,
+            2.531936214215169
+          ],
+          [
+            -0.4351111111111111,
+            2.5346156478426654
+          ],
+          [
+            -0.4301666666666667,
+            2.5371319262782275
+          ],
+          [
+            -0.4252222222222222,
+            2.5396150838011575
+          ],
+          [
+            -0.4202777777777778,
+            2.5421053193965455
+          ],
+          [
+            -0.41533333333333333,
+            2.5444134245761765
+          ],
+          [
+            -0.4103888888888889,
+            2.5466473413736423
+          ],
+          [
+            -0.40544444444444444,
+            2.548880672031158
+          ],
+          [
+            -0.4005,
+            2.5508154836072494
+          ],
+          [
+            -0.39555555555555555,
+            2.552607035925404
+          ],
+          [
+            -0.39061111111111113,
+            2.554414513125824
+          ],
+          [
+            -0.38566666666666666,
+            2.5556765550924547
+          ],
+          [
+            -0.38072222222222224,
+            2.5567882122533887
+          ],
+          [
+            -0.37577777777777777,
+            2.557885653828805
+          ],
+          [
+            -0.37083333333333335,
+            2.558975222638299
+          ],
+          [
+            -0.3658888888888889,
+            2.559849078087828
+          ],
+          [
+            -0.36094444444444446,
+            2.560576009844583
+          ],
+          [
+            -0.356,
+            2.5613029416013386
+          ],
+          [
+            -0.35105555555555557,
+            2.5620366291476313
+          ],
+          [
+            -0.3461111111111111,
+            2.562784731687993
+          ],
+          [
+            -0.3411666666666667,
+            2.5635328342283548
+          ],
+          [
+            -0.3362222222222222,
+            2.5642809367687156
+          ],
+          [
+            -0.3312777777777778,
+            2.5649022018151775
+          ],
+          [
+            -0.32633333333333336,
+            2.565438167545219
+          ],
+          [
+            -0.3213888888888889,
+            2.5659741332752604
+          ],
+          [
+            -0.3164444444444444,
+            2.566510099005302
+          ],
+          [
+            -0.3115,
+            2.5670460647353437
+          ],
+          [
+            -0.3065555555555556,
+            2.567566927773288
+          ],
+          [
+            -0.3016111111111111,
+            2.568087424423194
+          ],
+          [
+            -0.29666666666666663,
+            2.5686079210731
+          ],
+          [
+            -0.2917222222222222,
+            2.5691284177230065
+          ],
+          [
+            -0.2867777777777778,
+            2.569477446151555
+          ],
+          [
+            -0.2818333333333333,
+            2.5697916347731176
+          ],
+          [
+            -0.27688888888888885,
+            2.5701058233946794
+          ],
+          [
+            -0.27194444444444443,
+            2.5704200120162417
+          ],
+          [
+            -0.267,
+            2.5707369944144114
+          ],
+          [
+            -0.26205555555555554,
+            2.5710598925121686
+          ],
+          [
+            -0.25711111111111107,
+            2.5713827906099254
+          ],
+          [
+            -0.25216666666666665,
+            2.571705688707682
+          ],
+          [
+            -0.2472222222222222,
+            2.572028586805439
+          ],
+          [
+            -0.24227777777777776,
+            2.5723166627437304
+          ],
+          [
+            -0.2373333333333333,
+            2.5725331741516593
+          ],
+          [
+            -0.23238888888888887,
+            2.5727496855595877
+          ],
+          [
+            -0.22744444444444442,
+            2.5729661969675166
+          ],
+          [
+            -0.22249999999999998,
+            2.573182708375445
+          ],
+          [
+            -0.21755555555555553,
+            2.573395381816577
+          ],
+          [
+            -0.21261111111111108,
+            2.5735909542877398
+          ],
+          [
+            -0.20766666666666667,
+            2.5737865267589033
+          ],
+          [
+            -0.20272222222222222,
+            2.5739820992300664
+          ],
+          [
+            -0.19777777777777777,
+            2.57417767170123
+          ],
+          [
+            -0.1928333333333333,
+            2.574374705026808
+          ],
+          [
+            -0.18788888888888888,
+            2.5745734647107423
+          ],
+          [
+            -0.1829444444444444,
+            2.574772224394677
+          ],
+          [
+            -0.178,
+            2.574970984078611
+          ],
+          [
+            -0.17305555555555552,
+            2.5751697437625456
+          ],
+          [
+            -0.1681111111111111,
+            2.5753626122395112
+          ],
+          [
+            -0.16316666666666663,
+            2.575553167732029
+          ],
+          [
+            -0.1582222222222222,
+            2.5757437232245466
+          ],
+          [
+            -0.15327777777777774,
+            2.5759342787170643
+          ],
+          [
+            -0.14833333333333332,
+            2.576124834209582
+          ],
+          [
+            -0.14338888888888884,
+            2.5762834917588533
+          ],
+          [
+            -0.13844444444444443,
+            2.5764206667212965
+          ],
+          [
+            -0.13349999999999995,
+            2.5765578416837394
+          ],
+          [
+            -0.12855555555555553,
+            2.576695016646182
+          ],
+          [
+            -0.12361111111111112,
+            2.5768321916086254
+          ],
+          [
+            -0.11866666666666664,
+            2.5769606313975673
+          ],
+          [
+            -0.11372222222222222,
+            2.57707964748692
+          ],
+          [
+            -0.10877777777777775,
+            2.5872558287119687
+          ],
+          [
+            -0.10383333333333333,
+            2.5909342346029267
+          ],
+          [
+            -0.09888888888888886,
+            2.594005044620619
+          ],
+          [
+            -0.09394444444444444,
+            2.5958560892447977
+          ],
+          [
+            -0.08899999999999997,
+            2.5970143505848267
+          ],
+          [
+            -0.08405555555555555,
+            2.5980134982601752
+          ],
+          [
+            -0.07911111111111108,
+            2.598168160118076
+          ],
+          [
+            -0.07416666666666666,
+            2.594113771422321
+          ],
+          [
+            -0.06922222222222219,
+            2.589594451383018
+          ],
+          [
+            -0.06427777777777777,
+            2.577906893501154
+          ],
+          [
+            -0.059333333333333294,
+            2.5779615327655034
+          ],
+          [
+            -0.054388888888888876,
+            2.578016172029853
+          ],
+          [
+            -0.0494444444444444,
+            2.578070811294203
+          ],
+          [
+            -0.044499999999999984,
+            2.578095662578148
+          ],
+          [
+            -0.03955555555555551,
+            2.57810402518524
+          ],
+          [
+            -0.03461111111111109,
+            2.578112387792332
+          ],
+          [
+            -0.02966666666666662,
+            2.578120750399424
+          ],
+          [
+            -0.0247222222222222,
+            2.5781291130065163
+          ],
+          [
+            -0.019777777777777727,
+            2.5781299787221292
+          ],
+          [
+            -0.01483333333333331,
+            2.5781297907287635
+          ],
+          [
+            -0.009888888888888836,
+            2.578129602735398
+          ],
+          [
+            -0.004944444444444418,
+            2.578129414742033
+          ],
+          [
+            5.551115123125783e-17,
+            2.5781292267486675
+          ],
+          [
+            0.0049444444444444735,
+            2.5781290387553017
+          ],
+          [
+            0.009888888888888947,
+            2.5781288507619364
+          ],
+          [
+            0.014833333333333365,
+            2.578128662768571
+          ],
+          [
+            0.01977777777777784,
+            2.578128474775206
+          ],
+          [
+            0.024722222222222257,
+            2.5781282867818405
+          ],
+          [
+            0.029666666666666675,
+            2.5781206770265235
+          ],
+          [
+            0.03461111111111115,
+            2.578112319541466
+          ],
+          [
+            0.039555555555555566,
+            2.5781039620564097
+          ],
+          [
+            0.04450000000000004,
+            2.5780956045713532
+          ],
+          [
+            0.04944444444444446,
+            2.5780805622948577
+          ],
+          [
+            0.05438888888888893,
+            2.5780239245063283
+          ],
+          [
+            0.059333333333333405,
+            2.5779672867177985
+          ],
+          [
+            0.06427777777777782,
+            2.5779106489292687
+          ],
+          [
+            0.06922222222222224,
+            2.5896060936683325
+          ],
+          [
+            0.07416666666666666,
+            2.594125278184843
+          ],
+          [
+            0.07911111111111119,
+            2.5981752901673554
+          ],
+          [
+            0.0840555555555556,
+            2.5980107420781833
+          ],
+          [
+            0.08900000000000002,
+            2.5970107810767997
+          ],
+          [
+            0.09394444444444444,
+            2.595853823578317
+          ],
+          [
+            0.09888888888888897,
+            2.5939965219665364
+          ],
+          [
+            0.10383333333333339,
+            2.590925087804971
+          ],
+          [
+            0.1087777777777778,
+            2.587242504879786
+          ],
+          [
+            0.11372222222222222,
+            2.577079281991052
+          ],
+          [
+            0.11866666666666675,
+            2.5769602659016995
+          ],
+          [
+            0.12361111111111117,
+            2.576831770325134
+          ],
+          [
+            0.1285555555555556,
+            2.576694595320333
+          ],
+          [
+            0.1335,
+            2.576557420315532
+          ],
+          [
+            0.13844444444444454,
+            2.576420245310731
+          ],
+          [
+            0.14338888888888895,
+            2.57628307030593
+          ],
+          [
+            0.14833333333333337,
+            2.5761242528118324
+          ],
+          [
+            0.1532777777777778,
+            2.575933707417982
+          ],
+          [
+            0.15822222222222232,
+            2.5757431620241316
+          ],
+          [
+            0.16316666666666674,
+            2.5755526166302807
+          ],
+          [
+            0.16811111111111116,
+            2.5753620712364302
+          ],
+          [
+            0.17305555555555557,
+            2.575173228158164
+          ],
+          [
+            0.1780000000000001,
+            2.5749886615002295
+          ],
+          [
+            0.18294444444444452,
+            2.5748040948422948
+          ],
+          [
+            0.18788888888888894,
+            2.5746195281843605
+          ],
+          [
+            0.19283333333333336,
+            2.574434961526426
+          ],
+          [
+            0.19777777777777777,
+            2.5742367856304993
+          ],
+          [
+            0.2027222222222223,
+            2.5740269538640064
+          ],
+          [
+            0.20766666666666672,
+            2.5738171220975135
+          ],
+          [
+            0.21261111111111114,
+            2.5736072903310205
+          ],
+          [
+            0.21755555555555556,
+            2.573397458564528
+          ],
+          [
+            0.2225000000000001,
+            2.5731821450906516
+          ],
+          [
+            0.2274444444444445,
+            2.572965622320567
+          ],
+          [
+            0.23238888888888892,
+            2.5727490995504825
+          ],
+          [
+            0.23733333333333334,
+            2.572532576780398
+          ],
+          [
+            0.24227777777777787,
+            2.572316054010313
+          ],
+          [
+            0.2472222222222223,
+            2.5720276733928484
+          ],
+          [
+            0.2521666666666667,
+            2.571704775193251
+          ],
+          [
+            0.2571111111111111,
+            2.571381876993653
+          ],
+          [
+            0.26205555555555565,
+            2.571058978794055
+          ],
+          [
+            0.26700000000000007,
+            2.570736080594457
+          ],
+          [
+            0.2719444444444445,
+            2.5704191228472153
+          ],
+          [
+            0.2768888888888889,
+            2.5701049342756823
+          ],
+          [
+            0.28183333333333344,
+            2.5697907457041493
+          ],
+          [
+            0.28677777777777785,
+            2.5694765571326164
+          ],
+          [
+            0.29172222222222227,
+            2.5691269449355065
+          ],
+          [
+            0.2966666666666667,
+            2.568606447854366
+          ],
+          [
+            0.3016111111111112,
+            2.568085950773226
+          ],
+          [
+            0.30655555555555564,
+            2.5675654536920853
+          ],
+          [
+            0.31150000000000005,
+            2.567044547246412
+          ],
+          [
+            0.3164444444444445,
+            2.5665086129670835
+          ],
+          [
+            0.321388888888889,
+            2.5659726786877552
+          ],
+          [
+            0.3263333333333334,
+            2.565436744408427
+          ],
+          [
+            0.33127777777777784,
+            2.564900810129099
+          ],
+          [
+            0.33622222222222226,
+            2.564279020648702
+          ],
+          [
+            0.3411666666666668,
+            2.5635309187621282
+          ],
+          [
+            0.3461111111111112,
+            2.5627828168755546
+          ],
+          [
+            0.3510555555555556,
+            2.562034714988982
+          ],
+          [
+            0.35600000000000004,
+            2.5613010826596736
+          ],
+          [
+            0.36094444444444446,
+            2.56057415214152
+          ],
+          [
+            0.365888888888889,
+            2.5598472216233668
+          ],
+          [
+            0.3708333333333334,
+            2.5589724399158493
+          ],
+          [
+            0.3757777777777778,
+            2.557882868059971
+          ],
+          [
+            0.38072222222222224,
+            2.556785367438495
+          ],
+          [
+            0.38566666666666677,
+            2.5556737086646395
+          ],
+          [
+            0.3906111111111112,
+            2.554409814377224
+          ],
+          [
+            0.3955555555555556,
+            2.5526020234598814
+          ],
+          [
+            0.4005,
+            2.550810529473216
+          ],
+          [
+            0.40544444444444455,
+            2.548874538406812
+          ],
+          [
+            0.41038888888888897,
+            2.5466412732406534
+          ],
+          [
+            0.4153333333333334,
+            2.5444073864898455
+          ],
+          [
+            0.4202777777777778,
+            2.542098677093818
+          ],
+          [
+            0.42522222222222233,
+            2.5396082294830715
+          ],
+          [
+            0.43016666666666675,
+            2.5371246595754045
+          ],
+          [
+            0.43511111111111117,
+            2.534607563470773
+          ],
+          [
+            0.4400555555555556,
+            2.531928642445243
+          ],
+          [
+            0.445,
+            2.529245621002799
+          ]
+        ]
+      },
+      "rpm_hood_clearance": {
+        "coarse_hood_faces_crossing_pointer_opening_removed": {
+          "RAV4_V12_CABIN_part_30_PLASTIC_0": 2
+        },
+        "opaque_cluster_face_and_enclosure_retained": true
+      },
+      "tangents": {
+        "normal_mapped_meshes_rebuilt": [
+          {
+            "name": "BODY_lambert1_0",
+            "vertices": 39268,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.072168641178209e-08
+          },
+          {
+            "name": "BODY_BlackTrims_0",
+            "vertices": 10647,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.7627818466899896e-08
+          },
+          {
+            "name": "BODY_Adventure_Rock_0",
+            "vertices": 11199,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.3558036288970925e-08
+          },
+          {
+            "name": "RAV4_TAILGATE_GARNISH",
+            "vertices": 414,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.836681816693499e-08
+          },
+          {
+            "name": "BODY_WhiteRoof_0",
+            "vertices": 1653,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.153016730512604e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_LF_TREAD",
+            "vertices": 768,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.919484498071668e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_RF_TREAD",
+            "vertices": 768,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.950950483444515e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_LR_TREAD",
+            "vertices": 768,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.739082626852408e-08
+          },
+          {
+            "name": "RAV4_TYRE_WHEEL_RR_TREAD",
+            "vertices": 768,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.4742419274813585e-08
+          },
+          {
+            "name": "RAV4_SOLID_ROOF",
+            "vertices": 228,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.9108676136146983e-08
+          },
+          {
+            "name": "RAV4_ROOF_EDGE_RETURN",
+            "vertices": 116,
+            "fallback_vertices": 116,
+            "degenerate_uv_or_geometry_faces": 96,
+            "max_abs_normal_dot_tangent": 1.8258407452620418e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_7_LEATHER_0",
+            "vertices": 149,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.89833412217655e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_9_LEATHER_0",
+            "vertices": 249,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.82539932561221e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_10_ATLAS_0",
+            "vertices": 53,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.411670090880392e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_12_LEATHER_0",
+            "vertices": 146,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.6634291711301614e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_14_LEATHER_0",
+            "vertices": 261,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.0767612069215744e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_15_ATLAS_0",
+            "vertices": 50,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.3091963397003923e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_17_ATLAS_0",
+            "vertices": 160,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 2.056069298150831e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_19_LEATHER_0",
+            "vertices": 383,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.6853852636298257e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_21_LEATHER_0",
+            "vertices": 190,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.203411591545802e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_22_ATLAS_0",
+            "vertices": 86,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 1.8044160950136945e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_24_LEATHER_0",
+            "vertices": 345,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.517844967193193e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_26_LEATHER_0",
+            "vertices": 189,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.0843249343437407e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_29_ATLAS_0",
+            "vertices": 3199,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.6288959393004916e-08
+          },
+          {
+            "name": "RAV4_V12_OVERHEAD_part_29_ATLAS_0",
+            "vertices": 72,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 1.9274589591056213e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_30_ATLAS_0",
+            "vertices": 98,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 7,
+            "max_abs_normal_dot_tangent": 3.2311276210172934e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_34_LEATHER_0",
+            "vertices": 240,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.991283969995152e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_36_LEATHER_0",
+            "vertices": 2629,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.9312301247651504e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_37_LEATHER_0",
+            "vertices": 749,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.6583915286048097e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_38_DASH_0",
+            "vertices": 297,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.397672765359516e-08
+          },
+          {
+            "name": "RAV4_V12_CABIN_part_38_LEATHER_0",
+            "vertices": 143,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.661115199893317e-08
+          },
+          {
+            "name": "RAV4_V12_part_40_OverheadGrille",
+            "vertices": 83,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.7863858286268405e-10
+          },
+          {
+            "name": "RAV4_V12_part_41_DashGrille",
+            "vertices": 54,
+            "fallback_vertices": 5,
+            "degenerate_uv_or_geometry_faces": 11,
+            "max_abs_normal_dot_tangent": 1.746008088110429e-08
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_0_ATLAS_0",
+            "vertices": 12,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 9.454098337524641e-10
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_0_LEATHER_0",
+            "vertices": 1036,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.04244556162503e-08
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_2_LEATHER_0",
+            "vertices": 1669,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 4.059343522433423e-08
+          },
+          {
+            "name": "RAV4_V12_WHEEL_part_4_ATLAS_0",
+            "vertices": 272,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.899018207374113e-08
+          },
+          {
+            "name": "RAV4_V13_MIRROR_CAP_L",
+            "vertices": 165,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.395944558892694e-08
+          },
+          {
+            "name": "RAV4_V13_MIRROR_CAP_R",
+            "vertices": 165,
+            "fallback_vertices": 0,
+            "degenerate_uv_or_geometry_faces": 0,
+            "max_abs_normal_dot_tangent": 3.265376900124517e-08
+          }
+        ],
+        "max_abs_normal_dot_tangent": 4.7627818466899896e-08,
+        "normals_positions_and_uvs_preserved": true
+      },
+      "lod_textures": {
+        "textures_resized": 1,
+        "max_dimension": 256,
+        "bytes_saved": 1625136
+      }
+    }
+  }
+}

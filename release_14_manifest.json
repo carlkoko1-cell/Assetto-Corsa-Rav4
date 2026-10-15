@@ -1,0 +1,14 @@
+{
+  "archive": "Toyota_RAV4_Blue_Flame_CARL_Interior_0.14.zip",
+  "bytes": 103825926,
+  "files": 126,
+  "sha256": "625f175a7583d5fe71399903e5dca823a73ffebaf077f2dfc191f68f143eea84",
+  "zip_crc": "passed",
+  "every_member_matches_final_files": true,
+  "native_mid_font_included": true,
+  "offline_validation": "passed_offline_checks",
+  "assetto_corsa_runtime_tested": false,
+  "navigation": "Full CSP shared Android Auto interactive display",
+  "grille_lights": "Normal headlights; no Extra B binding",
+  "install": "Install all detected car and font entries in Content Manager"
+}

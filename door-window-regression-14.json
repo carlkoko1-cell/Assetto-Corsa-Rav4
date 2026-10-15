@@ -1,0 +1,10 @@
+{
+  "0.13": {
+    "low_window_aperture_rays_blocked": 92,
+    "rays": 288
+  },
+  "0.14": {
+    "low_window_aperture_rays_blocked": 0,
+    "rays": 288
+  }
+}
