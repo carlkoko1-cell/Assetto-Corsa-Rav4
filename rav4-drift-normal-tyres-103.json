@@ -1,0 +1,294 @@
+{
+  "release": "Rav4 Drift 1.0.3",
+  "status": "passed_offline_checks",
+  "assetto_corsa_runtime_tested": false,
+  "normal_visual_source": "Toyota_RAV4_Blue_Flame_CARL_Matte_Badge_0.16.zip",
+  "normal_source_sha256": "0387057f840096194ed6fe7435026bb381f8aae55a2b37dd4541ce989fe79be7",
+  "drift_source_sha256": "f645cdda5f3db3f16fc24a821e96e203b32ae611719c81893d10e22c849408e0",
+  "models": {
+    "x5.kn5": {
+      "sha256": "78eb33004d8e31c76aed513860a63070bbdd0c360e4ae60b6252839efa3bc478",
+      "byte_identical_to_normal_rav4": true,
+      "dimensions": {
+        "LF": {
+          "radius_m": 0.37412574887275696,
+          "width_m": 0.2542148530483246,
+          "rim_outer_radius_m": 0.2649216651916504
+        },
+        "RF": {
+          "radius_m": 0.37412187457084656,
+          "width_m": 0.2542167901992798,
+          "rim_outer_radius_m": 0.2649216651916504
+        },
+        "LR": {
+          "radius_m": 0.3741942048072815,
+          "width_m": 0.2542146146297455,
+          "rim_outer_radius_m": 0.26501139998435974
+        },
+        "RR": {
+          "radius_m": 0.37419793009757996,
+          "width_m": 0.2542143762111664,
+          "rim_outer_radius_m": 0.26501139998435974
+        }
+      },
+      "structural_checks": {
+        "nodes": 230,
+        "triangles": 554212,
+        "textures": 68,
+        "materials": 64,
+        "generated_dds_full_mip_chains": 23,
+        "degenerate_faces": 0,
+        "reversed_normal_faces": 0,
+        "normal_mapped_meshes": 51,
+        "max_abs_normal_dot_tangent": 8.255243301391602e-06,
+        "bounds_min": [
+          -1.1372859477996826,
+          0.008048206567764282,
+          -2.494028091430664
+        ],
+        "bounds_max": [
+          1.1372631788253784,
+          1.7452579736709595,
+          2.623293876647949
+        ],
+        "paint_panel_topology": {
+          "triangles": 82473,
+          "welded_vertices": 45859,
+          "surface_area_m2": 12.40052475416667,
+          "boundary_edges": 10428,
+          "nonmanifold_edges": 1307,
+          "boundary_edges_per_triangle": 0.12644138081553963
+        },
+        "opaque_exterior_topology": {
+          "triangles": 259546,
+          "welded_vertices": 144090,
+          "surface_area_m2": 45.72458315828376,
+          "boundary_edges": 29203,
+          "nonmanifold_edges": 1309,
+          "boundary_edges_per_triangle": 0.11251570049239827
+        },
+        "lossless_binary_roundtrip": true,
+        "sha256": "78eb33004d8e31c76aed513860a63070bbdd0c360e4ae60b6252839efa3bc478"
+      },
+      "all_materials_and_nonwheel_geometry_preserved_from_1_0_2": true
+    },
+    "x5_lod_b.kn5": {
+      "sha256": "11de0ce3c971cfa64dedc4d525533d2e9f61fb316b24b852d92ee571c0dd4746",
+      "byte_identical_to_normal_rav4": true,
+      "dimensions": {
+        "LF": {
+          "radius_m": 0.3745094835758209,
+          "width_m": 0.25148430466651917,
+          "rim_outer_radius_m": 0.2650083303451538
+        },
+        "RF": {
+          "radius_m": 0.3745127022266388,
+          "width_m": 0.25148284435272217,
+          "rim_outer_radius_m": 0.2649786174297333
+        },
+        "LR": {
+          "radius_m": 0.3748515844345093,
+          "width_m": 0.25148406624794006,
+          "rim_outer_radius_m": 0.26517432928085327
+        },
+        "RR": {
+          "radius_m": 0.37484458088874817,
+          "width_m": 0.25148525834083557,
+          "rim_outer_radius_m": 0.2650936245918274
+        }
+      },
+      "structural_checks": {
+        "nodes": 228,
+        "triangles": 187931,
+        "textures": 68,
+        "materials": 64,
+        "generated_dds_full_mip_chains": 23,
+        "degenerate_faces": 0,
+        "reversed_normal_faces": 4,
+        "normal_mapped_meshes": 43,
+        "max_abs_normal_dot_tangent": 8.046627044677734e-06,
+        "bounds_min": [
+          -1.1370753049850464,
+          0.007948189973831177,
+          -2.494077682495117
+        ],
+        "bounds_max": [
+          1.137052059173584,
+          1.7451080083847046,
+          2.6232290267944336
+        ],
+        "paint_panel_topology": {
+          "triangles": 25369,
+          "welded_vertices": 17307,
+          "surface_area_m2": 12.316245146253468,
+          "boundary_edges": 10428,
+          "nonmanifold_edges": 1307,
+          "boundary_edges_per_triangle": 0.4110528597895069
+        },
+        "opaque_exterior_topology": {
+          "triangles": 71124,
+          "welded_vertices": 49905,
+          "surface_area_m2": 45.574065760992745,
+          "boundary_edges": 29219,
+          "nonmanifold_edges": 1307,
+          "boundary_edges_per_triangle": 0.41081772678701983
+        },
+        "lossless_binary_roundtrip": true,
+        "sha256": "11de0ce3c971cfa64dedc4d525533d2e9f61fb316b24b852d92ee571c0dd4746"
+      },
+      "all_materials_and_nonwheel_geometry_preserved_from_1_0_2": true
+    },
+    "x5_lod_c.kn5": {
+      "sha256": "7054496d5b01a40b461ea4549865e9e57444d1330b6304e980feb0e8dd102a18",
+      "byte_identical_to_normal_rav4": true,
+      "dimensions": {
+        "LF": {
+          "radius_m": 0.3745094835758209,
+          "width_m": 0.25148430466651917,
+          "rim_outer_radius_m": 0.2659391760826111
+        },
+        "RF": {
+          "radius_m": 0.3745127022266388,
+          "width_m": 0.25148284435272217,
+          "rim_outer_radius_m": 0.26596543192863464
+        },
+        "LR": {
+          "radius_m": 0.3748515844345093,
+          "width_m": 0.25148406624794006,
+          "rim_outer_radius_m": 0.2659861743450165
+        },
+        "RR": {
+          "radius_m": 0.37484458088874817,
+          "width_m": 0.25148525834083557,
+          "rim_outer_radius_m": 0.2658599317073822
+        }
+      },
+      "structural_checks": {
+        "nodes": 227,
+        "triangles": 110317,
+        "textures": 68,
+        "materials": 64,
+        "generated_dds_full_mip_chains": 23,
+        "degenerate_faces": 0,
+        "reversed_normal_faces": 4,
+        "normal_mapped_meshes": 43,
+        "max_abs_normal_dot_tangent": 8.046627044677734e-06,
+        "bounds_min": [
+          -1.140393853187561,
+          0.007948189973831177,
+          -2.5352325439453125
+        ],
+        "bounds_max": [
+          1.1371949911117554,
+          1.739615797996521,
+          2.6236815452575684
+        ],
+        "paint_panel_topology": {
+          "triangles": 17375,
+          "welded_vertices": 13310,
+          "surface_area_m2": 12.518362294583387,
+          "boundary_edges": 10428,
+          "nonmanifold_edges": 1307,
+          "boundary_edges_per_triangle": 0.6001726618705036
+        },
+        "opaque_exterior_topology": {
+          "triangles": 38680,
+          "welded_vertices": 33683,
+          "surface_area_m2": 43.72821767791463,
+          "boundary_edges": 29219,
+          "nonmanifold_edges": 1307,
+          "boundary_edges_per_triangle": 0.7554033092037229
+        },
+        "lossless_binary_roundtrip": true,
+        "sha256": "7054496d5b01a40b461ea4549865e9e57444d1330b6304e980feb0e8dd102a18"
+      },
+      "all_materials_and_nonwheel_geometry_preserved_from_1_0_2": true
+    },
+    "x5_lod_d.kn5": {
+      "sha256": "98eb49e9c44a7176f7bbce3af660ebf7edfb60502a3d418f1fd8f1628322f26d",
+      "byte_identical_to_normal_rav4": true,
+      "dimensions": {
+        "LF": {
+          "radius_m": 0.3745094835758209,
+          "width_m": 0.25148430466651917,
+          "rim_outer_radius_m": 0.2659391760826111
+        },
+        "RF": {
+          "radius_m": 0.3745127022266388,
+          "width_m": 0.25148284435272217,
+          "rim_outer_radius_m": 0.26596543192863464
+        },
+        "LR": {
+          "radius_m": 0.3748515844345093,
+          "width_m": 0.25148406624794006,
+          "rim_outer_radius_m": 0.2659861743450165
+        },
+        "RR": {
+          "radius_m": 0.37484458088874817,
+          "width_m": 0.25148525834083557,
+          "rim_outer_radius_m": 0.2658599317073822
+        }
+      },
+      "structural_checks": {
+        "nodes": 223,
+        "triangles": 100549,
+        "textures": 68,
+        "materials": 64,
+        "generated_dds_full_mip_chains": 23,
+        "degenerate_faces": 0,
+        "reversed_normal_faces": 1,
+        "normal_mapped_meshes": 39,
+        "max_abs_normal_dot_tangent": 8.046627044677734e-06,
+        "bounds_min": [
+          -1.140393853187561,
+          0.007948189973831177,
+          -2.5352325439453125
+        ],
+        "bounds_max": [
+          1.1371949911117554,
+          1.739615797996521,
+          2.628718137741089
+        ],
+        "paint_panel_topology": {
+          "triangles": 17375,
+          "welded_vertices": 13310,
+          "surface_area_m2": 12.518362294583387,
+          "boundary_edges": 10428,
+          "nonmanifold_edges": 1307,
+          "boundary_edges_per_triangle": 0.6001726618705036
+        },
+        "opaque_exterior_topology": {
+          "triangles": 38248,
+          "welded_vertices": 33467,
+          "surface_area_m2": 43.64110712171408,
+          "boundary_edges": 29219,
+          "nonmanifold_edges": 1307,
+          "boundary_edges_per_triangle": 0.7639353691696298
+        },
+        "lossless_binary_roundtrip": true,
+        "sha256": "98eb49e9c44a7176f7bbce3af660ebf7edfb60502a3d418f1fd8f1628322f26d"
+      },
+      "all_materials_and_nonwheel_geometry_preserved_from_1_0_2": true
+    }
+  },
+  "traction_control_off_settings_preserved": true,
+  "tyre_physics_dimensions": {
+    "FRONT": {
+      "radius_m": 0.37412381172180176,
+      "width_m": 0.2542158216238022,
+      "rim_outer_radius_m": 0.2649216651916504,
+      "angular_inertia_kg_m2": 2.125749760128202,
+      "diameter_inches": 29.458567852110377
+    },
+    "REAR": {
+      "radius_m": 0.3741960674524307,
+      "width_m": 0.25421449542045593,
+      "rim_outer_radius_m": 0.26501139998435974,
+      "angular_inertia_kg_m2": 2.5195612320745986,
+      "diameter_inches": 29.464257279718957
+    }
+  },
+  "final_drive": 4.0000803043,
+  "native_car_and_suspension_files_byte_preserved": true,
+  "unchanged_archive_members": 94
+}

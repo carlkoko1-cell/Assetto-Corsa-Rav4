@@ -1,0 +1,27 @@
+{
+  "release": "1.0.3",
+  "outputs": [
+    {
+      "file": "Rav4_Drift_1.0.3_Full.zip",
+      "bytes": 185785771,
+      "sha256": "6f4c21cb602c96dab191ddf0f18f2be23decf4650163e122a06b80f51daa0526"
+    }
+  ],
+  "status": "passed_offline_checks",
+  "runtime_tested": false,
+  "all_four_models_byte_identical_to_normal_rav4": true,
+  "changed_members": [
+    "content/cars/rav4_drift/INSTALL_MANIFEST.json",
+    "content/cars/rav4_drift/INSTALL_README.txt",
+    "content/cars/rav4_drift/VALIDATION_REPORT.json",
+    "content/cars/rav4_drift/VISUAL_REVISION_NOTES.md",
+    "content/cars/rav4_drift/data/drivetrain.ini",
+    "content/cars/rav4_drift/data/final.rto",
+    "content/cars/rav4_drift/data/tyres.ini",
+    "content/cars/rav4_drift/ui/ui_car.json",
+    "content/cars/rav4_drift/x5.kn5",
+    "content/cars/rav4_drift/x5_lod_b.kn5",
+    "content/cars/rav4_drift/x5_lod_c.kn5",
+    "content/cars/rav4_drift/x5_lod_d.kn5"
+  ]
+}

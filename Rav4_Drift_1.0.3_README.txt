@@ -1,0 +1,30 @@
+Rav4 Drift 1.0.3 — exact normal-RAV4 wheels and tyres
+
+COMPLETE ZIP: close Assetto Corsa, drag the ZIP into Content Manager, install
+all car/font files and allow replacement of the existing Rav4 Drift.
+This complete package needs no earlier patch. Car ID stays rav4_drift.
+
+All four model LODs are byte-identical to the normal matte-badge RAV4 0.16.
+The exact normal tyres, rims, width, sidewalls, rotors, calipers, wheel badges
+and matte wheel materials are restored. No approximate 14% resize remains.
+Tyres are approximately 29.46 inches in diameter and 254 mm wide. The normal
+model has tiny left/right differences; physics uses axle averages (below
+0.01 mm deviation). Its rim outer radius is measured from the actual model.
+
+The drift tyre contact radius/width and rim radius follow that geometry.
+Wheel inertia is adjusted from the Supra donor by radius squared. All
+other donor drift grip/thermal/wear settings remain. Final drive 4.0000803043
+preserves the donor's gearing relative to tyre circumference. Supra RWD
+drivetrain, differential, engine/turbos, suspension tune and sound remain.
+No BMW physics files are imported from the normal RAV4.
+
+Factory traction control remains disabled: PRESENT=0, ACTIVE=0. Set TC to
+Factory or Off in Content Manager's driving assists rather than forced On.
+Working native car.ini/suspensions.ini, interior, Android Auto, mirrors,
+lighting, matte rear badge and paint shop remain unchanged from 1.0.2.
+The separate normal/BMW-powered car and previous downloads are unchanged.
+
+Exact model-byte comparison, all four model structural checks, native INI
+keys, gearing, preserved files and complete ZIP integrity are checked.
+Assetto Corsa is unavailable here; full-lock/compressed suspension clearance
+and driving behavior still need an in-game check.
