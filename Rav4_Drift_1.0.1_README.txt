@@ -1,0 +1,20 @@
+Rav4 Drift 1.0.1 — native INI launch fix
+
+Addresses: ERROR: Cannot create suspension type: for wheel:0.
+The 1.0 build rewrote car.ini and suspensions.ini using spaces around equals.
+This fix restores exact native KEY=VALUE names, preserving donor suspension
+comments/CRLF and TYPE lines. Physics/tuning values are unchanged.
+
+SMALL PATCH, requires Rav4 Drift 1.0 already installed:
+Close AC. Extract into the Assetto Corsa folder containing acs.exe, merging
+content/cars/rav4_drift and allowing overwrites. Start a new session.
+
+COMPLETE ZIP: close AC, install all car/font entries through Content Manager,
+then start a new session. Car name stays Rav4 Drift, car ID rav4_drift.
+The separate BMW-powered matte-badge RAV4 is unchanged.
+
+The original failure is reproduced by an exact-key compatibility check; the
+corrected TYPE values and STRUT/DWB geometry keys resolve without trimming.
+All effective car/suspension values match 1.0, including the adapted RAV4
+wheelbase. Other data/models/audio/controller files are byte-preserved.
+Assetto Corsa is unavailable here; a successful in-game launch is unverified.

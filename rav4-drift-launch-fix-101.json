@@ -1,0 +1,17 @@
+{
+  "release": "Rav4 Drift 1.0.1 native INI launch fix",
+  "status": "passed_offline_checks",
+  "errors": [],
+  "assetto_corsa_runtime_tested": false,
+  "source_archive_sha256": "e730374e128d0b744250900ba9845375b74b8f05745ed01c11d8dec8acdd5beb",
+  "reported_error": "Cannot create suspension type: for wheel:0",
+  "regression_reproduced_under_exact_key_lookup": true,
+  "front_TYPE_exact": "STRUT",
+  "rear_TYPE_exact": "DWB",
+  "donor_TYPE_lines_byte_identical": true,
+  "car_and_suspension_effective_values_unchanged": true,
+  "native_car_and_suspension_keys_no_spaces_around_equals": true,
+  "all_required_front_STRUT_and_rear_DWB_geometry_vectors_present": true,
+  "limitation": "Exact-key check is a compatibility regression check; Assetto Corsa runtime unavailable.",
+  "unchanged_archive_members": 98
+}

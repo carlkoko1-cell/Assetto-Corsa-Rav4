@@ -1,0 +1,18 @@
+{
+  "release": "1.0.1",
+  "outputs": [
+    {
+      "file": "Rav4_Drift_1.0.1.zip",
+      "bytes": 186686681,
+      "sha256": "f618128facbba5c16aa7c1a6ae3c990727acef494203e3ea53bd94bebe408468"
+    },
+    {
+      "file": "Rav4_Drift_1.0.1_Launch_Fix_Patch.zip",
+      "bytes": 13067,
+      "sha256": "0649d23d9cefd1394da51ff13ef2d585df340c2b43d85e1bcb608d78c705abb9"
+    }
+  ],
+  "unchanged_baseline_members": 98,
+  "status": "passed_offline_checks",
+  "runtime_tested": false
+}
