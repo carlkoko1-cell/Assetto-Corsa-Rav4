@@ -1,0 +1,10 @@
+{
+  "file": "Rav4_Drift_1.0.zip",
+  "sha256": "94837d430087d936c6392d9ff45bf0a3aaa24405a1f5e256108d60101443026d",
+  "bytes": 186684478,
+  "files": 105,
+  "car_id": "rav4_drift",
+  "zip_crc": "passed",
+  "runtime_tested": false,
+  "donor_archive_sha256": "5bfeb2c034bf2319b7494582b97bfba015e71e41ff809c0f3d6c113394ea436a"
+}

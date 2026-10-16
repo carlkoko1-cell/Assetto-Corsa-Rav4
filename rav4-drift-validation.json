@@ -1,0 +1,727 @@
+{
+  "release": "Rav4 Drift 1.0",
+  "status": "passed_offline_checks",
+  "errors": [],
+  "assetto_corsa_runtime_tested": false,
+  "donor": "Drift Games Toyota A90 Supra-Jet by Klein Eid",
+  "donor_archive_sha256": "5bfeb2c034bf2319b7494582b97bfba015e71e41ff809c0f3d6c113394ea436a",
+  "source_badge_archive_sha256": "0387057f840096194ed6fe7435026bb381f8aae55a2b37dd4541ce989fe79be7",
+  "exact_donor_data_files": {
+    "power.lut": "080b1278cdb7592d216c6eeccced60a59569c1d953dca8360dd9c6333d010be4",
+    "fin_AOA_CD.lut": "6405fb11ca7be876d3bb2aae7890049d12a2a94e1b0a0aeb3dc743e2eaf413c8",
+    "engine.ini": "1eb147608ab8392d3a60deeb057d92de9b93c65026ffab9ae543cd52d54cd3f3",
+    "final.rto": "00c96d9910d018dfc367eb5a8eb2bf700243452caf3ecf17ad6fe836d5ec6e1c",
+    "ctrl_turbo1.ini": "8b2b7ca56d5e02116f2b4a0e2bc784ee6402ad2e921d883e28b9c7050d2ad3c4",
+    "colliders.ini": "20ec97f437eeeebac368c5dc922da0fb278bb394b86bf3445bef803dd9538253",
+    "escmode.ini": "04b3d1993ffcf3ab3090681e8017c5b6af1716bd4f1bbc6011ff3def5cdcd394",
+    "electronics.ini": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "wing_front_AOA_CD.lut": "e1f2adf3afb3e4d9b71a554f4f3dbae2f62b48eeab81c8e382524476e602b315",
+    "sounds.ini": "d8efecadbe9797a1b66b2f5ffd3cd76e1a717bd92ec9973744a81db486e1bb9c",
+    "ratios.rto": "8c2a1fa52ef7b411bbc97d71de360f2f18703509e4002eb205336ddbdac00de9",
+    "tyres.ini": "f560514e3c58e1e37377c7f7266e3608f60970894a7092605adbdef976a4b9ad",
+    "setup.ini": "415cc504107b18854a5975340fc661ee2f4b50a44f9539369ba57397237b3003",
+    "script.lua": "d2424ef432415079f7af7a7573c000425fbab5ea4f15b868de38f16df39d7204",
+    "drivetrain.ini": "5604be9589a2948f49c47cf3a5a83b8f22a0c72ca9b1704673bf91c8c616e04e",
+    "flame_presets.ini": "73cd3a9e8b34919098a653f677b2d343576d48583a2f4cb4b78c7ef475032f17",
+    "wing_rear_AOA_CL.lut": "813a39e9c2d15823409d30f947f6ed5ebd181aac2716b63255b6b82847460c78",
+    "damage.ini": "d024cb9cbbeb4484d43b7cb9574b28f567cea3c6133c47b5807a4c5f3125767a",
+    "wing_body_AOA_CD.lut": "5fcfd9277b0e6047dcd30cd3b55159c56b6c19fce211558c1c0335be552659d4",
+    "vdc_22_23_tcurve.lut": "f92a826ccff0e425e60ce61b7192a1ad03aa603cef46ff0d9d05f3eee112ad62",
+    "wing_body_AOA_CL.lut": "f6c2435fc7d45bd05eb4df72ef613eca0d8717b80b451df4b7825fc845850724",
+    "brakes.ini": "b091099d8ed116c2fcd00705c6a92d2bf7ab822710267754ad0d4d3bd6583d84",
+    "throttle.lut": "53cdc9f9a26be861eb3a4633a953f6c2b81e9f163999a610e74077b887bc1334",
+    "fuel_cons.ini": "edbd11cbe199edde05717733946dd67a6300c0a6bb30f59254a480e24771b804",
+    "ai.ini": "2f7dca83fe36b424a7f9007bb4e5b8f2baba1ba17ecf4278a6d873420f0502ee",
+    "wing_rear_AOA_CD.lut": "28932c8791eaf259e1a2b7db8d983377878693d156de6611b6f238b107b1d09e",
+    "vdc_22_23_wear_curve.lut": "25be5465a2c220fb1515a0d07dcc316cb59431a6719d1dc9b6145e0ef1d14f06",
+    "aero.ini": "df013003a63cafff0b6ad958cc01543089c6a0a499d3b994723f6c3063cf57c0",
+    "wing_front_AOA_CL.lut": "32061b1f5acee2f89ab03a59f6b535dee7d4d216a5e9536ec56f210d8959e554",
+    "fin_AOA_CL.lut": "0747d05122dbe9b7108ea73979c567fe362c2fd0e5852c1974b1a62143e05dcb"
+  },
+  "models": {
+    "x5.kn5": {
+      "sha256": "3c5c9e11291e3d7d4cb687dfca1f0244de1858988e88e86cc064f515f6810e92",
+      "wheel_size_adaptation": {
+        "WHEEL_LF": {
+          "scale_xyz": [
+            0.9637517126248603,
+            0.8729697386105165,
+            0.8729697386105165
+          ],
+          "target_tyre_radius_m": 0.3266004572009144,
+          "target_tyre_width_m": 0.245,
+          "meshes": [
+            "WHEEL_LF_Rims2_0",
+            "WHEEL_LF_Rims1_0",
+            "WHEEL_LF_BrakeRotors1_0",
+            "WHEEL_LF_BrakeRotors2_0",
+            "RAV4_TYRE_WHEEL_LF_TREAD",
+            "RAV4_TYRE_WHEEL_LF_SIDEWALL",
+            "WHEEL_LF_TOYOTA_EMBLEM"
+          ]
+        },
+        "WHEEL_RF": {
+          "scale_xyz": [
+            0.9637443687647272,
+            0.8729787788419382,
+            0.8729787788419382
+          ],
+          "target_tyre_radius_m": 0.3266004572009144,
+          "target_tyre_width_m": 0.245,
+          "meshes": [
+            "WHEEL_RF_Rims2_0",
+            "WHEEL_RF_Rims1_0",
+            "RAV4_TYRE_WHEEL_RF_TREAD",
+            "RAV4_TYRE_WHEEL_RF_SIDEWALL",
+            "WHEEL_RF_BrakeRotors2_0",
+            "WHEEL_RF_BrakeRotors1_0",
+            "WHEEL_RF_TOYOTA_EMBLEM"
+          ]
+        },
+        "WHEEL_LR": {
+          "scale_xyz": [
+            1.1210999824502312,
+            0.877486751485161,
+            0.877486751485161
+          ],
+          "target_tyre_radius_m": 0.32835045720091444,
+          "target_tyre_width_m": 0.285,
+          "meshes": [
+            "WHEEL_LR_Rims2_0",
+            "WHEEL_LR_Rims1_0",
+            "WHEEL_LR_BrakeRotors2_0",
+            "RAV4_TYRE_WHEEL_LR_TREAD",
+            "RAV4_TYRE_WHEEL_LR_SIDEWALL",
+            "WHEEL_LR_BrakeRotors1_0",
+            "WHEEL_LR_TOYOTA_EMBLEM"
+          ]
+        },
+        "WHEEL_RR": {
+          "scale_xyz": [
+            1.1211010338898424,
+            0.8774780157530272,
+            0.8774780157530272
+          ],
+          "target_tyre_radius_m": 0.32835045720091444,
+          "target_tyre_width_m": 0.285,
+          "meshes": [
+            "WHEEL_RR_Rims2_0",
+            "WHEEL_RR_Rims1_0",
+            "WHEEL_RR_BrakeRotors2_0",
+            "RAV4_TYRE_WHEEL_RR_TREAD",
+            "RAV4_TYRE_WHEEL_RR_SIDEWALL",
+            "WHEEL_RR_BrakeRotors1_0",
+            "WHEEL_RR_TOYOTA_EMBLEM"
+          ]
+        },
+        "SUSP_LF": {
+          "scale_xyz": [
+            0.9637517126248603,
+            0.8729697386105165,
+            0.8729697386105165
+          ],
+          "target_tyre_radius_m": 0.3266004572009144,
+          "target_tyre_width_m": 0.245,
+          "meshes": [
+            "WHEEL_LF_Calipers_0"
+          ]
+        },
+        "SUSP_RF": {
+          "scale_xyz": [
+            0.9637443687647272,
+            0.8729787788419382,
+            0.8729787788419382
+          ],
+          "target_tyre_radius_m": 0.3266004572009144,
+          "target_tyre_width_m": 0.245,
+          "meshes": [
+            "WHEEL_RF_Calipers_0"
+          ]
+        },
+        "SUSP_LR": {
+          "scale_xyz": [
+            1.1210999824502312,
+            0.877486751485161,
+            0.877486751485161
+          ],
+          "target_tyre_radius_m": 0.32835045720091444,
+          "target_tyre_width_m": 0.285,
+          "meshes": [
+            "WHEEL_LR_Calipers_0"
+          ]
+        },
+        "SUSP_RR": {
+          "scale_xyz": [
+            1.1211010338898424,
+            0.8774780157530272,
+            0.8774780157530272
+          ],
+          "target_tyre_radius_m": 0.32835045720091444,
+          "target_tyre_width_m": 0.285,
+          "meshes": [
+            "WHEEL_RR_Calipers_0"
+          ]
+        }
+      },
+      "all_body_cabin_badge_glass_mirror_meshes_and_materials_unchanged": true,
+      "structural_checks": {
+        "nodes": 230,
+        "triangles": 554212,
+        "textures": 68,
+        "materials": 64,
+        "generated_dds_full_mip_chains": 23,
+        "degenerate_faces": 0,
+        "reversed_normal_faces": 0,
+        "normal_mapped_meshes": 51,
+        "max_abs_normal_dot_tangent": 8.255243301391602e-06,
+        "bounds_min": [
+          -1.1372859477996826,
+          0.055464088916778564,
+          -2.494028091430664
+        ],
+        "bounds_max": [
+          1.1372631788253784,
+          1.7452579736709595,
+          2.623293876647949
+        ],
+        "paint_panel_topology": {
+          "triangles": 82473,
+          "welded_vertices": 45859,
+          "surface_area_m2": 12.40052475416667,
+          "boundary_edges": 10428,
+          "nonmanifold_edges": 1307,
+          "boundary_edges_per_triangle": 0.12644138081553963
+        },
+        "opaque_exterior_topology": {
+          "triangles": 259546,
+          "welded_vertices": 144090,
+          "surface_area_m2": 45.72458315828376,
+          "boundary_edges": 29203,
+          "nonmanifold_edges": 1309,
+          "boundary_edges_per_triangle": 0.11251570049239827
+        },
+        "lossless_binary_roundtrip": true,
+        "sha256": "3c5c9e11291e3d7d4cb687dfca1f0244de1858988e88e86cc064f515f6810e92"
+      }
+    },
+    "x5_lod_b.kn5": {
+      "sha256": "757c0152e7638b0bb6fd2651bc42c72505df85b0885e6175f197d738a9cd6e2b",
+      "wheel_size_adaptation": {
+        "WHEEL_LF": {
+          "scale_xyz": [
+            0.9742158673674778,
+            0.8720752651776116,
+            0.8720752651776116
+          ],
+          "target_tyre_radius_m": 0.3266004572009144,
+          "target_tyre_width_m": 0.245,
+          "meshes": [
+            "WHEEL_LF_Rims2_0",
+            "WHEEL_LF_Rims1_0",
+            "WHEEL_LF_BrakeRotors1_0",
+            "WHEEL_LF_BrakeRotors2_0",
+            "RAV4_TYRE_WHEEL_LF_TREAD",
+            "RAV4_TYRE_WHEEL_LF_SIDEWALL",
+            "WHEEL_LF_TOYOTA_EMBLEM"
+          ]
+        },
+        "WHEEL_RF": {
+          "scale_xyz": [
+            0.9742215244566363,
+            0.8720677703563443,
+            0.8720677703563443
+          ],
+          "target_tyre_radius_m": 0.3266004572009144,
+          "target_tyre_width_m": 0.245,
+          "meshes": [
+            "WHEEL_RF_Rims2_0",
+            "WHEEL_RF_Rims1_0",
+            "RAV4_TYRE_WHEEL_RF_TREAD",
+            "RAV4_TYRE_WHEEL_RF_SIDEWALL",
+            "WHEEL_RF_BrakeRotors2_0",
+            "WHEEL_RF_BrakeRotors1_0",
+            "WHEEL_RF_TOYOTA_EMBLEM"
+          ]
+        },
+        "WHEEL_LR": {
+          "scale_xyz": [
+            1.1332725935766297,
+            0.8759478973425038,
+            0.8759478973425038
+          ],
+          "target_tyre_radius_m": 0.32835045720091444,
+          "target_tyre_width_m": 0.285,
+          "meshes": [
+            "WHEEL_LR_Rims2_0",
+            "WHEEL_LR_Rims1_0",
+            "WHEEL_LR_BrakeRotors2_0",
+            "RAV4_TYRE_WHEEL_LR_TREAD",
+            "RAV4_TYRE_WHEEL_LR_SIDEWALL",
+            "WHEEL_LR_BrakeRotors1_0",
+            "WHEEL_LR_TOYOTA_EMBLEM"
+          ]
+        },
+        "WHEEL_RR": {
+          "scale_xyz": [
+            1.1332672216267332,
+            0.8759642634352691,
+            0.8759642634352691
+          ],
+          "target_tyre_radius_m": 0.32835045720091444,
+          "target_tyre_width_m": 0.285,
+          "meshes": [
+            "WHEEL_RR_Rims2_0",
+            "WHEEL_RR_Rims1_0",
+            "WHEEL_RR_BrakeRotors2_0",
+            "RAV4_TYRE_WHEEL_RR_TREAD",
+            "RAV4_TYRE_WHEEL_RR_SIDEWALL",
+            "WHEEL_RR_BrakeRotors1_0",
+            "WHEEL_RR_TOYOTA_EMBLEM"
+          ]
+        },
+        "SUSP_LF": {
+          "scale_xyz": [
+            0.9742158673674778,
+            0.8720752651776116,
+            0.8720752651776116
+          ],
+          "target_tyre_radius_m": 0.3266004572009144,
+          "target_tyre_width_m": 0.245,
+          "meshes": [
+            "WHEEL_LF_Calipers_0"
+          ]
+        },
+        "SUSP_RF": {
+          "scale_xyz": [
+            0.9742215244566363,
+            0.8720677703563443,
+            0.8720677703563443
+          ],
+          "target_tyre_radius_m": 0.3266004572009144,
+          "target_tyre_width_m": 0.245,
+          "meshes": [
+            "WHEEL_RF_Calipers_0"
+          ]
+        },
+        "SUSP_LR": {
+          "scale_xyz": [
+            1.1332725935766297,
+            0.8759478973425038,
+            0.8759478973425038
+          ],
+          "target_tyre_radius_m": 0.32835045720091444,
+          "target_tyre_width_m": 0.285,
+          "meshes": [
+            "WHEEL_LR_Calipers_0"
+          ]
+        },
+        "SUSP_RR": {
+          "scale_xyz": [
+            1.1332672216267332,
+            0.8759642634352691,
+            0.8759642634352691
+          ],
+          "target_tyre_radius_m": 0.32835045720091444,
+          "target_tyre_width_m": 0.285,
+          "meshes": [
+            "WHEEL_RR_Calipers_0"
+          ]
+        }
+      },
+      "all_body_cabin_badge_glass_mirror_meshes_and_materials_unchanged": true,
+      "structural_checks": {
+        "nodes": 228,
+        "triangles": 187931,
+        "textures": 68,
+        "materials": 64,
+        "generated_dds_full_mip_chains": 23,
+        "degenerate_faces": 0,
+        "reversed_normal_faces": 4,
+        "normal_mapped_meshes": 43,
+        "max_abs_normal_dot_tangent": 8.046627044677734e-06,
+        "bounds_min": [
+          -1.1370753049850464,
+          0.055714160203933716,
+          -2.494077682495117
+        ],
+        "bounds_max": [
+          1.137052059173584,
+          1.7451080083847046,
+          2.6232290267944336
+        ],
+        "paint_panel_topology": {
+          "triangles": 25369,
+          "welded_vertices": 17307,
+          "surface_area_m2": 12.316245146253468,
+          "boundary_edges": 10428,
+          "nonmanifold_edges": 1307,
+          "boundary_edges_per_triangle": 0.4110528597895069
+        },
+        "opaque_exterior_topology": {
+          "triangles": 71124,
+          "welded_vertices": 49905,
+          "surface_area_m2": 45.574065760992745,
+          "boundary_edges": 29219,
+          "nonmanifold_edges": 1307,
+          "boundary_edges_per_triangle": 0.41081772678701983
+        },
+        "lossless_binary_roundtrip": true,
+        "sha256": "757c0152e7638b0bb6fd2651bc42c72505df85b0885e6175f197d738a9cd6e2b"
+      }
+    },
+    "x5_lod_c.kn5": {
+      "sha256": "ce190572f8942b269b59a1036b8ba59686bb7d50faf64925458edfe3931621b2",
+      "wheel_size_adaptation": {
+        "WHEEL_LF": {
+          "scale_xyz": [
+            0.9742158673674778,
+            0.8720752651776116,
+            0.8720752651776116
+          ],
+          "target_tyre_radius_m": 0.3266004572009144,
+          "target_tyre_width_m": 0.245,
+          "meshes": [
+            "WHEEL_LF_Rims2_0",
+            "WHEEL_LF_Rims1_0",
+            "WHEEL_LF_BrakeRotors1_0",
+            "WHEEL_LF_BrakeRotors2_0",
+            "RAV4_TYRE_WHEEL_LF_TREAD",
+            "RAV4_TYRE_WHEEL_LF_SIDEWALL",
+            "WHEEL_LF_TOYOTA_EMBLEM"
+          ]
+        },
+        "WHEEL_RF": {
+          "scale_xyz": [
+            0.9742215244566363,
+            0.8720677703563443,
+            0.8720677703563443
+          ],
+          "target_tyre_radius_m": 0.3266004572009144,
+          "target_tyre_width_m": 0.245,
+          "meshes": [
+            "WHEEL_RF_Rims2_0",
+            "WHEEL_RF_Rims1_0",
+            "RAV4_TYRE_WHEEL_RF_TREAD",
+            "RAV4_TYRE_WHEEL_RF_SIDEWALL",
+            "WHEEL_RF_BrakeRotors2_0",
+            "WHEEL_RF_BrakeRotors1_0",
+            "WHEEL_RF_TOYOTA_EMBLEM"
+          ]
+        },
+        "WHEEL_LR": {
+          "scale_xyz": [
+            1.1332725935766297,
+            0.8759478973425038,
+            0.8759478973425038
+          ],
+          "target_tyre_radius_m": 0.32835045720091444,
+          "target_tyre_width_m": 0.285,
+          "meshes": [
+            "WHEEL_LR_Rims2_0",
+            "WHEEL_LR_Rims1_0",
+            "WHEEL_LR_BrakeRotors2_0",
+            "RAV4_TYRE_WHEEL_LR_TREAD",
+            "RAV4_TYRE_WHEEL_LR_SIDEWALL",
+            "WHEEL_LR_BrakeRotors1_0",
+            "WHEEL_LR_TOYOTA_EMBLEM"
+          ]
+        },
+        "WHEEL_RR": {
+          "scale_xyz": [
+            1.1332672216267332,
+            0.8759642634352691,
+            0.8759642634352691
+          ],
+          "target_tyre_radius_m": 0.32835045720091444,
+          "target_tyre_width_m": 0.285,
+          "meshes": [
+            "WHEEL_RR_Rims2_0",
+            "WHEEL_RR_Rims1_0",
+            "WHEEL_RR_BrakeRotors2_0",
+            "RAV4_TYRE_WHEEL_RR_TREAD",
+            "RAV4_TYRE_WHEEL_RR_SIDEWALL",
+            "WHEEL_RR_BrakeRotors1_0",
+            "WHEEL_RR_TOYOTA_EMBLEM"
+          ]
+        },
+        "SUSP_LF": {
+          "scale_xyz": [
+            0.9742158673674778,
+            0.8720752651776116,
+            0.8720752651776116
+          ],
+          "target_tyre_radius_m": 0.3266004572009144,
+          "target_tyre_width_m": 0.245,
+          "meshes": [
+            "WHEEL_LF_Calipers_0"
+          ]
+        },
+        "SUSP_RF": {
+          "scale_xyz": [
+            0.9742215244566363,
+            0.8720677703563443,
+            0.8720677703563443
+          ],
+          "target_tyre_radius_m": 0.3266004572009144,
+          "target_tyre_width_m": 0.245,
+          "meshes": [
+            "WHEEL_RF_Calipers_0"
+          ]
+        },
+        "SUSP_LR": {
+          "scale_xyz": [
+            1.1332725935766297,
+            0.8759478973425038,
+            0.8759478973425038
+          ],
+          "target_tyre_radius_m": 0.32835045720091444,
+          "target_tyre_width_m": 0.285,
+          "meshes": [
+            "WHEEL_LR_Calipers_0"
+          ]
+        },
+        "SUSP_RR": {
+          "scale_xyz": [
+            1.1332672216267332,
+            0.8759642634352691,
+            0.8759642634352691
+          ],
+          "target_tyre_radius_m": 0.32835045720091444,
+          "target_tyre_width_m": 0.285,
+          "meshes": [
+            "WHEEL_RR_Calipers_0"
+          ]
+        }
+      },
+      "all_body_cabin_badge_glass_mirror_meshes_and_materials_unchanged": true,
+      "structural_checks": {
+        "nodes": 227,
+        "triangles": 110317,
+        "textures": 68,
+        "materials": 64,
+        "generated_dds_full_mip_chains": 23,
+        "degenerate_faces": 0,
+        "reversed_normal_faces": 4,
+        "normal_mapped_meshes": 43,
+        "max_abs_normal_dot_tangent": 8.046627044677734e-06,
+        "bounds_min": [
+          -1.140393853187561,
+          0.045447513461112976,
+          -2.5352325439453125
+        ],
+        "bounds_max": [
+          1.1371949911117554,
+          1.739615797996521,
+          2.6236815452575684
+        ],
+        "paint_panel_topology": {
+          "triangles": 17375,
+          "welded_vertices": 13310,
+          "surface_area_m2": 12.518362294583387,
+          "boundary_edges": 10428,
+          "nonmanifold_edges": 1307,
+          "boundary_edges_per_triangle": 0.6001726618705036
+        },
+        "opaque_exterior_topology": {
+          "triangles": 38680,
+          "welded_vertices": 33683,
+          "surface_area_m2": 43.72821767791463,
+          "boundary_edges": 29219,
+          "nonmanifold_edges": 1307,
+          "boundary_edges_per_triangle": 0.7554033092037229
+        },
+        "lossless_binary_roundtrip": true,
+        "sha256": "ce190572f8942b269b59a1036b8ba59686bb7d50faf64925458edfe3931621b2"
+      }
+    },
+    "x5_lod_d.kn5": {
+      "sha256": "8b8c31f8773a488cd01ad79f0b37f5ad865be935fd9588f1ba20d3ab59176444",
+      "wheel_size_adaptation": {
+        "WHEEL_LF": {
+          "scale_xyz": [
+            0.9742158673674778,
+            0.8720752651776116,
+            0.8720752651776116
+          ],
+          "target_tyre_radius_m": 0.3266004572009144,
+          "target_tyre_width_m": 0.245,
+          "meshes": [
+            "WHEEL_LF_Rims2_0",
+            "WHEEL_LF_Rims1_0",
+            "WHEEL_LF_BrakeRotors1_0",
+            "WHEEL_LF_BrakeRotors2_0",
+            "RAV4_TYRE_WHEEL_LF_TREAD",
+            "RAV4_TYRE_WHEEL_LF_SIDEWALL",
+            "WHEEL_LF_TOYOTA_EMBLEM"
+          ]
+        },
+        "WHEEL_RF": {
+          "scale_xyz": [
+            0.9742215244566363,
+            0.8720677703563443,
+            0.8720677703563443
+          ],
+          "target_tyre_radius_m": 0.3266004572009144,
+          "target_tyre_width_m": 0.245,
+          "meshes": [
+            "WHEEL_RF_Rims2_0",
+            "WHEEL_RF_Rims1_0",
+            "RAV4_TYRE_WHEEL_RF_TREAD",
+            "RAV4_TYRE_WHEEL_RF_SIDEWALL",
+            "WHEEL_RF_BrakeRotors2_0",
+            "WHEEL_RF_BrakeRotors1_0",
+            "WHEEL_RF_TOYOTA_EMBLEM"
+          ]
+        },
+        "WHEEL_LR": {
+          "scale_xyz": [
+            1.1332725935766297,
+            0.8759478973425038,
+            0.8759478973425038
+          ],
+          "target_tyre_radius_m": 0.32835045720091444,
+          "target_tyre_width_m": 0.285,
+          "meshes": [
+            "WHEEL_LR_Rims2_0",
+            "WHEEL_LR_Rims1_0",
+            "WHEEL_LR_BrakeRotors2_0",
+            "RAV4_TYRE_WHEEL_LR_TREAD",
+            "RAV4_TYRE_WHEEL_LR_SIDEWALL",
+            "WHEEL_LR_BrakeRotors1_0",
+            "WHEEL_LR_TOYOTA_EMBLEM"
+          ]
+        },
+        "WHEEL_RR": {
+          "scale_xyz": [
+            1.1332672216267332,
+            0.8759642634352691,
+            0.8759642634352691
+          ],
+          "target_tyre_radius_m": 0.32835045720091444,
+          "target_tyre_width_m": 0.285,
+          "meshes": [
+            "WHEEL_RR_Rims2_0",
+            "WHEEL_RR_Rims1_0",
+            "WHEEL_RR_BrakeRotors2_0",
+            "RAV4_TYRE_WHEEL_RR_TREAD",
+            "RAV4_TYRE_WHEEL_RR_SIDEWALL",
+            "WHEEL_RR_BrakeRotors1_0",
+            "WHEEL_RR_TOYOTA_EMBLEM"
+          ]
+        },
+        "SUSP_LF": {
+          "scale_xyz": [
+            0.9742158673674778,
+            0.8720752651776116,
+            0.8720752651776116
+          ],
+          "target_tyre_radius_m": 0.3266004572009144,
+          "target_tyre_width_m": 0.245,
+          "meshes": [
+            "WHEEL_LF_Calipers_0"
+          ]
+        },
+        "SUSP_RF": {
+          "scale_xyz": [
+            0.9742215244566363,
+            0.8720677703563443,
+            0.8720677703563443
+          ],
+          "target_tyre_radius_m": 0.3266004572009144,
+          "target_tyre_width_m": 0.245,
+          "meshes": [
+            "WHEEL_RF_Calipers_0"
+          ]
+        },
+        "SUSP_LR": {
+          "scale_xyz": [
+            1.1332725935766297,
+            0.8759478973425038,
+            0.8759478973425038
+          ],
+          "target_tyre_radius_m": 0.32835045720091444,
+          "target_tyre_width_m": 0.285,
+          "meshes": [
+            "WHEEL_LR_Calipers_0"
+          ]
+        },
+        "SUSP_RR": {
+          "scale_xyz": [
+            1.1332672216267332,
+            0.8759642634352691,
+            0.8759642634352691
+          ],
+          "target_tyre_radius_m": 0.32835045720091444,
+          "target_tyre_width_m": 0.285,
+          "meshes": [
+            "WHEEL_RR_Calipers_0"
+          ]
+        }
+      },
+      "all_body_cabin_badge_glass_mirror_meshes_and_materials_unchanged": true,
+      "structural_checks": {
+        "nodes": 223,
+        "triangles": 100549,
+        "textures": 68,
+        "materials": 64,
+        "generated_dds_full_mip_chains": 23,
+        "degenerate_faces": 0,
+        "reversed_normal_faces": 1,
+        "normal_mapped_meshes": 39,
+        "max_abs_normal_dot_tangent": 8.046627044677734e-06,
+        "bounds_min": [
+          -1.140393853187561,
+          0.045447513461112976,
+          -2.5352325439453125
+        ],
+        "bounds_max": [
+          1.1371949911117554,
+          1.739615797996521,
+          2.628718137741089
+        ],
+        "paint_panel_topology": {
+          "triangles": 17375,
+          "welded_vertices": 13310,
+          "surface_area_m2": 12.518362294583387,
+          "boundary_edges": 10428,
+          "nonmanifold_edges": 1307,
+          "boundary_edges_per_triangle": 0.6001726618705036
+        },
+        "opaque_exterior_topology": {
+          "triangles": 38248,
+          "welded_vertices": 33467,
+          "surface_area_m2": 43.64110712171408,
+          "boundary_edges": 29219,
+          "nonmanifold_edges": 1307,
+          "boundary_edges_per_triangle": 0.7639353691696298
+        },
+        "lossless_binary_roundtrip": true,
+        "sha256": "8b8c31f8773a488cd01ad79f0b37f5ad865be935fd9588f1ba20d3ab59176444"
+      }
+    }
+  },
+  "physical_adaptations": {
+    "donor_wheelbase_m": 2.47,
+    "rav4_model_wheelbase_m": 2.9901599884033203,
+    "donor_tracks_m": {
+      "FRONT": 1.734,
+      "REAR": 1.66
+    },
+    "graphics_offset_m": [
+      0,
+      -0.2977410042285919,
+      -0.15158922672271724
+    ],
+    "physical_mass_kg": 1304.0,
+    "CG_LOCATION": 0.52,
+    "all_other_donor_car_and_suspension_physics_values_unchanged": true,
+    "rear_badge": "matte black retained from 0.16",
+    "tyre_physics": "donor data exact; visual wheel geometry resized to match"
+  },
+  "sound": {
+    "bank_sha256": "36e8badb95097f75b638878dda935c81e1d13eb9a3d3d61c3d1d2ecc03fd1ef1",
+    "original_bank_bytes_preserved": true,
+    "GUID_paths_remapped_to": "rav4_drift",
+    "BMW_bank_removed": true
+  }
+}
