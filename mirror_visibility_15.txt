@@ -1,0 +1,8 @@
+/workspace/scratch/interior15/baseline
+RAV4_MIRROR_L n 9 blockers {}
+RAV4_MIRROR_R n 9 blockers {}
+RAV4_MIRROR_CENTER n 9 blockers {}
+/workspace/Assetto-Corsa-Rav4/content/cars/toyota_rav4_adventure_blueflame_x5m
+RAV4_MIRROR_L n 9 blockers {}
+RAV4_MIRROR_R n 9 blockers {}
+RAV4_MIRROR_CENTER n 9 blockers {}

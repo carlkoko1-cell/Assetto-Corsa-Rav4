@@ -1,0 +1,414 @@
+{
+  "release": "0.15",
+  "runtime_tested": false,
+  "models": {
+    "x5.kn5": {
+      "mirrors": {
+        "removed_duplicate_sensor_pod": {
+          "RAV4_V12_CABIN_part_30_PLASTIC_0": {
+            "triangles": 250
+          }
+        },
+        "optical_aim": {
+          "RAV4_MIRROR_L": {
+            "center_m": [
+              1.0239028930664062,
+              1.2196087837219238,
+              0.6500955522060394
+            ],
+            "normal": [
+              -0.29313191496616087,
+              0.07900849928376959,
+              -0.9528018353620011
+            ],
+            "rearward_center_ray": [
+              0.0698291276999139,
+              0.0,
+              -0.9975589671416266
+            ],
+            "pitch_degrees": 0.0,
+            "yaw_degrees": 4.004172940709389,
+            "glass_adjustment_degrees": 4.819066257880724
+          },
+          "RAV4_MIRROR_CENTER": {
+            "center_m": [
+              0.008222617208957672,
+              1.5120445489883423,
+              0.35739846527576447
+            ],
+            "normal": [
+              0.3579381247047904,
+              -0.12764931531004267,
+              -0.9249788922908972
+            ],
+            "rearward_center_ray": [
+              0.0,
+              0.0,
+              -1.0
+            ],
+            "pitch_degrees": 0.0,
+            "yaw_degrees": 0.0,
+            "glass_adjustment_degrees": 2.0206564200332444
+          },
+          "RAV4_MIRROR_R": {
+            "center_m": [
+              -1.0239126980304718,
+              1.2196087837219238,
+              0.6500955522060394
+            ],
+            "normal": [
+              0.489369638627672,
+              0.051724429924540655,
+              -0.8705411765898285
+            ],
+            "rearward_center_ray": [
+              -0.06982912769991378,
+              1.3877787807814457e-17,
+              -0.9975589671416267
+            ],
+            "pitch_degrees": 7.951386703658792e-16,
+            "yaw_degrees": -4.004172940709382,
+            "glass_adjustment_degrees": 14.177491758265376
+          }
+        },
+        "smart_mirror_order": [
+          "left",
+          "center",
+          "right"
+        ]
+      },
+      "paint": {
+        "srgb": [
+          0,
+          149,
+          218
+        ],
+        "manufacturer_reference": "Toyota Blue Flame / 8W9; visual approximation, not spectrophotometer calibrated",
+        "finish": "Solid nonmetallic base, neutral glossy clearcoat",
+        "shared_texture": "RAV4_BlueFlame.dds",
+        "materials": [
+          "lambert1",
+          "Adventure_Rock",
+          "WhiteRoof",
+          "RAV4_Tailgate_BlueFlame"
+        ]
+      },
+      "screen": {
+        "shader": "ksPerPixel",
+        "ambient": 0,
+        "diffuse": 0,
+        "specular": 0,
+        "day_emission": 0.65,
+        "headlights_on_emission": 0.1,
+        "owner": "rav4_instruments.lua",
+        "runtime_tested": false
+      }
+    },
+    "x5_lod_b.kn5": {
+      "mirrors": {
+        "removed_duplicate_sensor_pod": {
+          "RAV4_V12_CABIN_part_30_PLASTIC_0": {
+            "triangles": 139
+          }
+        },
+        "optical_aim": {
+          "RAV4_MIRROR_L": {
+            "center_m": [
+              1.0239028930664062,
+              1.2196087837219238,
+              0.6500860452651978
+            ],
+            "normal": [
+              -0.29313480244723944,
+              0.07900920024545646,
+              -0.9528008888906387
+            ],
+            "rearward_center_ray": [
+              0.06982912769991378,
+              5.551115123125783e-17,
+              -0.9975589671416267
+            ],
+            "pitch_degrees": 3.1805546814635168e-15,
+            "yaw_degrees": 4.004172940709382,
+            "glass_adjustment_degrees": 4.827009946128361
+          },
+          "RAV4_MIRROR_CENTER": {
+            "center_m": [
+              0.008222617208957672,
+              1.5120445489883423,
+              0.35739846527576447
+            ],
+            "normal": [
+              0.3579381247047904,
+              -0.12764931531004267,
+              -0.9249788922908972
+            ],
+            "rearward_center_ray": [
+              0.0,
+              0.0,
+              -1.0
+            ],
+            "pitch_degrees": 0.0,
+            "yaw_degrees": 0.0,
+            "glass_adjustment_degrees": 2.0206564200332444
+          },
+          "RAV4_MIRROR_R": {
+            "center_m": [
+              -1.0239126980304718,
+              1.2196087837219238,
+              0.6500864028930664
+            ],
+            "normal": [
+              0.4893717883535412,
+              0.051724645925338375,
+              -0.8705399552964558
+            ],
+            "rearward_center_ray": [
+              -0.06982912769991378,
+              1.3877787807814457e-17,
+              -0.9975589671416268
+            ],
+            "pitch_degrees": 7.951386703658792e-16,
+            "yaw_degrees": -4.004172940709382,
+            "glass_adjustment_degrees": 14.180282742982278
+          }
+        },
+        "smart_mirror_order": [
+          "left",
+          "center",
+          "right"
+        ]
+      },
+      "paint": {
+        "srgb": [
+          0,
+          149,
+          218
+        ],
+        "manufacturer_reference": "Toyota Blue Flame / 8W9; visual approximation, not spectrophotometer calibrated",
+        "finish": "Solid nonmetallic base, neutral glossy clearcoat",
+        "shared_texture": "RAV4_BlueFlame.dds",
+        "materials": [
+          "lambert1",
+          "Adventure_Rock",
+          "WhiteRoof",
+          "RAV4_Tailgate_BlueFlame"
+        ]
+      },
+      "screen": {
+        "shader": "ksPerPixel",
+        "ambient": 0,
+        "diffuse": 0,
+        "specular": 0,
+        "day_emission": 0.65,
+        "headlights_on_emission": 0.1,
+        "owner": "rav4_instruments.lua",
+        "runtime_tested": false
+      }
+    },
+    "x5_lod_c.kn5": {
+      "mirrors": {
+        "removed_duplicate_sensor_pod": {
+          "RAV4_V12_CABIN_part_30_PLASTIC_0": {
+            "triangles": 51
+          }
+        },
+        "optical_aim": {
+          "RAV4_MIRROR_L": {
+            "center_m": [
+              1.0239028930664062,
+              1.2198641300201416,
+              0.6497772634029388
+            ],
+            "normal": [
+              -0.29323907397044124,
+              0.07889194088567401,
+              -0.9527785194683229
+            ],
+            "rearward_center_ray": [
+              0.06982912769991378,
+              2.7755575615628914e-17,
+              -0.9975589671416268
+            ],
+            "pitch_degrees": 1.5902773407317584e-15,
+            "yaw_degrees": 4.004172940709382,
+            "glass_adjustment_degrees": 4.813020998153427
+          },
+          "RAV4_MIRROR_CENTER": {
+            "center_m": [
+              0.008222617208957672,
+              1.5120445489883423,
+              0.35739846527576447
+            ],
+            "normal": [
+              0.3579381247047904,
+              -0.12764931531004267,
+              -0.9249788922908972
+            ],
+            "rearward_center_ray": [
+              0.0,
+              0.0,
+              -1.0
+            ],
+            "pitch_degrees": 0.0,
+            "yaw_degrees": 0.0,
+            "glass_adjustment_degrees": 2.0206564200332444
+          },
+          "RAV4_MIRROR_R": {
+            "center_m": [
+              -1.0239126980304718,
+              1.2196087837219238,
+              0.6465791165828705
+            ],
+            "normal": [
+              0.4901964413591846,
+              0.05180750982417085,
+              -0.8700709343522572
+            ],
+            "rearward_center_ray": [
+              -0.06982912769991378,
+              1.3877787807814457e-17,
+              -0.997558967141627
+            ],
+            "pitch_degrees": 7.951386703658792e-16,
+            "yaw_degrees": -4.004172940709382,
+            "glass_adjustment_degrees": 11.80281398987787
+          }
+        },
+        "smart_mirror_order": [
+          "left",
+          "center",
+          "right"
+        ]
+      },
+      "paint": {
+        "srgb": [
+          0,
+          149,
+          218
+        ],
+        "manufacturer_reference": "Toyota Blue Flame / 8W9; visual approximation, not spectrophotometer calibrated",
+        "finish": "Solid nonmetallic base, neutral glossy clearcoat",
+        "shared_texture": "RAV4_BlueFlame.dds",
+        "materials": [
+          "lambert1",
+          "Adventure_Rock",
+          "WhiteRoof",
+          "RAV4_Tailgate_BlueFlame"
+        ]
+      },
+      "screen": {
+        "shader": "ksPerPixel",
+        "ambient": 0,
+        "diffuse": 0,
+        "specular": 0,
+        "day_emission": 0.65,
+        "headlights_on_emission": 0.1,
+        "owner": "rav4_instruments.lua",
+        "runtime_tested": false
+      }
+    },
+    "x5_lod_d.kn5": {
+      "mirrors": {
+        "removed_duplicate_sensor_pod": {
+          "RAV4_V12_CABIN_part_30_PLASTIC_0": {
+            "triangles": 24
+          }
+        },
+        "optical_aim": {
+          "RAV4_MIRROR_L": {
+            "center_m": [
+              1.0239028930664062,
+              1.2198641300201416,
+              0.6497772634029388
+            ],
+            "normal": [
+              -0.29323907397044124,
+              0.07889194088567401,
+              -0.9527785194683229
+            ],
+            "rearward_center_ray": [
+              0.06982912769991378,
+              2.7755575615628914e-17,
+              -0.9975589671416268
+            ],
+            "pitch_degrees": 1.5902773407317584e-15,
+            "yaw_degrees": 4.004172940709382,
+            "glass_adjustment_degrees": 4.813020998153427
+          },
+          "RAV4_MIRROR_CENTER": {
+            "center_m": [
+              0.008222617208957672,
+              1.5120445489883423,
+              0.35739846527576447
+            ],
+            "normal": [
+              0.3579381247047904,
+              -0.12764931531004267,
+              -0.9249788922908972
+            ],
+            "rearward_center_ray": [
+              0.0,
+              0.0,
+              -1.0
+            ],
+            "pitch_degrees": 0.0,
+            "yaw_degrees": 0.0,
+            "glass_adjustment_degrees": 2.0206564200332444
+          },
+          "RAV4_MIRROR_R": {
+            "center_m": [
+              -1.0239126980304718,
+              1.2196087837219238,
+              0.6465791165828705
+            ],
+            "normal": [
+              0.4901964413591846,
+              0.05180750982417085,
+              -0.8700709343522572
+            ],
+            "rearward_center_ray": [
+              -0.06982912769991378,
+              1.3877787807814457e-17,
+              -0.997558967141627
+            ],
+            "pitch_degrees": 7.951386703658792e-16,
+            "yaw_degrees": -4.004172940709382,
+            "glass_adjustment_degrees": 11.80281398987787
+          }
+        },
+        "smart_mirror_order": [
+          "left",
+          "center",
+          "right"
+        ]
+      },
+      "paint": {
+        "srgb": [
+          0,
+          149,
+          218
+        ],
+        "manufacturer_reference": "Toyota Blue Flame / 8W9; visual approximation, not spectrophotometer calibrated",
+        "finish": "Solid nonmetallic base, neutral glossy clearcoat",
+        "shared_texture": "RAV4_BlueFlame.dds",
+        "materials": [
+          "lambert1",
+          "Adventure_Rock",
+          "WhiteRoof",
+          "RAV4_Tailgate_BlueFlame"
+        ]
+      },
+      "screen": {
+        "shader": "ksPerPixel",
+        "ambient": 0,
+        "diffuse": 0,
+        "specular": 0,
+        "day_emission": 0.65,
+        "headlights_on_emission": 0.1,
+        "owner": "rav4_instruments.lua",
+        "runtime_tested": false
+      }
+    }
+  }
+}
