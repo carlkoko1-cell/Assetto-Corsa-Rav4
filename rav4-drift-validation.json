@@ -723,5 +723,27 @@
     "original_bank_bytes_preserved": true,
     "GUID_paths_remapped_to": "rav4_drift",
     "BMW_bank_removed": true
+  },
+  "fuel_gauge_calibration": {
+    "tank_liters": 42.0,
+    "segment_threshold_liters": [
+      3.5,
+      10.5,
+      17.5,
+      24.5,
+      31.5,
+      38.5
+    ],
+    "empty_half_full_segment_checks": [
+      0,
+      3,
+      6
+    ]
+  },
+  "static_wheel_fit_checks": {
+    "all_four_LODs": true,
+    "visual_tyre_radii_and_widths_match_donor": true,
+    "axle_Z_and_visual_mount_X_alignment": true,
+    "RPM_visual_controller_and_driver_bindings_identical_to_matte_badge_version": true
   }
 }

@@ -11,6 +11,8 @@ clutch, brakes, drift tyre model and thermal/wear curves, suspension tune,
 mass/inertia, aero, setup, AI, physics anti-lag script and sound are copied.
 The donor UI rates its engine at 800 hp. Physics mass is 1304 kg with driver.
 
+The cabin fuel display is recalibrated to the donor 42-litre tank.
+
 The RAV4 body requires a 2.99016 m wheelbase instead of the Supra's 2.470 m.
 Only that suspension dimension and visual mount offsets are adapted. Donor
 tracks, geometry relative to hubs, camber, springs, dampers and ARBs remain.

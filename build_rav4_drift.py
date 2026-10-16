@@ -126,7 +126,10 @@ def main():
     assert digest(bank)==digest(DONOR/'sfx'/(DONOR_ID+'.bank'))
     assert 'event:/cars/rav4_drift/engine_int' in guid and 'bank:/rav4_drift' in guid and DONOR_ID not in guid
     assert len(list((TARGET/'sfx').glob('*.bank')))==1
-    cfg=readini(TARGET/'extension/ext_config.ini');cfg['EXTRA_SWITCHES']={'SWITCH_F':'Supra anti-lag'};write_ini(TARGET/'extension/ext_config.ini',cfg)
+    cfg=readini(TARGET/'extension/ext_config.ini');cfg['EXTRA_SWITCHES']={'SWITCH_F':'Supra anti-lag'}
+    fuel_sections=sorted([name for name in cfg if name.startswith('EMISSIVE_FUEL_SEGMENT_')],key=lambda name:int(name.rsplit('_',1)[1]))
+    for i,name in enumerate(fuel_sections):cfg[name]['INPUT_THRESHOLD']=str(float(car['FUEL']['MAX_FUEL'])*(i+.5)/len(fuel_sections))
+    write_ini(TARGET/'extension/ext_config.ini',cfg)
     # Ensure complete lookup dependencies. The donor's unused COAST_CURVE
     # filename and legacy WAV declarations do not select active LUTs.
     for p in data.glob('*.ini'):
