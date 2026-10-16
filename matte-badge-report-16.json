@@ -1,0 +1,62 @@
+{
+  "release": "0.16 matte rear Toyota emblem",
+  "status": "passed_offline_checks",
+  "errors": [],
+  "assetto_corsa_runtime_tested": false,
+  "runtime_tested": false,
+  "baseline_archive_sha256": "511bc32a84ef204c2175bf42172506f826a7920ae214eea6e3f1022afe9e8cd3",
+  "models": {
+    "x5.kn5": {
+      "sha256": "78eb33004d8e31c76aed513860a63070bbdd0c360e4ae60b6252839efa3bc478",
+      "isolated_components": {
+        "BODY_ChromeTrims_0": {
+          "badge_triangles": 1840,
+          "source_material": "ChromeTrims"
+        }
+      },
+      "other_vertices_indices_transforms_and_materials_exactly_preserved": true,
+      "matte_shader": "ksPerPixel",
+      "specular": 0.015,
+      "fresnel": 0
+    },
+    "x5_lod_b.kn5": {
+      "sha256": "11de0ce3c971cfa64dedc4d525533d2e9f61fb316b24b852d92ee571c0dd4746",
+      "isolated_components": {
+        "BODY_ChromeTrims_0": {
+          "badge_triangles": 336,
+          "source_material": "ChromeTrims"
+        }
+      },
+      "other_vertices_indices_transforms_and_materials_exactly_preserved": true,
+      "matte_shader": "ksPerPixel",
+      "specular": 0.015,
+      "fresnel": 0
+    },
+    "x5_lod_c.kn5": {
+      "sha256": "7054496d5b01a40b461ea4549865e9e57444d1330b6304e980feb0e8dd102a18",
+      "isolated_components": {
+        "BODY_ChromeTrims_0": {
+          "badge_triangles": 178,
+          "source_material": "ChromeTrims"
+        }
+      },
+      "other_vertices_indices_transforms_and_materials_exactly_preserved": true,
+      "matte_shader": "ksPerPixel",
+      "specular": 0.015,
+      "fresnel": 0
+    },
+    "x5_lod_d.kn5": {
+      "sha256": "98eb49e9c44a7176f7bbce3af660ebf7edfb60502a3d418f1fd8f1628322f26d",
+      "isolated_components": {
+        "BODY_ChromeTrims_0": {
+          "badge_triangles": 178,
+          "source_material": "ChromeTrims"
+        }
+      },
+      "other_vertices_indices_transforms_and_materials_exactly_preserved": true,
+      "matte_shader": "ksPerPixel",
+      "specular": 0.015,
+      "fresnel": 0
+    }
+  }
+}
