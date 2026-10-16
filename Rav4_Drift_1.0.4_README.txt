@@ -1,0 +1,30 @@
+Rav4 Drift 1.0.4 — live traction control off
+
+FULL ZIP: close Assetto Corsa, drag the full ZIP into Content Manager and
+replace Rav4 Drift. Install all car/font files. No previous patch needed.
+SMALL PATCH: requires 1.0.3. Close AC; extract into the Assetto Corsa root
+containing acs.exe, merging content/cars/rav4_drift and replacing files.
+
+The previous version set PRESENT=0 and ACTIVE=0 in electronics.ini. This
+build also uses a separate CSP car-control script to set the live TC mode
+to zero when it is enabled. It checks each update and reapplies after saved
+settings are loaded or the car returns to pits. This is an absolute OFF
+request, not a key toggle. It only runs for the player-driven car, skipping
+AI, other cars and replays. Requires CSP with car-control ac.setTC support.
+
+The gauge/infotainment script and Supra anti-lag physics script are
+byte-preserved. Every physics data file, all four normal-RAV4 wheel models,
+materials, sound and other assets are unchanged from 1.0.3. Factory TC-off
+settings are retained. ABS, stability control and throttle are not altered.
+
+Content Manager's global driving-assists menu is separate from this car's
+live TC mode. Set its traction-control option to Off and stability control
+to 0% for drift driving. Ctrl+T is AC's TC toggle if needed in-session.
+This package does not change your global CM settings or server rules.
+
+Shipped Lua executed in LuaJIT with simulated CSP controls: nonzero modes
+1..12 go to zero, already-off stays off, late settings/reset are corrected,
+AI/other cars/replays are skipped, and missing API reports once without
+throwing. These are offline logic checks, not an Assetto Corsa runtime test.
+Both archives are checked against the working 1.0.3 baseline. Installation,
+actual CSP API behavior and TC intervention still need an in-game check.

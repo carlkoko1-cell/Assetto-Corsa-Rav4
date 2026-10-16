@@ -1,0 +1,20 @@
+{
+  "release": "Rav4 Drift 1.0.4",
+  "status": "passed_offline_checks",
+  "source_archive_sha256": "6f4c21cb602c96dab191ddf0f18f2be23decf4650163e122a06b80f51daa0526",
+  "assetto_corsa_runtime_tested": false,
+  "change": "Dedicated CSP visual/car-control script sets live player TC mode to zero.",
+  "lua_logic_tests": {
+    "engine": "LuaJIT 2.1 via lupa",
+    "startup_and_modes_1_to_12_set_to_zero": true,
+    "already_off_does_not_toggle_or_cycle": true,
+    "late_saved_mode_and_reset_handled": true,
+    "AI_other_cars_and_replays_untouched": true,
+    "missing_API_logs_once_without_throwing": true,
+    "scope": "mocked car-control API; CSP/Assetto Corsa unavailable"
+  },
+  "api_reference": "https://github.com/ac-custom-shaders-patch/acc-extension-config/blob/master/config/cars/kunos/ks_ferrari_488_gt3.ini",
+  "all_physics_data_models_sound_and_existing_gauge_script_byte_preserved": true,
+  "normal_RAV4_exact_wheel_geometry_retained": true,
+  "limitations": "Game runtime unavailable. A global CM assist menu or enforced server setting is not rewritten by this car package."
+}

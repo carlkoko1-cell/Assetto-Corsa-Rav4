@@ -1,0 +1,26 @@
+{
+  "release": "1.0.4",
+  "outputs": [
+    {
+      "file": "Rav4_Drift_1.0.4_Full.zip",
+      "bytes": 185785155,
+      "sha256": "3cae9ef6fbfe11ad87ed9ce863cf168860385def9a03e94c8113e11dc9588618"
+    },
+    {
+      "file": "Rav4_Drift_1.0.4_TC_Fix_Patch.zip",
+      "bytes": 8919,
+      "sha256": "03d641bf844f31ba843777caaf7a4fed4d728fbe362a37ad394f58a206908ee8"
+    }
+  ],
+  "status": "passed_offline_checks",
+  "runtime_tested": false,
+  "changed_members": [
+    "content/cars/rav4_drift/INSTALL_MANIFEST.json",
+    "content/cars/rav4_drift/INSTALL_README.txt",
+    "content/cars/rav4_drift/VALIDATION_REPORT.json",
+    "content/cars/rav4_drift/VISUAL_REVISION_NOTES.md",
+    "content/cars/rav4_drift/extension/ext_config.ini",
+    "content/cars/rav4_drift/extension/rav4_tc_off.lua",
+    "content/cars/rav4_drift/ui/ui_car.json"
+  ]
+}
