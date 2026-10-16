@@ -1,0 +1,33 @@
+{
+  "release": "1.0.2",
+  "outputs": [
+    {
+      "file": "Rav4_Drift_1.0.2.zip",
+      "bytes": 186682438,
+      "sha256": "f645cdda5f3db3f16fc24a821e96e203b32ae611719c81893d10e22c849408e0"
+    },
+    {
+      "file": "Rav4_Drift_1.0.2_Larger_Tyres_TC_Off_Patch.zip",
+      "bytes": 55290539,
+      "sha256": "2fe1f72ad8307e6a8033a95a80d3cab43ca94ade10c857b722d9d4536ba8dadc"
+    }
+  ],
+  "status": "passed_offline_checks",
+  "runtime_tested": false,
+  "diameter_scale": 1.14,
+  "changed_members": [
+    "content/cars/rav4_drift/INSTALL_MANIFEST.json",
+    "content/cars/rav4_drift/INSTALL_README.txt",
+    "content/cars/rav4_drift/VALIDATION_REPORT.json",
+    "content/cars/rav4_drift/VISUAL_REVISION_NOTES.md",
+    "content/cars/rav4_drift/data/drivetrain.ini",
+    "content/cars/rav4_drift/data/electronics.ini",
+    "content/cars/rav4_drift/data/final.rto",
+    "content/cars/rav4_drift/data/tyres.ini",
+    "content/cars/rav4_drift/ui/ui_car.json",
+    "content/cars/rav4_drift/x5.kn5",
+    "content/cars/rav4_drift/x5_lod_b.kn5",
+    "content/cars/rav4_drift/x5_lod_c.kn5",
+    "content/cars/rav4_drift/x5_lod_d.kn5"
+  ]
+}

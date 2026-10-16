@@ -1,0 +1,30 @@
+Rav4 Drift 1.0.2 — larger wheels and factory traction control off
+
+PATCH: requires the working Rav4 Drift 1.0.1 installation. Close Assetto
+Corsa. Extract this ZIP into the Assetto Corsa folder containing acs.exe,
+merging content/cars/rav4_drift and replacing files. Start a new session.
+FULL ZIP: install through Content Manager, including the shared gauge font.
+
+Wheels/tyres are 14% taller: approximately 29.3 inches front / 29.5 rear,
+close to the original RAV4 model's wheel envelope. Tyre widths retain the
+Supra drift setup: 245 mm front / 285 mm rear. All four visual LODs, rim,
+rotor, hub/badge and caliper fit are updated together. Original matte wheel
+materials are byte-preserved. Tyre/rim physics radii match the enlargement;
+wheel angular inertia increases with radius squared. The final drive is
+4.0014 instead of 3.510 to preserve gearing relative to road speed.
+All donor grip, thermal/wear curves, gears, differential and engine remain.
+
+The car explicitly has traction control PRESENT=0, ACTIVE=0. Use Factory
+or Off for traction control in Content Manager's driving assists; a global
+or server-forced On setting is outside the car's factory configuration.
+No per-frame script changes or automatic overrides of your controls.
+
+The native car.ini and suspensions.ini from the owner-confirmed working
+1.0.1 are byte-preserved. Cabin, Android Auto, lights, mirrors, rear matte
+badge, paint shop and audio files are unchanged. The separate BMW-powered
+RAV4 is unchanged. Loose physics data; no data.acd is supplied.
+
+Offline checks cover all four model LODs, wheel dimensions, preserved
+materials/geometry, native INI keys, gearing and package integrity.
+Assetto Corsa is unavailable here. Dynamic clearance at full steering lock
+and suspension compression still needs checking in-game.
