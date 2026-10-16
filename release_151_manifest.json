@@ -1,0 +1,29 @@
+{
+  "release": "0.15.1",
+  "outputs": [
+    {
+      "file": "Toyota_RAV4_Blue_Flame_CARL_Interior_0.15.1.zip",
+      "bytes": 103831213,
+      "sha256": "511bc32a84ef204c2175bf42172506f826a7920ae214eea6e3f1022afe9e8cd3"
+    },
+    {
+      "file": "Toyota_RAV4_Screen_Brightness_0.15.1_Patch.zip",
+      "bytes": 14278,
+      "sha256": "36d8d0a2dc2c38d5900ae8a96c13274332afe3b6272c99bfdd2e4f9435ffc5b8"
+    }
+  ],
+  "runtime_tested": false,
+  "unchanged_baseline_members": 121,
+  "all_unchanged_members_byte_identical": true,
+  "zip_crc": "passed",
+  "changed_car_files": [
+    "extension/rav4_instruments.lua",
+    "extension/ext_config.ini",
+    "ui/ui_car.json",
+    "SCREEN_BRIGHTNESS_HOTFIX.txt",
+    "INSTALL_README.txt",
+    "INSTALL_MANIFEST.json",
+    "VISUAL_REVISION_NOTES.md",
+    "VALIDATION_REPORT.json"
+  ]
+}

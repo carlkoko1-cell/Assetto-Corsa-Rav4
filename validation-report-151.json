@@ -1,0 +1,127 @@
+{
+  "release": "0.15.1",
+  "status": "passed_offline_checks",
+  "errors": [],
+  "assetto_corsa_runtime_tested": false,
+  "baseline_015_archive_sha256": "0d76bd7b2713d4d53ea959671f648dd1f0fba9bfc76fe01619c6c3aef29cbd77",
+  "baseline_geometry_validation_status": "passed_offline_checks",
+  "scope": "Screen backlight values, release labels and documentation only",
+  "day_emission": 2.4,
+  "headlights_on_emission": 1.6,
+  "day_increase_multiplier": 3.692307692307692,
+  "headlights_increase_multiplier": 16.0,
+  "lua_script_sha256": "a197c0610553f29169c6fc511b837d562e4d7261e9a895d6ab117404e44e7800",
+  "rpm_frame_trace_exactly_unchanged": true,
+  "simulation_updates_compared": 4480,
+  "brightness_profiles": [
+    {
+      "fps": 20,
+      "headlights": false,
+      "rpm": 0,
+      "emission": 2.4,
+      "angle_rad": 0.0
+    },
+    {
+      "fps": 20,
+      "headlights": true,
+      "rpm": 3000,
+      "emission": 1.6000000016489229,
+      "angle_rad": 1.1977321991811087
+    },
+    {
+      "fps": 20,
+      "headlights": false,
+      "rpm": 6500,
+      "emission": 2.399999998351077,
+      "angle_rad": 2.5950864315590687
+    },
+    {
+      "fps": 20,
+      "headlights": true,
+      "rpm": 800,
+      "emission": 1.6000000016489229,
+      "angle_rad": 0.3193952531149623
+    },
+    {
+      "fps": 20,
+      "headlights": false,
+      "rpm": 8000,
+      "emission": 2.399999998351077,
+      "angle_rad": 3.193952531149623
+    },
+    {
+      "fps": 60,
+      "headlights": false,
+      "rpm": 0,
+      "emission": 2.3999999999999972,
+      "angle_rad": 7.950135127403742e-39
+    },
+    {
+      "fps": 60,
+      "headlights": true,
+      "rpm": 3000,
+      "emission": 1.6000000016489233,
+      "angle_rad": 1.1977321991811085
+    },
+    {
+      "fps": 60,
+      "headlights": false,
+      "rpm": 6500,
+      "emission": 2.3999999983510776,
+      "angle_rad": 2.5950864315590683
+    },
+    {
+      "fps": 60,
+      "headlights": true,
+      "rpm": 800,
+      "emission": 1.6000000016489233,
+      "angle_rad": 0.31939525311496236
+    },
+    {
+      "fps": 60,
+      "headlights": false,
+      "rpm": 8000,
+      "emission": 2.3999999983510776,
+      "angle_rad": 3.1939525311496224
+    },
+    {
+      "fps": 144,
+      "headlights": false,
+      "rpm": 0,
+      "emission": 2.3999999999999937,
+      "angle_rad": 7.950135127403892e-39
+    },
+    {
+      "fps": 144,
+      "headlights": true,
+      "rpm": 3000,
+      "emission": 1.600000001648923,
+      "angle_rad": 1.197732199181108
+    },
+    {
+      "fps": 144,
+      "headlights": false,
+      "rpm": 6500,
+      "emission": 2.399999998351077,
+      "angle_rad": 2.595086431559068
+    },
+    {
+      "fps": 144,
+      "headlights": true,
+      "rpm": 800,
+      "emission": 1.600000001648923,
+      "angle_rad": 0.3193952531149624
+    },
+    {
+      "fps": 144,
+      "headlights": false,
+      "rpm": 8000,
+      "emission": 2.399999998351077,
+      "angle_rad": 3.193952531149622
+    }
+  ],
+  "models_physics_audio_mirrors_paint_wheels_and_door_assets_unchanged": true,
+  "baseline_user_feedback": "User reports all other 0.15 behavior is perfect",
+  "runtime_notes": "Pure/CSP luminance untested; mocked controller and archive checks only",
+  "unchanged_baseline_archive_members": 121
+}
